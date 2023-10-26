@@ -3,8 +3,7 @@ title: UPEC
 permalink: /about-us/upec/
 description: ""
 ---
-# Establishment of UPEC
-#
+### Establishment of UPEC
 
 ![](/images/ambulance-staff.jpg)
 

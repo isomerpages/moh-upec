@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - UPEC.md
       - UPEC Leadership.md
       - Organisation Chart.md
       - Our Mission and Values.md

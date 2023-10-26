@@ -1,7 +1,5 @@
 logo: /images/logo_upec_updated_20231026.png
 links:
-  - title: Home
-    url: Home
   - title: About Us
     collection: about-us
   - title: Our Work

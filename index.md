@@ -10,7 +10,7 @@ sections:
       title: Unit for Pre-hospital Emergency Care (UPEC)
       subtitle: Our vision is to establish a world-class PEC system, readily
         accessible to all, and provide excellent patient outcomes.
-      background: /images/upec_corporate_image_1400-630.png
+      background: /images/upec_corporate_image_1374-595.png
       button: Contact Us
       url: /contact-us/
       key_highlights:

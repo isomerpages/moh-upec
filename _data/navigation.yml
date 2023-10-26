@@ -6,7 +6,9 @@ links:
     collection: about-us
   - title: Our Work
     collection: example-folder
-  - title: News & Updates
-    collection: about-us
+  - title: News and Updates
+    url: /news-and-updates/
+  - title: Careers
+    url: /careers/
   - title: Contact Us
     url: /contact-us/

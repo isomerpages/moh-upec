@@ -25,6 +25,7 @@ sections:
           url: /privacy/
       variant: center
       backgroundColor: gray
+      size: md
   - infobar:
       title: Infobar title
       subtitle: hello upec

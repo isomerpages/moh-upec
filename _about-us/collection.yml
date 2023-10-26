@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Our Mission and Values.md
       - Role of UPEC.md

@@ -1,10 +1,12 @@
 logo: /images/colored without white background.gif
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Home
+    url: Home
   - title: About Us
+    collection: about-us
+  - title: Our Work
+    collection: example-folder
+  - title: New folder
     collection: about-us
   - title: Contact Us
     url: /contact-us/

@@ -7,8 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Welcome to UPEC
-      subtitle: This is UPEC's website
+      title: Unit for Pre-hospital Emergency Care (UPEC)
+      subtitle: Our vision is to establish a world-class PEC system, readily
+        accessible to all, and provide excellent patient outcomes.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -22,7 +23,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      variant: side
+      variant: center
+      backgroundColor: gray
   - infobar:
       title: Infobar title
       subtitle: hello upec

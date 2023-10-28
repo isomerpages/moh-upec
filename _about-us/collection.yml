@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - UPEC.md
+      - Role of UPEC.md
+      - Our Mission and Values.md
+      - Organisation Chart.md
+      - UPEC Leadership.md

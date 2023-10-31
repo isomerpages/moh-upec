@@ -19,8 +19,8 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Highlight C
+          description: Important highlight C
           url: ""
   - infobar:
       title: Infobar title

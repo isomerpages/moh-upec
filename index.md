@@ -1,15 +1,16 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Unit for Pre-hospital Emergency Care (UPEC)
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: UPEC
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Unit for Pre-hospital Emergency Care (UPEC)
+      subtitle: Our vision is to establish a world-class PEC system, readily
+        accessible to all, and provide excellent patient outcomes.
+      background: /images/upec_corporate_image_1374-595.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -19,12 +20,16 @@ sections:
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Highlight C
-          description: Important highlight C
-          url: ""
+        - title: Page A
+          description: Page A is important too
+          url: /privacy/
+      variant: floating
+      backgroundColor: white
+      size: md
+      alignment: right
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: hello upec
       description: About a sentence worth of description here
       button: Button text
       url: /faq/

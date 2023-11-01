@@ -6,6 +6,8 @@ links:
     collection: example-folder
   - title: News and Updates
     url: /news-and-updates/
+  - title: Events
+    url: /permalink
   - title: Careers
     url: /careers/
   - title: Contact Us

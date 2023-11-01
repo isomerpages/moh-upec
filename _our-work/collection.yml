@@ -2,4 +2,5 @@ collections:
   our-work:
     output: true
     order:
+      - Medical Operations & Oversight/Medical Operations and Oversight.md
       - Medical Operations & Oversight/.keep

@@ -4,7 +4,7 @@ title: Unit for Pre-hospital Emergency Care (UPEC)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: I love UPEC
 sections:
   - hero:
       title: Unit for Pre-hospital Emergency Care (UPEC)

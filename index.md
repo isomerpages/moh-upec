@@ -4,7 +4,7 @@ title: Unit for Pre-hospital Emergency Care (UPEC)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: I love UPEC
+notification: ""
 sections:
   - hero:
       title: Unit for Pre-hospital Emergency Care (UPEC)
@@ -14,16 +14,16 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-      variant: floating
+        - title: Healthcare & EMS Professionals
+          description: EMS training & education info
+          url: test
+        - title: Private Ambulance Operators
+          description: HCSA, credentialing & recert
+          url: test
+        - title: General Public
+          description: Our community programs
+          url: test
+      variant: side
       backgroundColor: white
       size: md
       alignment: right

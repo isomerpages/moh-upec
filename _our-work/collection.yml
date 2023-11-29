@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Policy & Professional Standard/Emergency Medical Technician (EMT)
+        Certification Course.md
       - Policy & Professional Standard/Emergency Medical Services (EMS) Medical
         Directors’ Course.md
       - Policy & Professional Standard/Emergency Medical Technician (EMT)

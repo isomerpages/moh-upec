@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Policy & Professional Standard/Credentialing of Foreign Training
+        Paramedics and Emergency Medical Technicians (EMTs).md
       - Policy & Professional Standard/Overview.md
       - Policy & Professional Standard/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md

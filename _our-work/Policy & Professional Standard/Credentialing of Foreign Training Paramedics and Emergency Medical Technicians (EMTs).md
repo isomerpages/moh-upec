@@ -18,3 +18,9 @@ To ensure that the quality of overseas-trained Paramedics and EMTs practising in
 Applications are reviewed by UPEC with an estimated turnaround time of 3-4 weeks. UPEC will inform you of the outcome of the application.
 
 Applications and queries may be directed to UPEC at [PAO\_enquiry@upec.sg](mailto:PAO_enquiry@upec.sg)
+
+**Relevant documents**
+
+1.  [PRM Credentialing Application Form](http://upec.stackedup.sg/wp-content/uploads/2020/02/PRM-Credentialing-Application-Form-UPEC.pdf)
+2.  [EMT Credentialing Application Form](http://upec.stackedup.sg/wp-content/uploads/2020/02/EMT-Credentialing-Application-Form-UPEC.pdf)
+3.  [List of Recognised Foreign Paramedic Qualifications](http://upec.stackedup.sg/wp-content/uploads/2021/08/List-of-Recognised-Foreign-Paramedic-Qualifications.pdf)

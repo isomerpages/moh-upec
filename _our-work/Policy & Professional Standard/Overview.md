@@ -15,10 +15,7 @@ Each vehicle must meet the licensing requirement and be issued with a Certificat
 
 ### Requirements for Accreditation
 
-We strongly encouraged existing and new Private Ambulance Operators (PAOs) to accredit their fleet as well as comply with the MOH 2017 Standards for Emergency Ambulance Service (EAS) and Medical Transport Service (MTS).
-
-*   [2017 EAS Standards](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/moh-standards-for-emergency-ambulance-service-(2017)-updated-20-jan-2021)
-*   [2017 MTS Standards](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/moh-standards-for-medical-transport-service-(2017)-updated-20-jan-2021)
+We strongly encouraged existing and new Private Ambulance Operators (PAOs) to accredit their fleet as well as comply with the MOH 2017 Standards for Emergency Ambulance Service (EAS) and Medical Transport Service (MTS). [2017 EAS Standards](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/moh-standards-for-emergency-ambulance-service-(2017)-updated-20-jan-2021) [2017 MTS Standards](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/moh-standards-for-medical-transport-service-(2017)-updated-20-jan-2021)
 
 PAOs that are unable to meet the licensing requirements by the time regulations are enforced will not be able to provide EAS or MTS services.
 

@@ -21,4 +21,4 @@ We strongly encouraged existing and new Private Ambulance Operators (PAOs) to ac
 
 PAOs that are unable to meet the licensing requirements by the time regulations are enforced will not be able to provide EAS or MTS services.
 
-To have a better understanding on MOH 2017 Standards for EAS and MTS and the requirements of ambulance service providers, please visit :[MOH | Regulations, Guidelines and Circulars](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/)
+To have a better understanding on MOH 2017 Standards for EAS and MTS and the requirements of ambulance service providers, please visit :[MOH | Regulations, Guidelines and Circulars(https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/)

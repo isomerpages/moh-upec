@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Policy & Professional Standard/Joint ITE UPEC Certificate in Prehospital
+        Emergency Care.md
       - Policy & Professional Standard/Paramedic Transition Scheme.md
       - Policy & Professional Standard/Credentialing of Foreign Training
         Paramedics and Emergency Medical Technicians (EMTs).md

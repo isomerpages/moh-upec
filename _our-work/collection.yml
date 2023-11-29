@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Policy & Professional Standard/Emergency Medical Technician (EMT)
+        Recertification Course.md
       - Policy & Professional Standard/Joint ITE UPEC Certificate in Prehospital
         Emergency Care.md
       - Policy & Professional Standard/Paramedic Transition Scheme.md

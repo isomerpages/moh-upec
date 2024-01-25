@@ -1,0 +1,19 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - Policy & Professional Standard/PAO Engagement Sessions.md
+      - Policy & Professional Standard/National Prehospital Emergency Care
+        Workshop.md
+      - Policy & Professional Standard/Emergency Medical Technician (EMT)
+        Certification Course.md
+      - Policy & Professional Standard/Emergency Medical Technician (EMT)
+        Recertification Course.md
+      - Policy & Professional Standard/Joint ITE UPEC Certificate in Prehospital
+        Emergency Care.md
+      - Policy & Professional Standard/Credentialing of Foreign Training
+        Paramedics and Emergency Medical Technicians (EMTs).md
+      - Policy & Professional Standard/Overview.md
+      - Policy & Professional Standard/.keep
+      - Medical Operations & Oversight/Medical Operations and Oversight.md
+      - Medical Operations & Oversight/.keep

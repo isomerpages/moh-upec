@@ -1,0 +1,14 @@
+logo: /images/logo_upec_updated_20231026.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Work
+    collection: our-work
+  - title: News and Updates
+    url: /news-and-updates/
+  - title: Events
+    url: /permalink
+  - title: Careers
+    url: /careers/
+  - title: Contact Us
+    url: /contact-us/

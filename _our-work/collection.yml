@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Health Informatics & Innovation.md
       - PEC Data & Analytics.md
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md

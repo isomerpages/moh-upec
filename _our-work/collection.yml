@@ -2,7 +2,9 @@ collections:
   our-work:
     output: true
     order:
-      - Training and Education.md
+      - Medical Operations & Oversight/.keep
+      - Medical Operations & Oversight/Medical Operations and Oversight.md
+      - Policy & Professional Standard/.keep
       - Policy & Professional Standard/PAO Engagement Sessions.md
       - Policy & Professional Standard/National Prehospital Emergency Care
         Workshop.md
@@ -15,6 +17,4 @@ collections:
       - Policy & Professional Standard/Credentialing of Foreign Training
         Paramedics and Emergency Medical Technicians (EMTs).md
       - Policy & Professional Standard/Overview.md
-      - Policy & Professional Standard/.keep
-      - Medical Operations & Oversight/Medical Operations and Oversight.md
-      - Medical Operations & Oversight/.keep
+      - Training and Education.md

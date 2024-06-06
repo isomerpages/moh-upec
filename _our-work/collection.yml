@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - PEC Training and Education/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md
       - Policy & Professional Standard/.keep

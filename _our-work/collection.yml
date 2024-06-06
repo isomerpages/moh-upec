@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Training and Education.md
-      - Pre Hospital Education/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md
       - Policy & Professional Standard/.keep

@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Training and Education/Prehospital Education.md
       - Training and Education/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md

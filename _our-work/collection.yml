@@ -2,9 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - PEC Training and Education/.keep
-      - PEC Training and Education/Training and Education.md
-      - PEC Training and Education/Prehospital Education.md
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md
       - Policy & Professional Standard/.keep
@@ -21,6 +18,9 @@ collections:
         Paramedics and Emergency Medical Technicians (EMTs).md
       - Policy & Professional Standard/Overview.md
       - PEC Data & Analytics.md
+      - PEC Training and Education/.keep
+      - PEC Training and Education/Training and Education.md
+      - PEC Training and Education/Prehospital Education.md
       - Health Informatics & Innovation.md
       - Community Responsiveness.md
       - Singapore Resuscitation and First Aid Council.md

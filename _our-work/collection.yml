@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - PEC Training and Education/Prehospital Education.md
       - PEC Training and Education/Training and Education.md
       - PEC Training and Education/.keep
       - Medical Operations & Oversight/.keep

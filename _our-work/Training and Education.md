@@ -16,4 +16,11 @@ standards and better serve patients’ increasingly complex needs.</p>
 worked hand in hand with other stakeholders, such as SCDF, SMTI and paramedic
 training institutions, to enhance the quality of training and education
 for paramedics.</p>
+<hr>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Pre-hospital Education</a>
+</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">PEMC Fellowship Program</a>
+</p>
+<p><a href="" rel="noopener noreferrer nofollow" target="_blank">Resuscitation Academy</a>
+</p>
 <p></p>

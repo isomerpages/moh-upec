@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Healthcare & EMS Professionals
           description: EMS training & education info
-          url: test
+          url: https://staging-lite.d583zrq8vbx3s.amplifyapp.com/training-and-education/
         - title: Private Ambulance Operators
           description: HCSA, credentialing & recert
           url: /policy-professionalstandards/

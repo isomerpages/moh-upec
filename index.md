@@ -30,10 +30,22 @@ sections:
       backgroundColor: white
       size: md
       alignment: right
-  - infobar:
-      title: Infobar title
-      subtitle: hello upec
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - textcards:
+      title: PEC Strategy
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Medical Operations and Oversight
+          description: Coordination of PEC resources, partners to improve OHCA survival
+            and EMS demand
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---

@@ -24,17 +24,7 @@ third_nav_title: PEC Data & Analysis
 <div class="isomer-card-title">2020 OHCA Data Report</div>
 <div class="isomer-card-link">Download here</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2019 report" src="/images/2019_data_report.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">2019 OHCA Data Report</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2019__Final.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2019 report" src="/images/2019_data_report.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2019 OHCA Data Report</div><div class="isomer-card-link">Download here</div></div></a>
 </div>
 <hr>
 <p><strong><u>PUBLISHED PAPERS</u></strong>

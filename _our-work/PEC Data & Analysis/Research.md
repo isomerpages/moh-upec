@@ -23,7 +23,7 @@ trained and equipped volunteers with AED access (including TCPRLink).</p>
 <li>
 <p>Out-of-Hospital Cardiac Arrest Care through Empowered Community First
 Responders: <u>M</u>obile <u>E</u>xternal <u>D</u>efibrillation <u>I</u>nvestigation
-for <u>C</u>ardiac arrest in <u>S</u>ingapore (<strong>MEDICS</strong>).</p>
+for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 </li>
 <li>
 <p>MOH Consolidated Data Repository (MCDR).</p>

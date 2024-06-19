@@ -8,6 +8,7 @@ third_nav_title: PEC Data & Analysis
 <p><strong><u>RESEARCH AREAS</u></strong>
 </p>
 <p></p>
+<hr>
 <p><strong><u>RESEARCH STUDIES</u></strong>
 </p>
 <p><strong>Current/On-going Studies</strong>

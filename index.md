@@ -25,7 +25,7 @@ sections:
           url: https://staging-lite.d583zrq8vbx3s.amplifyapp.com/introduction-about-us/
         - title: General Public
           description: Our community programs
-          url: test
+          url: /community-responsiveness
       variant: side
       backgroundColor: white
       size: md

@@ -12,17 +12,16 @@ third_nav_title: PEC Data & Analysis
 <p><a href="/files/OHCA_Data_Report__2011_2020____ver__May_12_2022___FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">2020 OHCA Data Report</a>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2021____FINAL.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2021 Report" src="/images/2021_data_report.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2021 OHCA Data Report</div><div class="isomer-card-link">Click here to download</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2020____ver__May_12_2022___FINAL.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="2020 Report" src="/images/2020_data_report.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">2020 OHCA Data Report</div>
+<div class="isomer-card-link">Click here to download</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>

@@ -22,7 +22,7 @@ sections:
           url: /policy-professionalstandards/
         - title: PEC Data & Analysis
           description: OHCA reports and data requests
-          url: https://staging-lite.d583zrq8vbx3s.amplifyapp.com/introduction-about-us/
+          url: /introduction-about-us/
         - title: General Public
           description: Our community programs
           url: /community-responsiveness

@@ -11,7 +11,6 @@ third_nav_title: PEC Data & Analysis
 <hr>
 <p><strong><u>TCPRLINK NEWSLETTERS - THE LINK</u></strong>
 </p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

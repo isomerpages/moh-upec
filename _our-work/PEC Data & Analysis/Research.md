@@ -21,18 +21,18 @@ trained and equipped volunteers with AED access (including TCPRLink).</p>
 <p>AED on Wheels: A Pilot Programme to Equip Singapore Taxis with AEDs.</p>
 </li>
 <li>
-<p>Optimizing AED placements.</p>
-</li>
-<li>
-<p>National CPR/AED Survey.</p>
-</li>
-<li>
 <p>Out-of-Hospital Cardiac Arrest Care through Empowered Community First
 Responders: <u>M</u>obile <u>E</u>xternal <u>D</u>efibrillation <u>I</u>nvestigation
 for <u>C</u>ardiac arrest in <u>S</u>ingapore (<strong>MEDICS</strong>).</p>
 </li>
 <li>
-<p>.</p>
+<p></p>
+</li>
+<li>
+<p>Optimizing AED placements.</p>
+</li>
+<li>
+<p>National CPR/AED Survey.</p>
 </li>
 <li>
 <p>ACSP Exploratory study.</p>

@@ -39,7 +39,7 @@ sections:
           description: Coordination of PEC resources, partners to improve OHCA survival
             and EMS demand
           linktext: Learn more
-          url: https://staging-lite.d583zrq8vbx3s.amplifyapp.com/our-work/medical-operations-and-oversight/medicaloperationsandoversight/
+          url: /our-work/medical-operations-and-oversight/medicaloperationsandoversight/
         - title: Card
           description: Card description
           linktext: Learn more

@@ -40,10 +40,11 @@ sections:
             and EMS demand
           linktext: Learn more
           url: /our-work/medical-operations-and-oversight/medicaloperationsandoversight/
-        - title: Card
-          description: Card description
+        - title: Policy & Professional Standards
+          description: Work with MOH to develop  standards for EAS & MTS which is enforced
+            under HCSA
           linktext: Learn more
-          url: ""
+          url: our-work/policy-and-professional-standard/permalink/
         - title: Card
           description: Card description
           linktext: Learn more

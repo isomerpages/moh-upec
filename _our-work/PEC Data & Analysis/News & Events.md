@@ -11,12 +11,40 @@ third_nav_title: PEC Data & Analysis
 <hr>
 <p><strong><u>TCPRLINK NEWSLETTERS</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Issue 1" src="https://placehold.co/600x400">
 </div>
-</details>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Issue 1</div>
+<div class="isomer-card-description">Feb 2023</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Issue 2" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Issue 2</div>
+<div class="isomer-card-description">Mar 2023</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Issue 3" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Issue 3</div>
+<div class="isomer-card-description">April 2023</div>
+</div>
+</div>
 </div>
 <p></p>

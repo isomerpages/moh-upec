@@ -26,7 +26,7 @@ Responders: <u>M</u>obile <u>E</u>xternal <u>D</u>efibrillation <u>I</u>nvestiga
 for <u>C</u>ardiac arrest in <u>S</u>ingapore (<strong>MEDICS</strong>).</p>
 </li>
 <li>
-<p></p>
+<p>MOH Consolidated Data Repository (MCDR).</p>
 </li>
 <li>
 <p>Optimizing AED placements.</p>
@@ -54,8 +54,5 @@ interval for a simplified community-based training.</p>
 <p>Knowledge, Attitudes and Practices of Singaporeans towards Use of the
 Automated External Defibrillator (AED).</p>
 </li>
-<li>
-<p></p>
-</li>
 </ol>
-<p></p>
+<p>MOH Consolidated Data Repository (MCDR)</p>

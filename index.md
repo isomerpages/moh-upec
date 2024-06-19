@@ -19,7 +19,7 @@ sections:
           url: /training-and-education/
         - title: Private Ambulance Operators
           description: HCSA, credentialing & recert
-          url: /policy-professionalstandards/
+          url: /our-work/policy-and-professional-standard/permalink/
         - title: PEC Data & Analysis
           description: OHCA reports and data requests
           url: /introduction-about-us/

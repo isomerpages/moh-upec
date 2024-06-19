@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<p><strong><u>THE TEAM MEMBERS</u></strong>
+<p><strong><u>TEAM MEMBERS</u></strong>
 </p>
 <p><strong>Alexander White (Asst Manager, UPEC)</strong>
 </p>

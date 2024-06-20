@@ -9,7 +9,19 @@ third_nav_title: PEC Data & Analysis
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Out-of-hospital (OHCA): CPR, AED, community-based interventions.</p>
+</li>
+<li>
+<p>Post-OHCA care</p>
+</li>
+<li>
+<p>Quality of bystander CPR</p>
+</li>
+<li>
+<p>Access to AEDs and installation strategies</p>
+</li>
+<li>
+<p>Community response to OHCA</p>
 </li>
 </ol>
 <hr>

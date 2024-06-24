@@ -18,15 +18,10 @@ by any layperson. CPR awareness and training need to start from the community.
 We believe it is important to invest in raising the health literacy/awareness
 of our population, as a long term strategy to improve bystander CPR and
 cardiac arrest survival in our communities.</p>
-<p>The <strong>DARE programme</strong> focuses on educating the public on this
-life-saving skill and aims to increase the survival rate of cardiac arrest
-from 20% to at least 30%, similar to cities such as Seattle, Tokyo or Seoul
-where survival rates range from 30% to 50%.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>The DARE programmes</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>Our signature <strong>DARE</strong> programme focuses on educating the public
+on this life-saving skill and aims to increase the survival rate of cardiac
+arrest from 20% to at least 30%, similar to cities such as Seattle, Tokyo
+or Seoul where survival rates range from 30% to 50%.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -79,9 +74,6 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
-</div>
-</div>
-</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

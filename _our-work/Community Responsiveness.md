@@ -4,14 +4,14 @@ permalink: /community-responsiveness/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About Community Responsiveness</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
-</div>
 <p>Out-of-hospital cardiac arrest (OHCA) occurs when the heart suddenly stops
 beating and happens outside of a hospital. The victim is not responsive
 and does not breathe normally. Mortality is usually high and timely intervention,
@@ -46,6 +46,18 @@ years) and infants (under 1 year) in an additional 30-minutes.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outreach to Preschoolers</div><div class="isomer-card-description">We believe that education should start young. Through storytelling, young participants (aged 4-6 years) learn the emergency ambulance number (995), and gain a basic understanding of chest compressions and using an AED.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Roadshows</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

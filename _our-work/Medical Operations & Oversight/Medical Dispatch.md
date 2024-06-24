@@ -13,10 +13,10 @@ description: One of our key achievements was the collaboration between the
 third_nav_title: Medical Operations & Oversight
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="MHA COS 2018: 995, What's Your Emergency?" src="https://www.mha.gov.sg/images/default-source/htn/img_4133.jpg?sfvrsn=19f217c4_2">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_4133.jpg">
 </div>
+<p></p>
 <p>Your sentences are clear, but there are a few minor adjustments that can
 improve clarity and readability. Here's a revised version: One of our key
 achievements was the collaboration between the Singapore Civil Defence

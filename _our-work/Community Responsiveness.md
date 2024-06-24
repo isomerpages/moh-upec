@@ -9,7 +9,8 @@ description: ""
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>About Community Responsiveness</summary>
+<summary><strong>About Community Responsiveness</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>Out-of-hospital cardiac arrest (OHCA) occurs when the heart suddenly stops
@@ -31,8 +32,22 @@ where survival rates range from 30% to 50%.</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The DARE programme</div><div class="isomer-card-description">Also known as the Dispatcher-Assisted first REsponder, this fun and interactive hands-on programme allows participants to learn how to co-operate with the 995 specialists, perform chest compressions and use an AED on a cardiac arrest victim in under an hour.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The DARE programme</div>
+<div class="isomer-card-description">Also known as the Dispatcher-Assisted first REsponder, this fun and interactive
+hands-on programme allows participants to learn how to co-operate with
+the 995 specialists, perform chest compressions and use an AED on a cardiac
+arrest victim in under an hour.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
@@ -43,10 +58,22 @@ where survival rates range from 30% to 50%.</p>
 <div class="isomer-card-description">In addition to the DARE programme, participants can learn how to perform
 chest compressions and mouth-to-mouth ventilations on children (aged 1-12
 years) and infants (under 1 year) in an additional 30-minutes.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outreach to Preschoolers</div><div class="isomer-card-description">We believe that education should start young. Through storytelling, young participants (aged 4-6 years) learn the emergency ambulance number (995), and gain a basic understanding of chest compressions and using an AED.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Preschoolers</div>
+<div class="isomer-card-description">We believe that education should start young. Through storytelling, young
+participants (aged 4-6 years) learn the emergency ambulance number (995),
+and gain a basic understanding of chest compressions and using an AED.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
@@ -55,9 +82,8 @@ years) and infants (under 1 year) in an additional 30-minutes.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Roadshows</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</div>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

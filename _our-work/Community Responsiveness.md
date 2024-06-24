@@ -19,19 +19,28 @@ by any layperson. CPR awareness and training need to start from the community.
 We believe it is important to invest in raising the health literacy/awareness
 of our population, as a long term strategy to improve bystander CPR and
 cardiac arrest survival in our communities.</p>
-<p>The <strong>Dispatcher-Assisted first REsponder (or DARE) programme</strong> focuses
-on educating the public on this life-saving skill and aims to increase
-the survival rate of cardiac arrest from 20% to at least 30%, similar to
-cities such as Seattle, Tokyo or Seoul where survival rates range from
-30% to 50%.</p>
+<p>The <strong>DARE programme</strong> focuses on educating the public on this
+life-saving skill and aims to increase the survival rate of cardiac arrest
+from 20% to at least 30%, similar to cities such as Seattle, Tokyo or Seoul
+where survival rates range from 30% to 50%.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>The DARE programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Also known as the Dispatcher-Assisted first REsponder, this hands-on programme
-allows participants to learn how to co-operate with the 995 specialists,
-perform chest compressions and use an AED on a cardiac arrest victim in
-under an hour.</p>
+<p>Also known as the <strong>Dispatcher-Assisted first REsponder</strong>,
+this hands-on programme allows participants to learn how to co-operate
+with the 995 specialists, perform chest compressions and use an AED on
+a cardiac arrest victim in under an hour.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Child and Infant CPR</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In addition to the DARE programme, participants can learn how to perform
+chest compressions and mouth-to-mouth ventilations on children (aged 1-12
+years) and infants (under 1 year) in an additional 30-minutes.</p>
 </div>
 </details>
 </div>

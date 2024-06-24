@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
 </div>
 <p>Out-of-hospital cardiac arrest (OHCA) occurs when the heart suddenly stops
 beating and happens outside of a hospital. The victim is not responsive

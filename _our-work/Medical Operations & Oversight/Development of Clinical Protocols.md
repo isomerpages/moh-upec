@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Medical Operations & Oversight
 ---
+<p><strong><u>Development of Clinical Protocols for National EMS</u></strong>
+</p>
 <p>Paramedics are the extended arms of doctors from the hospitals. Critical
 interventions are carried out by SCDF paramedics according to the medical
 protocols approved by the Medical Advisory Committee (MAC) of the SCDF.

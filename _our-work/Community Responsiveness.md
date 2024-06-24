@@ -111,8 +111,8 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <p>2015</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• started DARE in 6 community constituencies (Bedok, Bt. Panjang, CCK,
-Pasir Ris West and Radin Mas)</p>
+<p>• started DARE in 6 community constituencies <em>(ie. Bedok, Bt. Panjang, CCK, Pasir Ris West and Radin Mas)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,10 +120,10 @@ Pasir Ris West and Radin Mas)</p>
 <p>2017</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• CPR+AED education in MOE primary and secondary schools</p>
-<p>• Train-the-Trainer (TTT) to SCDF Officers for CEPP public runs</p>
-<p>• DARE in ITE Orientation Programme for year one students</p>
-<p>• Higher demand for DARE with Safe-A-Life initiative (AED installations)</p>
+<p>• CPR+AED education in MOE primary and secondary schools
+<br>• Train-the-Trainer (TTT) to SCDF Officers for CEPP public runs
+<br>• DARE in ITE Orientation Programme for year one students
+<br>• Higher demand for DARE with the 'Safe-A-Life' initiative</p>
 </td>
 </tr>
 <tr>
@@ -131,11 +131,9 @@ Pasir Ris West and Radin Mas)</p>
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Collaboration with MHA/SCDF for DARE+ (inc. SGSecurecontent)</p>
-<p>• DARE National Publicity Campaign:</p>
-<p>&nbsp;&nbsp;&nbsp; Development of DARE app, website and DARE video feat.
-artist Adrian Phang</p>
-<p>• Introduction to DARE storytelling to Preschools</p>
+<p>• Collaboration with MHA/SCDF for DARE+ <em>(inc. SGSecure contents)</em>
+<br>• DARE National Publicity Campaign
+<br>• Introduction to DARE storytelling to Preschools</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +141,8 @@ artist Adrian Phang</p>
 <p>2019</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Collaboration with MHA’s SGSecure office (SGSecureRoadshows)</p>
+<p>• Collaboration with MHA’s SGSecure office <em>(ie. SGSecure Roadshows)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +150,8 @@ artist Adrian Phang</p>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Introduction to virtual DARE and TTT (covid-19)</p>
+<p>• Introduction to virtual DARE and TTT <em>(covid-19)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,9 +159,9 @@ artist Adrian Phang</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Introduction to enhanced DARE (inc. Child+Infant CPR)</p>
-<p>• Collaboration with NLB for regular DARE sessions</p>
-<p>• Collaboration with MOM in MDW’s Settling-In Programme&nbsp;&nbsp;</p>
+<p>• Introduction to the enhanced DARE <em>(inclusion of Child+Infant CPR)</em>
+<br>• Collaboration with NLB for regular DARE sessions
+<br>• Collaboration with MOM in MDW’s Settling-In Programme&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -208,4 +208,48 @@ and gain a basic understanding of chest compressions and using an AED.</p>
 </div>
 </details>
 </div>
+<p>Get in touch with us today for more information:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank">DARE_programme@upec.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phone</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>(65) 6576 2643</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Facebook</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>#daretosaveaheart</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>instagram</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>@daretosave_sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

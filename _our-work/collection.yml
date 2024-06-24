@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Medical Operations & Oversight/.keep
-      - Medical Operations & Oversight/Medical Operations and Oversight.md
+      - Medical Operations & Oversight/Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md
       - Medical Operations & Oversight/Development of Clinical Protocols for
         National EMS.md

@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Medical Operations & Oversight/National Post Cardiac Arrest and
+        Survivorship (PCAS) Workgroup.md
       - Medical Operations & Oversight/Online Medical Control (OMC) Physicians
         for National EMS.md
       - Medical Operations & Oversight/Development of Clinical Protocols for

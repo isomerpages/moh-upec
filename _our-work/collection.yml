@@ -2,6 +2,8 @@ collections:
   our-work:
     output: true
     order:
+      - Medical Operations & Oversight/Development of Clinical Protocols for
+        National EMS.md
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md

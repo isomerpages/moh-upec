@@ -7,14 +7,14 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
 </div>
-<p>Out-of-hospital cardiac arrest (OHCA) occurs when the heart suddenly stops
-beating and happens outside of a hospital. The victim is not responsive
-and does not breathe normally. Mortality is usually high and timely intervention,
-also known as the ‘Chain of Survival’, is critical to increase the victim’s
-chances of survival. In 2020, more than 3,400 OHCA cases happened in Singapore.</p>
-<p>During this process, the calling of 995, administering of bystander CPR
-and the use of an AED on the victim are interventions that can be performed
-by any layperson. <strong>CPR awareness and training need to start from the community. We believe it is important to invest in raising the health literacy/awareness of our population, as a long term strategy to improve bystander CPR and cardiac arrest survival in our communities.</strong>
+<p>Sudden cardiac arrest (SCA) occurs when the heart suddenly stops beating.
+The victim is not responsive and does not breathe normally. Mortality is
+usually high and timely intervention, also known as the ‘Chain of Survival’,
+is critical to increase the victim’s chances of survival. In 2020, more
+than 3,400 Out-of-Hospital Cardiac Arrest (OHCA) cases happened in Singapore.</p>
+<p>During this process, the calling of 995, administering of bystander CardioPulmonary
+Resuscitation (CPR) and the use of an Automated External Defibrillator
+(AED) on the victim are interventions that can be performed by any layperson. <strong>CPR awareness and training need to start from the community. We believe it is important to invest in raising the health literacy/awareness of our population, as a long term strategy to improve bystander CPR and cardiac arrest survival in our communities.</strong>
 </p>
 <p>The <strong>DARE programme</strong> focuses on educating the public on this
 life-saving skill and aims to increase the survival rate of cardiac arrest
@@ -163,6 +163,42 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Resources</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Frequently Asked Questions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Q: </strong>Can a male bystander, who has no relation to the female
+SCA victim, come to her aid by starting CPR and the using of AED?
+<br><strong>A: </strong>Yes it is alright for a male bystander to dare to
+call 995, start CPR and use an AED on a female victim (especially Muslims)
+if there is no other female bystander able to do so. This is because the
+situation is a desperate emergency case. If there is a female bystander
+or passerby, she should assist the male bystander in the resuscitation
+in any way possible. The female bystander can also be a witness too. ~ <em>Ustaz Syed Nasir Omar, a religious leader with AlFahmi Services</em>
+</p>
+<p><strong>Q: </strong>Should a female bystander who has no experience in
+healthcare attempt to resuscitate SCA victim who may be bigger in size
+than her?
+<br><strong>A: </strong>Yes we encourage female bystanders to dare to save
+a heart even if they are not medically trained or are physically small.
+Anybody can call 995. Any chest compression is better than none at all.
+Anyone can use an AED as the voice prompts are clear. Do not be afraid
+just because you are female; you are equally capable of initiating resuscitation.
+~ <em>Dr Karen Soh, Immediate Past President of the Association of Women Doctors, Singapore</em>
+</p>
 </div>
 </details>
 </div>

@@ -190,7 +190,7 @@ or passerby, she should assist the male bystander in the resuscitation
 in any way possible. The female bystander can also be a witness too. ~ <em>Ustaz Syed Nasir Omar, a religious leader with AlFahmi Services</em>
 </p>
 <p><strong>Q: </strong>Should a female bystander who has no experience in
-healthcare attempt to resuscitate SCA victim who may be bigger in size
+healthcare attempt to resuscitate the SCA victim who may be bigger in size
 than her?
 <br><strong>A: </strong>Yes we encourage female bystanders to dare to save
 a heart even if they are not medically trained or are physically small.

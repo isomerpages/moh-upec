@@ -208,7 +208,8 @@ and gain a basic understanding of chest compressions and using an AED.</p>
 </div>
 </details>
 </div>
-<p>Get in touch with us today for more information:</p>
+<p><strong>Get in touch with us today for more information:</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

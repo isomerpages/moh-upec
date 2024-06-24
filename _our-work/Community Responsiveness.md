@@ -22,6 +22,7 @@ cardiac arrest survival in our communities.</p>
 life-saving skill and aims to increase the survival rate of cardiac arrest
 from 20% to at least 30%, similar to cities such as Seattle, Tokyo or Seoul
 where survival rates range from 30% to 50%.</p>
+<hr>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

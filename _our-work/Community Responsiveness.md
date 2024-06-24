@@ -18,7 +18,7 @@ by any layperson. CPR awareness and training need to start from the community.
 We believe it is important to invest in raising the health literacy/awareness
 of our population, as a long term strategy to improve bystander CPR and
 cardiac arrest survival in our communities.</p>
-<p>Our signature <strong>DARE</strong> programme focuses on educating the public
+<p>Our signature <strong>DARE programme</strong> focuses on educating the public
 on this life-saving skill and aims to increase the survival rate of cardiac
 arrest from 20% to at least 30%, similar to cities such as Seattle, Tokyo
 or Seoul where survival rates range from 30% to 50%.</p>

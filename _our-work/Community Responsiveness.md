@@ -102,7 +102,7 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <p>2015</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• started DARE in 6 community constituencies <em>(ie. Bedok, Bt. Panjang, CCK, Pasir Ris West and Radin Mas)</em>
+<p>• expanded DARE to 6 constituencies <em>(ie. Bedok, Bt. Panjang, CCK, Pasir Ris West and Radin Mas)</em>
 </p>
 </td>
 </tr>

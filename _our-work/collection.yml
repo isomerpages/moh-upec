@@ -2,9 +2,9 @@ collections:
   our-work:
     output: true
     order:
-      - Medical Operations & Oversight/Medical Dispatch.md
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Medical Operations and Oversight.md
+      - Medical Operations & Oversight/Medical Dispatch.md
       - Policy & Professional Standard/.keep
       - Policy & Professional Standard/PAO Engagement Sessions.md
       - Policy & Professional Standard/National Prehospital Emergency Care

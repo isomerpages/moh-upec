@@ -15,5 +15,12 @@ also known as the ‘Chain of Survival’, is critical to increase the victim’
 chances of survival. In 2020, more than 3,400 OHCA cases happened in Singapore.</p>
 <p>During this process, the calling of 995, administering of bystander CPR
 and the use of an AED on the victim are interventions that can be performed
-by any layperson. The Dispatcher-Assisted first REsponder (or DARE) programme
-focuses on educating the public on this life-saving skill.</p>
+by any layperson. CPR awareness and training need to start from the community.
+We believe it is important to invest in raising the health literacy/awareness
+of our population, as a long term strategy to improve bystander CPR and
+cardiac arrest survival in our communities.</p>
+<p>The <strong>Dispatcher-Assisted first REsponder (or DARE) programme</strong> focuses
+on educating the public on this life-saving skill and aims to increase
+the survival rate of cardiac arrest from 20% to at least 30%, similar to
+cities such as Seattle, Tokyo or Seoul where survival rates range from
+30% to 50%.</p>

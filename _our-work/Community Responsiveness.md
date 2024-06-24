@@ -7,12 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DARE_4_3_03.png">
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>About Community Responsiveness</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Out-of-hospital cardiac arrest (OHCA) occurs when the heart suddenly stops
 beating and happens outside of a hospital. The victim is not responsive
 and does not breathe normally. Mortality is usually high and timely intervention,
@@ -28,9 +22,11 @@ cardiac arrest survival in our communities.</p>
 life-saving skill and aims to increase the survival rate of cardiac arrest
 from 20% to at least 30%, similar to cities such as Seattle, Tokyo or Seoul
 where survival rates range from 30% to 50%.</p>
-</div>
-</details>
-</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The DARE programmes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -83,6 +79,9 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
+</div>
+</div>
+</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

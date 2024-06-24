@@ -28,9 +28,9 @@ where survival rates range from 30% to 50%.</p>
 <summary>The DARE programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Also known as the <strong>Dispatcher-Assisted first REsponder</strong>,
-this hands-on programme allows participants to learn how to co-operate
-with the 995 specialists, perform chest compressions and use an AED on
-a cardiac arrest victim in under an hour.</p>
+this fun and interactive hands-on programme allows participants to learn
+how to co-operate with the 995 specialists, perform chest compressions
+and use an AED on a cardiac arrest victim in under an hour.</p>
 </div>
 </details>
 </div>
@@ -41,6 +41,16 @@ a cardiac arrest victim in under an hour.</p>
 <p>In addition to the DARE programme, participants can learn how to perform
 chest compressions and mouth-to-mouth ventilations on children (aged 1-12
 years) and infants (under 1 year) in an additional 30-minutes.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Outreach to Preschoolers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We believe that education should start young. Through storytelling, young
+participants (aged 4-6 years) learn the emergency ambulance number (995),
+and gain a basic understanding of chest compressions and using an AED.</p>
 </div>
 </details>
 </div>

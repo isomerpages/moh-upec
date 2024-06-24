@@ -31,7 +31,6 @@ where survival rates range from 30% to 50%.</p>
 </div>
 </details>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -84,6 +83,99 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 </div>
 </div>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Milestones</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• started DARE in primary and secondary school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• started DARE in 6 community constituencies (Bedok, Bt. Panjang, CCK,
+Pasir Ris West and Radin Mas)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• CPR+AED education in MOE primary and secondary schools</p>
+<p>• Train-the-Trainer (TTT) to SCDF Officers for CEPP public runs</p>
+<p>• DARE in ITE Orientation Programme for year one students</p>
+<p>• Higher demand for DARE with Safe-A-Life initiative (AED installations)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Collaboration with MHA/SCDF for DARE+ (inc. SGSecurecontent)</p>
+<p>• DARE National Publicity Campaign:</p>
+<p>&nbsp;&nbsp;&nbsp; Development of DARE app, website and DARE video feat.
+artist Adrian Phang</p>
+<p>• Introduction to DARE storytelling to Preschools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Collaboration with MHA’s SGSecure office (SGSecureRoadshows)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Introduction to virtual DARE and TTT (covid-19)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Introduction to enhanced DARE (inc. Child+Infant CPR)</p>
+<p>• Collaboration with NLB for regular DARE sessions</p>
+<p>• Collaboration with MOM in MDW’s Settling-In Programme&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Trained over 107,000 individuals and still counting</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

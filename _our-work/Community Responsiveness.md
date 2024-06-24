@@ -24,3 +24,15 @@ on educating the public on this life-saving skill and aims to increase
 the survival rate of cardiac arrest from 20% to at least 30%, similar to
 cities such as Seattle, Tokyo or Seoul where survival rates range from
 30% to 50%.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>The DARE programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Also known as Dispatcher-Assisted first REsponder, this hands-on programme
+allows participants to learn how to co-operate with the 995 specialists,
+perform chest compressions and use an AED on a cardiac arrest victim.</p>
+</div>
+</details>
+</div>
+<p></p>

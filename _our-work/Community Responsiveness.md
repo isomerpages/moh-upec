@@ -89,7 +89,6 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <summary><strong>Milestones</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

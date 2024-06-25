@@ -150,67 +150,8 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DARE
-<br>Quick Guide</p>
-</td>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CPR+AED
-<br>Quick Guide</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>by the Singapore First Aid and Resuscitation Council (SRFAC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>&lt;Link&gt;</p>
+<p>&lt;Link&gt;</p>
 </div>
 </details>
 </div>

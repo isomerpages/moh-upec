@@ -150,11 +150,6 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DARE's Quick Guide</div><div class="isomer-card-link">Click to download</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -169,6 +164,10 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">myResponder app</div><div class="isomer-card-link">Click to download</div></div></a>
 </div>
+</div>
+</details>
+</div>
+<p></p>
 <p>Questions regarding the DARE programme and/or CPR+AED related matters?
 Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
 have the answer you need.</p>

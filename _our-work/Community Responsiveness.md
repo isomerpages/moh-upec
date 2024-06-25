@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover_600x200.png">
 </div>
 <p>Sudden cardiac arrest (SCA) occurs when the heart suddenly stops beating.
 The victim is not responsive and does not breathe normally. Mortality is

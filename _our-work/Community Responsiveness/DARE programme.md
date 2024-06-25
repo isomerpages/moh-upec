@@ -11,7 +11,8 @@ third_nav_title: Community Responsiveness
 <p>Also known as the <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong>,
 this fun and interactive hands-on programme allows participants to learn
 how to co-operate with the 995 specialists, perform chest compressions
-and use an AED on a cardiac arrest victim in under an hour.</p>
+and use an Automated External Defibrillator (AED) on a cardiac arrest victim
+in under an hour.</p>
 <hr>
 <div class="isomer-card-grid">
 <div class="isomer-card">

@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Community Responsiveness
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover_600x200.png">
 </div>
 <hr>
 <div class="isomer-card-grid">

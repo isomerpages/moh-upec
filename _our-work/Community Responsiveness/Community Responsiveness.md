@@ -14,7 +14,7 @@ than 3,400 Out-of-Hospital Cardiac Arrest (OHCA) cases happened in Singapore.</p
 Resuscitation (CPR) and the use of an Automated External Defibrillator
 (AED) on the victim are interventions that can be performed by any layperson. <strong>CPR awareness and training need to start from the community. We believe it is important to invest in raising the health literacy/awareness of our population, as a long term strategy to improve bystander CPR and cardiac arrest survival in our communities.</strong>
 </p>
-<p>The <strong><a href="/the-dare-programme/" rel="noopener noreferrer nofollow" target="_blank">DARE programme</a></strong> focuses
+<p>The <strong><a href="/dare-programme/" rel="noopener noreferrer nofollow" target="_blank">DARE programme</a></strong> focuses
 on educating the public on this life-saving skill and aims to increase
 the survival rate of cardiac arrest from 20% to at least 30%, similar to
 cities such as Seattle, Tokyo or Seoul where survival rates range from

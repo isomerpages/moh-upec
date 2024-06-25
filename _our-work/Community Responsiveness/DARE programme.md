@@ -8,7 +8,7 @@ third_nav_title: Community Responsiveness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover_600x200.png">
 </div>
-<p>Also known as the Dispatcher-Assisted first REsponder (DARE) programme,
+<p>Also known as the <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong>,
 this fun and interactive hands-on programme allows participants to learn
 how to co-operate with the 995 specialists, perform chest compressions
 and use an AED on a cardiac arrest victim in under an hour.</p>

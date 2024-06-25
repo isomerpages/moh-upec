@@ -144,6 +144,16 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Resources</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>&lt;Link&gt;</p>
+<p>&lt;Link&gt;</p>
+</div>
+</details>
+</div>
 <hr>
 <p><strong>Get in touch with us today for more information:</strong>
 </p>

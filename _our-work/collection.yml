@@ -2,8 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Community Responsiveness/About Community Responsiveness.md
-      - Community Responsiveness/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md
@@ -42,5 +40,7 @@ collections:
       - PEC Training and Education/National PEC Training Committee.md
       - PEC Training and Education/PEC Continuing Education.md
       - Health Informatics & Innovation.md
+      - Community Responsiveness/.keep
+      - Community Responsiveness/About Community Responsiveness.md
       - Community Responsiveness.md
       - Singapore Resuscitation and First Aid Council.md

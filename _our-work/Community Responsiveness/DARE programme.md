@@ -51,4 +51,50 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </div>
 </div>
 </div>
+<hr>
+<p><strong>Get in touch with us today for more information:</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank"><u>DARE_programme@upec.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phone</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>(65) 6576 2643</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Facebook</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>#daretosaveaheart</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>instagram</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>@daretosave_sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

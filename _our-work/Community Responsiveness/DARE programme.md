@@ -52,6 +52,98 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </div>
 </div>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Milestones</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• started DARE in primary and secondary school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2015</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• expanded DARE to 6 constituencies <em>(ie. Bedok, Bt. Panjang, CCK, Pasir Ris West and Radin Mas)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• CPR+AED education in MOE primary and secondary schools
+<br>• Train-the-Trainer (TTT) to SCDF Officers for CEPP public runs
+<br>• DARE in ITE Orientation Programme for year one students
+<br>• Higher demand for DARE with the 'Safe-A-Life' initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Collaboration with MHA/SCDF for DARE+ <em>(inc. SGSecure contents)</em>
+<br>• DARE National Publicity Campaign
+<br>• Introduction to DARE storytelling to Preschools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Collaboration with MHA’s SGSecure office <em>(ie. SGSecure Roadshows)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Introduction to virtual DARE and TTT <em>(covid-19)</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Introduction to the enhanced DARE <em>(inclusion of Child+Infant CPR)</em>
+<br>• Collaboration with NLB for regular DARE sessions
+<br>• Collaboration with MOM in MDW’s Settling-In Programme&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>• Trained over 107,000 individuals and still counting</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <hr>
 <p><strong>Get in touch with us today for more information:</strong>
 </p>

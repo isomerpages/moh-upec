@@ -155,6 +155,8 @@ and gain a basic understanding of chest compressions and using an AED.</div>
 </div>
 </details>
 </div>
+<p>Questions regarding DARE programme and/or CPR+AED related matters, our
+<a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>may have your answer.</p>
 <hr>
 <p><strong>Get in touch with us today for more information:</strong>
 </p>

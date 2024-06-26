@@ -19,11 +19,11 @@ care provision and continuity for patients. Under this new regulatory framework,
 all private ambulance services must be licensed. Private Ambulance Operators
 (PAOs) must apply for an HCSA license to provide either Emergency Ambulance
 Service (EAS) or Medical Transport Service (MTS).</p>
-<p>To obtain the HCSA license, EAS and MTS must meet both general licensing
-requirements, applicable to all licensees, and specific requirements for
-ambulances. UPEC is collaborating closely with the Ministry of Health (MOH)
-to establish updated standards for EAS and MTS, which will be enforced
-under the HCSA.</p>
+<p>To obtain the HCSA license, Emergency Ambulance Services (EAS) and Medical
+Transport Services (MTS) must meet both general licensing requirements
+applicable to all licensees and specific requirements for ambulances. After
+meeting these criteria, they must apply to the Ministry of Health (MOH)
+for vehicle inspections. The license will be granted upon passing the inspections.</p>
 <p>For more information on Emergency Ambulance Service (EAS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
 <p>For more information on Medical Transport Service (MTS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
 <p></p>

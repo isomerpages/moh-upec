@@ -9,13 +9,33 @@ third_nav_title: Policy & Professional Standard
 # 
 ![](/images/Amb_Team_National_PEC_workshop.jpeg)
 
-The next run of the National Pre-hospital Emergency Care Workshop will be conducted on 6th December 2023. This course aims to expose the participants to some of the common medical emergencies that they may encounter in their work.
+ITE has just concluded the National Pre-hospital Emergency Care Workshop on 25 June 2024. In previous sessions, ITE has covered patient assessment, as well as common medical and trauma conditions. The session on 25 June 2024 focused on revisiting trauma conditions, aiming to refresh and enhance both theoretical foundations and practical skills.
 
-The workshop will comprise of 3 lectures in the morning, followed by 2 skill stations in the afternoon.
+### Lecture Summaries:
 
-This workshop will be particularly beneficial for those paramedics attending the Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course, as it will help enhance their skills and knowledge prior to the course. Similarly, this workshop will be a good avenue for your staff to upskill and equip themselves.
+**Lecture 1: Bleeding and Shock**
 
-The details of the workshop are as follows:
-TBA
+*   **Content:** Pathophysiology and recognition of the signs and symptoms of hemorrhagic shock.
+*   **Focus:** Management of hemorrhagic shock in the pre-hospital setting using the Patient Assessment Model (PAM).
 
-This workshop is currently fully subsidized by MOH and we strongly encourage full attendance after registration is confirmed as there are limited slots available.
+**Lecture 2: Penetrating Injury**
+
+*   **Content:** Specific areas of the body affected by penetrating injuries.
+*   **Focus:** Emphasizing safe practices, preventing further complications, and managing casualties with stab wounds in the pre-hospital setting using PAM.
+
+**Lecture 3: Head Injury**
+
+*   **Content:** Various types of head injuries, from skull fractures to traumatic brain injuries (TBI).
+*   **Focus:** Recognition of signs and symptoms of head injuries and their management in the pre-hospital setting using PAM.
+
+### Skills Stations:
+
+**Skills Station 1: Management of Patient with Hemorrhagic Shock**
+
+*   **Objective:** Participants will recognize the signs and symptoms of shock and manage a simulated patient in hemorrhagic shock in the pre-hospital setting.
+
+**Skills Station 2: Management of Patient with Head Injury**
+
+*   **Objective:** Participants will recognize the signs and symptoms of head injury and manage a simulated patient with head injury in the pre-hospital setting.
+
+The next workshop is scheduled for December 2024. Please keep an eye out for it and register closer to the date.

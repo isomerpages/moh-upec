@@ -41,8 +41,12 @@ outlined below:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p>Completed training in their home country in paramedicine or nursing deemed
 comparable to accredited local programmes at EMT level.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">

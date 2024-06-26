@@ -10,10 +10,10 @@ third_nav_title: Policy & Professional Standard
 </div>
 <h1>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care Course</h1>
 <h1></h1>
-<p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care Course enables
-both local and foreign paramedics under the EAS and MTS regulations to
-be recognised as qualified paramedics. Current paramedics have to take
-and pass the recertification test once every two years.</p>
+<p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care Course allows
+both local and foreign paramedics to be recognised as qualified paramedics
+under the EAS and MTS regulations. Current paramedics must take and pass
+the recertification test every two years</p>
 <p>The course details are as follows:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5937.jpg">

@@ -35,29 +35,10 @@ skills, and competencies and that vehicles are equipped with the necessary
 equipment, medications, and consumables, all in working order and not expired,
 as stipulated in the EAS and MTS regulations. MOH will conduct random audits
 and compliance checks to ensure ongoing adherence to these requirements.</p>
-<p>From January 3, 2022, it is an offense to provide private emergency ambulance
-and medical transport services without a valid HCSA license. Unlicensed
-service providers may face prosecution and a fine of up to $100,000, imprisonment
-for up to 2 years, or both.</p>
-<p>The public is advised to use only licensed EAS and MTS providers, and
-a list of licensed providers is available on HealthHub (<a href="https://www.healthhub.sg/directory" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/directory</a>).</p>
-<p>Unlicensed providers can be reported to MOH at <a href="https://www.healthhub.sg/directory" rel="noopener noreferrer nofollow" target="_blank">https://www.moh.gov.sg/feedback</a>.</p>
-<p><strong>Common Fees Charged by Private Ambulance Services</strong>
-</p>
-<p>For more information on the fees charged by private ambulance operators,
-please visit the following MOH website links:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">Emergency Ambulance Services (EAS): Common Fees</a> |
-<a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">Detailed Fees</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">Medical Transport Services (MTS): Common Fees</a> |
-<a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">Detailed Fees</a>
-</p>
-</li>
-</ul>
+<p>PAOs that provide EAS and MTS in Singapore without a valid service licence
+issued under the HCSA, or use emergency ambulances (EAs) or medical transports
+(MTs) not listed as licensed conveyances in their HCSA service licence,
+will be in violation of the HCSA.</p>
 <p><strong>Licence Conditions for EAS and MTS under the HCSA</strong>
 </p>
 <p>MOH has developed Licence Conditions (LCs) for Licensees of Emergency

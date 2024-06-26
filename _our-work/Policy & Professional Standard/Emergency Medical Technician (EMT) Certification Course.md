@@ -22,13 +22,13 @@ training and hold valid EMT certification.</p>
 <ul>
 <li>
 <p><strong>HMI Institute of Health Sciences</strong>: Visit <a href="https://hmi-ihs.com/emergency-medical-technician-specialisation/" rel="noreferrer" target="_new">here</a> for
-more details on their Emergency Medical Technician course.</p>
+more details on their EMT course.</p>
 <p></p>
 </li>
 <li>
 <p><strong>Co-operative of Singapore Civil Defence Force Employees</strong>:
 Visit <a href="https://www.cosem.org.sg/training/medical-courses.html?p=2" rel="noreferrer" target="_new">here</a> for
-more information on their Emergency Medical Technician course.</p>
+more information on their EMT course.</p>
 <p></p>
 </li>
 <li>

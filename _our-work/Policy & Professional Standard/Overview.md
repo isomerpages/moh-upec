@@ -13,12 +13,12 @@ third_nav_title: Policy & Professional Standard
 regulate healthcare services in Singapore. It replaces the Private Hospitals
 and Medical Clinics Act (PHMCA), allowing for a more adaptable approach
 to regulating healthcare services beyond physical premises as new care
-models and services develop.</p>
-<p>The HCSA provides regulatory clarity for service providers, enhancing
-care provision and continuity for patients. Under this new regulatory framework,
-all private ambulance services must be licensed. Private Ambulance Operators
-(PAOs) must apply for an HCSA license to provide either Emergency Ambulance
-Service (EAS) or Medical Transport Service (MTS).</p>
+models and services develop. The HCSA provides regulatory clarity for service
+providers, enhancing care provision and continuity for patients.</p>
+<p>Under this new regulatory framework, all private ambulance services must
+be licensed. Private Ambulance Operators (PAOs) must apply for an HCSA
+license to provide either Emergency Ambulance Service (EAS) or Medical
+Transport Service (MTS).</p>
 <p>To obtain the HCSA license, Emergency Ambulance Services (EAS) and Medical
 Transport Services (MTS) must meet both general licensing requirements
 applicable to all licensees and specific requirements for ambulances. After

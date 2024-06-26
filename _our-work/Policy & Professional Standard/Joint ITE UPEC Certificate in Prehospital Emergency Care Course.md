@@ -22,7 +22,8 @@ the recertification test every two years</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course (2024)</p>
+<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</p>
+<p>2024</p>
 </th>
 </tr>
 <tr>

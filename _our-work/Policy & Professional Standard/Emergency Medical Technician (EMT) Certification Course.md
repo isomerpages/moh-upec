@@ -9,7 +9,7 @@ third_nav_title: Policy & Professional Standard
 # 
 ![](/images/Amb_Team_EMT_Full_Course.jpeg)
 
-EMTs are among the first responders on a medical or trauma scene and help start the initial patient care. Thus, it is important for EMTs to possess the necessary competencies and skills to perform their role as a certified EMT. Under the MOH 2017 Standards for EAS and MTS, MTS vehicles are minimally required to be staffed by a certified EMT. As such, PAOs must ensure that their staff have successfully undergone the EMT training and possess valid certification in EMT.
+Emergency Medical Technicians (EMTs) are often the first responders at medical or trauma scenes, providing critical initial patient care. It is essential for EMTs to have the necessary skills and competencies to perform their duties effectively. According to the Healthcare Services Act (HCSA), Medical Transport Service (MTS) vehicles must be staffed with at least one certified EMT as the crew leader. Therefore, Private Ambulance Operators (PAOs) must ensure that their personnel have successfully completed EMT training and hold valid EMT certification.
 
 **Please refer to the following training institutions for more information:**
 

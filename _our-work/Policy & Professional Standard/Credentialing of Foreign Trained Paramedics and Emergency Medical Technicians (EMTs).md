@@ -127,7 +127,7 @@ If you are hiring foreign-trained paramedics, use the Paramedic Credentialing
 Application Form. If you are hiring foreign-trained EMTs, use the EMT Credentialing
 Application Form.</p>
 <p>Applications and inquiries can be directed to UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
-<p><strong>Relevant documents</strong>
+<p><strong>Relevant documents:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>

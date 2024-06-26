@@ -138,8 +138,6 @@ qualifications, which is reviewed periodically.</p>
 <li>
 <p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/List-of-Recognised-Foreign-Paramedic-Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ol>

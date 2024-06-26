@@ -122,17 +122,20 @@ in Singapore, please refer to the list of recognized foreign paramedic
 qualifications, which is reviewed periodically.</p>
 <p>Applications are reviewed by UPEC with an estimated processing time of
 3-4 weeks. UPEC will notify you of the application outcome.</p>
-<p>Applications and inquiries can be directed to UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
-</p>
+<p>Please download the appropriate application forms and send them to UPEC.
+If you are hiring foreign-trained paramedics, use the Paramedic Credentialing
+Application Form. If you are hiring foreign-trained EMTs, use the EMT Credentialing
+Application Form.</p>
+<p>Applications and inquiries can be directed to UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
 <p><strong>Relevant documents</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2020/02/PRM-Credentialing-Application-Form-UPEC.pdf" rel="noopener noreferrer nofollow" target="_blank">PRM Credentialing Application Form</a>
+<p><a href="/files/PRM_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PRM Credentialing Application Form UPEC 2024</a>
 </p>
 </li>
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2020/02/EMT-Credentialing-Application-Form-UPEC.pdf" rel="noopener noreferrer nofollow" target="_blank">EMT Credentialing Application Form</a>
+<p><a href="/files/EMT_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">EMT Credentialing Application Form UPEC 2024</a>
 </p>
 </li>
 <li>

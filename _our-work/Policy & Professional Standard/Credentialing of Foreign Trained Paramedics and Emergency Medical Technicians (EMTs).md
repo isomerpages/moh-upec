@@ -41,15 +41,15 @@ outlined below:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Completed training in their home country in paramedicine or nursing deemed
 comparable to accredited local programmes at EMT level.</p>
 </li>
-</ol>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Completed a certification or programme accredited by professional regulatory
 bodies of Australia and New Zealand, Canada, UK or US; and/or</p>
@@ -67,7 +67,7 @@ to accredited local programmes at paramedic level. &nbsp;</p>
 or if they currently work as paramedics. However, all nurses are required
 to have relevant experience.</p>
 </li>
-</ol>
+</ul>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ to have relevant experience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Review of qualifications by PEC Training Panel</p>
 </li>
@@ -87,10 +87,10 @@ to have relevant experience.</p>
 <p>Candidate to attend and pass a Qualifying Assessment – EMT Recertification
 Programme</p>
 </li>
-</ol>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Review of qualifications by PEC Training Review Panel</p>
 </li>
@@ -101,7 +101,7 @@ Programme</p>
 <p>Candidate to attend and pass a Qualifying Assessment -&nbsp; Joint ITE-UPEC
 Certificate in Pre-hospital Emergency Care course</p>
 </li>
-</ol>
+</ul>
 </td>
 </tr>
 <tr>
@@ -138,6 +138,9 @@ qualifications, which is reviewed periodically.</p>
 <li>
 <p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/List-of-Recognised-Foreign-Paramedic-Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
 </p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <p></p>

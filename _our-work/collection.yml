@@ -3,12 +3,10 @@ collections:
     output: true
     order:
       - Medical Operations & Oversight/.keep
-      - Medical Operations & Oversight/Medical Operations and Oversight.md
+      - Medical Operations & Oversight/Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md
-      - Medical Operations & Oversight/Development of Clinical Protocols for
-        National EMS.md
-      - Medical Operations & Oversight/Online Medical Control (OMC) Physicians
-        for National EMS.md
+      - Medical Operations & Oversight/Development of Clinical Protocols.md
+      - Medical Operations & Oversight/Online Medical Control (OMC) Physicians.md
       - Medical Operations & Oversight/National Post Cardiac Arrest and
         Survivorship (PCAS) Workgroup.md
       - Policy & Professional Standard/.keep
@@ -42,5 +40,9 @@ collections:
       - PEC Training and Education/National PEC Training Committee.md
       - PEC Training and Education/PEC Continuing Education.md
       - Health Informatics & Innovation.md
-      - Community Responsiveness.md
+      - Community Responsiveness/.keep
+      - Community Responsiveness/Community Responsiveness.md
+      - Community Responsiveness/DARE programme.md
+      - Community Responsiveness/Frequently Asked Questions.md
+      - Community Responsiveness (page).md
       - Singapore Resuscitation and First Aid Council.md

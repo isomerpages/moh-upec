@@ -54,16 +54,13 @@ understand the license conditions for EAS and MTS, you may download the
 following documents:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">EAS LC</a>
-</p>
+<p>EAS LC</p>
 </li>
 <li>
-<p><a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">MTS LC</a>
-</p>
+<p>MTS LC</p>
 </li>
 <li>
-<p><a href="https://www.moh.gov.sg/feedback" rel="noreferrer" target="_new">EAS and MTS Regulations</a>
-</p>
+<p>EAS and MTS Regulations</p>
 </li>
 </ol>
 <p>For more information on Emergency Ambulance Service (EAS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>

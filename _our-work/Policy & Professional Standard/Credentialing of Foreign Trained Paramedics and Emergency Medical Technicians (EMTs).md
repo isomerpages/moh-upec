@@ -48,20 +48,16 @@ comparable to accredited local programmes at EMT level.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Completed a certification or programme accredited by professional regulatory
-bodies of Australia and New Zealand, Canada, UK or US; <u>and/or</u>
-</p>
+bodies of Australia and New Zealand, Canada, UK or US; and/or</p>
 </li>
 <li>
 <p>Registered as a paramedic in Australia, New Zealand, Canada, UK or US
-NREMT for at least a year and of good standing; <u>or</u>
-</p>
+NREMT for at least a year and of good standing; or</p>
 </li>
 <li>
 <p>Completed training in their home country in paramedicine or nursing comparable
 to accredited local programmes at paramedic level. &nbsp;</p>
 </li>
-</ol>
-<ol start="4" data-tight="true" class="tight">
 <li>
 <p>Paramedics do not need past experience if their training is equivalent
 or if they currently work as paramedics. However, all nurses are required
@@ -84,21 +80,22 @@ to have relevant experience.</p>
 <p>Obtain Letter of Support for MOM application</p>
 </li>
 <li>
-<p>Candidate to attend and pass a Qualifying Assessment – <u>EMT Recertification Programme</u>
-</p>
+<p>Candidate to attend and pass a Qualifying Assessment – EMT Recertification
+Programme</p>
 </li>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>of qualifications by PEC Training Review Panel</p>
+<p>Review of qualifications by PEC Training Review Panel</p>
 </li>
 <li>
 <p>Obtain Letter of Support for MOM application</p>
 </li>
 <li>
-<p>Candidate to attend and pass a Qualifying Assessment -&nbsp; <u>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care</u> course</p>
+<p>Candidate to attend and pass a Qualifying Assessment -&nbsp; Joint ITE-UPEC
+Certificate in Pre-hospital Emergency Care course</p>
 </li>
 </ol>
 </td>

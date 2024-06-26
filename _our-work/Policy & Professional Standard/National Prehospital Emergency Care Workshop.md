@@ -10,8 +10,8 @@ third_nav_title: Policy & Professional Standard
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_National_PEC_workshop.jpeg">
 </div>
-<p>ITE has just concluded the National Pre-hospital Emergency Care Workshop
-on 25 June 2024. In previous sessions, ITE has covered patient assessment,
+<p>ITE has concluded the National Pre-hospital Emergency Care Workshop on
+25 June 2024. In previous sessions, ITE has covered patient assessment,
 as well as common medical and trauma conditions. The session on 25 June
 2024 focused on revisiting trauma conditions, aiming to refresh and enhance
 both theoretical foundations and practical skills.</p>

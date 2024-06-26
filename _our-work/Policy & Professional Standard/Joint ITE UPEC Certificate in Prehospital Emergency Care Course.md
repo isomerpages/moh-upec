@@ -12,7 +12,7 @@ third_nav_title: Policy & Professional Standard
 both local and foreign paramedics to be recognised as qualified paramedics
 under the EAS and MTS regulations. Current paramedics must take and pass
 the recertification test every two years</p>
-<p>The course details are as follows:</p>
+<p>The details of the 2024 course are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,12 +23,76 @@ the recertification test every two years</p>
 <tr>
 <th rowspan="1" colspan="3">
 <p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</p>
-<p>2024</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p></p>
+<p></p>
+<p></p>
+<p>1st Intake</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>2nd Intake</p>
+</td>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p>3rd Intake</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -44,25 +108,8 @@ the recertification test every two years</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -77,14 +124,8 @@ the recertification test every two years</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

@@ -41,14 +41,13 @@ issued under the HCSA, or use emergency ambulances (EAs) or medical transports
 will be in violation of the HCSA.</p>
 <p><strong>Licence Conditions for EAS and MTS under the HCSA</strong>
 </p>
-<p>MOH has developed Licence Conditions (LCs) for Licensees of Emergency
-Ambulance Service (EAS) and Medical Transport Service (MTS) under the HCSA
-to ensure safe service provision. The EAS LCs and MTS LCs outline the mandatory
-requirements for operating an EAS or MTS and are applicable alongside the
-relevant regulations under the HCSA, including the Healthcare Services
-(General) Regulations, Healthcare Services (Emergency Ambulance and Medical
-Transport Service) Regulations, and Healthcare Services (Advertisement)
-Regulations.</p>
+<p>MOH has developed Licence Conditions (LCs) for Licensees of EAS and MTS
+under the HCSA to ensure safe service provision. The EAS LCs and MTS LCs
+outline the mandatory requirements for operating an EAS or MTS and are
+applicable alongside the relevant regulations under the HCSA, including
+the Healthcare Services (General) Regulations, Healthcare Services (Emergency
+Ambulance and Medical Transport Service) Regulations, and Healthcare Services
+(Advertisement) Regulations.</p>
 <p>Licensees must comply with the General Regulations, Advertisement Regulations,
 Fees Regulations, and EAS and MTS Regulations under the HCSA. To better
 understand the license conditions for EAS and MTS, you may download the

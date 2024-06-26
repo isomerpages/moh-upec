@@ -24,8 +24,6 @@ requirements, applicable to all licensees, and specific requirements for
 ambulances. UPEC is collaborating closely with the Ministry of Health (MOH)
 to establish updated standards for EAS and MTS, which will be enforced
 under the HCSA.</p>
-<p>For more information on Emergency Ambulance Service (EAS), please click
-here.</p>
-<p>For more information on Medical Transport Service (MTS), please click
-here.</p>
+<p>For more information on Emergency Ambulance Service (EAS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
+<p>For more information on Medical Transport Service (MTS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
 <p></p>

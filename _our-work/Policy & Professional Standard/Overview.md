@@ -54,13 +54,16 @@ understand the license conditions for EAS and MTS, you may download the
 following documents:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>EAS LC</p>
+<p>EAS LC <a href="/files/Licence_Conditions_for_EAS_HCSA_3_Jan_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 </li>
 <li>
-<p>MTS LC</p>
+<p>MTS LC <a href="/files/Licence_Conditions_for_MTS_HCSA_3_Jan_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 </li>
 <li>
-<p>EAS and MTS Regulations</p>
+<p>EAS and MTS Regulations <a href="/files/Healthcare_Services_Act_EAS_and_MTS_regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 </li>
 </ol>
 <p>For more information on Emergency Ambulance Service (EAS), please <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>

@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Policy & Professional Standard
 ---
-# Policy & Professional Standards
-# 
+# **Policy & Professional Standards**
+
 ![](/images/Coverpage_picture.jpeg)Healthcare Services Act (HCSA), slated to be implemented in 2022, will be replacing the Private Hospitals and Medical Clinics Act (PMHCA) where regulatory compliances go according to the nature and type of services provided over premise based licensing. More information about HCSA are available at this [link](https://www.moh.gov.sg/hcsa/home).
 
 In the new regulatory framework, under HCSA, all private ambulance services will need to be licensed. The Private Ambulance Operators (PAOs) will be required to apply for a HCSA license in order to provide either Emergency Ambulance Service (EAS) or Medical Transport Service (MTS).

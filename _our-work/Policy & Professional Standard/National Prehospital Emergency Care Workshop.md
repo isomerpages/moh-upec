@@ -46,7 +46,7 @@ setting using PAM.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Content:</strong> Various types of head injuries, from skull fractures
-to traumatic brain injuries (TBI).</p>
+to Traumatic Brain Injuries (TBI).</p>
 </li>
 <li>
 <p><strong>Focus:</strong> Recognition of signs and symptoms of head injuries

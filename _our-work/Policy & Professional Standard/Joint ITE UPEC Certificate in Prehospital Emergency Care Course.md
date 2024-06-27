@@ -186,7 +186,7 @@ now successfully integrated into the STEP platform for registration. Please
 download the PDF for the registration process.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Joint_Cert_Step_Platform_Registration_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Cert STEP Platform Registration Process </a>
+<p><a href="/files/Joint_Cert_Step_Platform_Registration_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Cert STEP Platform Registration Process</a>
 </p>
 </li>
 </ul>

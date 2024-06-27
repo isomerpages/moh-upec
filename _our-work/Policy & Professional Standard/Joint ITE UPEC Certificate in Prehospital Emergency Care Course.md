@@ -33,27 +33,27 @@ the recertification test every two years</p>
 <p>1st Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Course duration: 29 Jan - 7 Mar 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Briefing: 26 Jan 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Self-directed learning: 29 Jan - 1 Mar 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Face-to-Face assessment: 6 - 8 Mar 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Retest (if applicable): 13 Mar 2024</p>
 </td>
 </tr>
 <tr>
@@ -64,27 +64,27 @@ the recertification test every two years</p>
 <p>2nd Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Course duration: 27 May - 4 July</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Briefing: 24 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Self-directed learning:</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Face-to-Face assessment:</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Retest (if applicable):</p>
 </td>
 </tr>
 <tr>
@@ -95,27 +95,27 @@ the recertification test every two years</p>
 <p>3rd Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Course duration: 21 Oct - 28 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Briefing: 18 Oct 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Self-directed learning: 21 Oct - 22 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Face-to-Face assessment: 26 - 28 Nov 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Retest (if applicable): 4 Dec 2024</p>
 </td>
 </tr>
 </tbody>

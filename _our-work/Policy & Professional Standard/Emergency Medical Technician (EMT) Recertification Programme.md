@@ -24,8 +24,12 @@ follows:</p>
 <p><strong>2nd Day:</strong> 8:30 AM - 1:00 PM</p>
 </li>
 </ul>
-<p><strong>Venue:</strong> Alice Lee Institute of Advanced Nursing 168 Jalan
-Bukit Merah Connection One Tower 1, #18-00 Singapore 150168</p>
+<p><strong>Venue:</strong> 
+</p>
+<p>SingHealth Alice Lee Institute of Advanced Nursing</p>
+<p>168 Jalan Bukit Merah</p>
+<p>Connection One Tower 1, #18-00</p>
+<p>Singapore 150168</p>
 <p>For details on course fees and application procedures, please visit their
 <a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank">website</a>for more information.</p>
 <p></p>

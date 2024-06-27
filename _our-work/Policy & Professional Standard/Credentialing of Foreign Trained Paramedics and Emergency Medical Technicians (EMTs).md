@@ -124,7 +124,7 @@ to have relevant experience.</p>
 </tbody>
 </table>
 <p>To maintain high standards for overseas-trained Paramedics and EMTs practicing
-in Singapore, please refer to the list of recognized foreign paramedic
+in Singapore, please refer to the list of recognised foreign paramedic
 qualifications, which is reviewed periodically.</p>
 <p>Applications are reviewed by UPEC with an estimated processing time of
 3-4 weeks. UPEC will notify you of the application outcome.</p>

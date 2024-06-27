@@ -11,7 +11,33 @@ third_nav_title: Policy & Professional Standard
 <p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care Course allows
 both local and foreign paramedics to be recognised as qualified paramedics
 under the EAS and MTS regulations. Current paramedics must take and pass
-the recertification test every two years</p>
+the recertification test every two years.</p>
+<h4>Course Information</h4>
+<p>The course starts with a five-week self-directed learning phase, where
+participants will complete online quizzes and participate in discussions.
+This is followed by a 3-day face-to-face (F2F) session at ITE College East.
+The third day of the F2F session will include both theory and practical
+assessments. To successfully complete the course, participants must attend
+the required F2F sessions and pass both assessments. Additionally, a course
+briefing will be held, during which textbooks will be provided to participants
+for the course duration.</p>
+<h4>Course Application</h4>
+<p>Applicants must meet one of the following criteria to be eligible for
+the course:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess a Paramedic Level III certificate (SAF/ SCDF)</p>
+</li>
+<li>
+<p>Hold a Higher Nitec in Paramedic &amp; Emergency Care</p>
+</li>
+<li>
+<p>Have a Diploma in Paramedicine (NYP)</p>
+</li>
+<li>
+<p>Provide a letter from UPEC</p>
+</li>
+</ul>
 <p>The details of the 2024 course are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>

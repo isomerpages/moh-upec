@@ -90,7 +90,7 @@ the course:</p>
 <p>2nd Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Course duration: 27 May - 4 July</p>
+<p>Course duration: 27 May - 4 July 2024</p>
 </td>
 </tr>
 <tr>
@@ -100,17 +100,17 @@ the course:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Self-directed learning:</p>
+<p>Self-directed learning: 27 May - 4 July 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Face-to-Face assessment:</p>
+<p>Face-to-Face assessment: 2 - 4 July 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Retest (if applicable):</p>
+<p>Retest (if applicable): 10 July 2024</p>
 </td>
 </tr>
 <tr>

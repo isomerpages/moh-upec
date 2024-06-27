@@ -37,7 +37,7 @@ have the appropriate training, skills, and competencies. It also mandates
 that vehicles are equipped with the necessary equipment, medications, and
 consumables, all of which must be in working order and not expired, as
 stipulated in the EAS and MTS regulations. To ensure compliance, MOH will
-conduct random audits and compliance checks.</p>
+conduct inspections and compliance checks.</p>
 <p>PAOs that provide EAS and MTS in Singapore without a valid service licence
 issued under the HCSA, or use emergency ambulances (EAs) or medical transports
 (MTs) not listed as licensed conveyances in their HCSA service licence,

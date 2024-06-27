@@ -6,8 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: Policy & Professional Standard
 ---
-<h1>Credentialing Framework for Foreign-Trained Paramedics&nbsp;&amp;&nbsp;Emergency Medical Technicians (EMTs)</h1>
-<h1></h1>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Credentialing_Framework.jpg">
 </div>

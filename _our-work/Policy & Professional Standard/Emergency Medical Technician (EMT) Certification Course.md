@@ -18,21 +18,17 @@ one certified EMT as the crew leader. Therefore, Private Ambulance Operators
 (PAOs) must ensure that their personnel have successfully completed EMT
 training and hold valid EMT certification.</p>
 <p>For more information, please refer to the following training institutions:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p><strong>HMI Institute of Health Sciences</strong>: Visit <a href="https://hmi-ihs.com/emergency-medical-technician-specialisation/" rel="noreferrer" target="_new">here</a> for
-more details on their EMT course.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Co-operative of Singapore Civil Defence Force Employees</strong>:
-Visit <a href="https://www.cosem.org.sg/training/medical-courses.html?p=2" rel="noreferrer" target="_new">here</a> for
-more information on their EMT course.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Lentor Training Centre</strong>: Visit <a href="https://lentortraining.com/emt-course/" rel="noreferrer" target="_new">here</a> for details on their
+<p>HMI Institute of Health Sciences: Click here for more details on their
 EMT course.</p>
+</li>
+<li>
+<p>Co-operative of Singapore Civil Defence Force Employees: Click here to
+access their EMT course information.</p>
+</li>
+<li>
+<p>Lentor Training Centre: Click here for details on their EMT course</p>
 </li>
 </ul>
 <p></p>

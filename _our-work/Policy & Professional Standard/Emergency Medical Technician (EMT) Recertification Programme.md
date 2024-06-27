@@ -24,7 +24,8 @@ follows:</p>
 <p><strong>2nd Day:</strong> 8:30 AM - 1:00 PM</p>
 </li>
 </ul>
-<p><strong>Venue:</strong> 
+<p></p>
+<p><strong>Venue:</strong>
 </p>
 <p>SingHealth Alice Lee Institute of Advanced Nursing</p>
 <p>168 Jalan Bukit Merah</p>

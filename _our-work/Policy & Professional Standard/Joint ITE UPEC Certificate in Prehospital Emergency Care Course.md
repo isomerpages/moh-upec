@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Policy & Professional Standard
 ---
-<h1><strong>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Amb_Team_Joint_ITE_UPEC_Course.jpeg">

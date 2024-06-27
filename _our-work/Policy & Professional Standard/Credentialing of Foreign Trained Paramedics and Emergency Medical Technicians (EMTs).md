@@ -83,7 +83,7 @@ to have relevant experience.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Review of qualifications by PEC Training Panel</p>
+<p>Review of qualifications by PEC Training Review Panel</p>
 </li>
 <li>
 <p>Obtain Letter of Support for MOM application</p>

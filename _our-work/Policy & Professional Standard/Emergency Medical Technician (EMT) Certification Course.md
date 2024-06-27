@@ -20,15 +20,18 @@ training and hold valid EMT certification.</p>
 <p>For more information, please refer to the following training institutions:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HMI Institute of Health Sciences: Click here for more details on their
-EMT course.</p>
+<p><strong>HMI Institute of Health Sciences</strong>: <a href="https://hmi-ihs.com/emergency-medical-technician-specialisation/" rel="noopener noreferrer nofollow" target="_blank">Click</a> here
+for more details on their EMT course.</p>
+<p></p>
 </li>
 <li>
-<p>Co-operative of Singapore Civil Defence Force Employees: Click here to
-access their EMT course information.</p>
+<p><strong>Co-operative of Singapore Civil Defence Force Employees (COSEM)</strong>:
+<a href="https://www.cosem.org.sg/training/medical-courses.html?p=2" rel="noopener noreferrer nofollow" target="_blank">Click</a>here to access their EMT course information.</p>
+<p></p>
 </li>
 <li>
-<p>Lentor Training Centre: Click here for details on their EMT course</p>
+<p><strong>Lentor Training Centre</strong>: <a href="https://lentortraining.com/emt-course/" rel="noopener noreferrer nofollow" target="_blank">Click</a> here for details
+on their EMT course.</p>
 </li>
 </ul>
 <p></p>

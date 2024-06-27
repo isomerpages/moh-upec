@@ -8,6 +8,9 @@ third_nav_title: Policy & Professional Standard
 ---
 <h1>Credentialing Framework for Foreign-Trained Paramedics&nbsp;&amp;&nbsp;Emergency Medical Technicians (EMTs)</h1>
 <h1></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Credentialing_Framework.jpg">
+</div>
 <p>The Ministry of Health (MOH) has regulated private ambulance services
 as either Emergency Ambulance Service (EAS) or Medical Transport Service
 (MTS), licensing them under the Healthcare Services Act (HCSA) effective

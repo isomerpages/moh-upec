@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Policy & Professional Standard
 ---
 <h1>National Pre-hospital Emergency Care Workshop</h1>
-<h1></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_National_PEC_workshop.jpeg">
 </div>
@@ -74,3 +73,6 @@ setting.</p>
 </ul>
 <p>The next workshop is scheduled for December 2024. Please keep an eye out
 for it and register closer to the date.</p>
+<p></p>
+<p></p>
+<p></p>

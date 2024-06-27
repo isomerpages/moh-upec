@@ -20,17 +20,18 @@ find resources from the various PAO engagement sessions conducted over
 the past years.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/09/PEC-Engagement_for-circulation-2014-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">PAO Engagement Session 2014</a>
+<p><a href="/files/PEC_Engagement_for_circulation_2014_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">PAO Engagement Session 2014</a>
 </p>
 </li>
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/PAO-Briefing-Session-9-Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">PAO Briefing Session 2015</a>&nbsp;|&nbsp;
-<a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/Briefing-for-PAO-9-Jan-updated-e2i.pdf" rel="noopener noreferrer nofollow" target="_blank">e2i (Employment and Employability Institute)</a>&nbsp;|
-<br><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/Briefing-to-PAOs-_9-Jan-2015.pdf" rel="noopener noreferrer nofollow" target="_blank">SingHealth Alice Lee Institute of Advanced Nursing(IAN)</a>
+<p><a href="/files/Briefing_for_PAO_9_Jan_updated_e2i.pdf" rel="noopener noreferrer nofollow" target="_blank">e2i (Employment and Employability Institute</a>|</p>
+</li>
+<li>
+<p><a href="/files/Briefing_to_PAOs__9_Jan_2015_IAN.pdf" rel="noopener noreferrer nofollow" target="_blank">SingHealth Alice Lee Institute of Advanced Nursing (IAN)</a>
 </p>
 </li>
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/Credentialing-Framework-Slides_final-17-and-18-Oct.pdf" rel="noopener noreferrer nofollow" target="_blank">PAO Sharing Session 2019</a>
+<p><a href="/files/Credentialing_Framework_Slides_final_17_and_18_Oct.pdf" rel="noopener noreferrer nofollow" target="_blank">PAO Sharing Session on Credentialing 2019</a>
 </p>
 </li>
 </ul>

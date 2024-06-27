@@ -14,27 +14,30 @@ third_nav_title: Policy & Professional Standard
 (PHMCA). The Healthcare Services Act (HCSA) aims to enhance patient safety
 and well-being while enabling the Ministry of Health (MOH) to adopt a more
 flexible approach to regulating the rapidly evolving healthcare landscape.</p>
-<p>The HCSA introduces a service-based licensing framework, allowing healthcare
-providers to obtain licenses based on the specific services they offer,
-unlike the previous premises-based licensing framework under the PHMCA.
-The implementation of the HCSA is divided into three phases: Phase 1 began
-in January 2022, followed by Phase 2 in June 2023, and Phase 3 by the end
-of 2023.</p>
+<p>One of the key changes introduced by the HCSA is a service-based licensing
+framework, which allows healthcare providers to obtain licenses based on
+the specific services they offer, unlike the previous premises-based licensing
+framework under the PHMCA. The implementation of the HCSA is divided into
+three phases: Phase 1 began in January 2022, followed by Phase 2 in June
+2023, and Phase 3 by the end of 2023.</p>
 <p><strong>HCSA Ambulance Regulatory Framework</strong>
 </p>
-<p>To improve patient care and ensure the safety and welfare of those seeking
-ambulance services, all private ambulance services must be licensed under
-the HCSA starting from January 3, 2022. Private Ambulance Operators (PAOs)
-must apply for an HCSA license to provide either Emergency Ambulance Service
-(EAS) or Medical Transport Service (MTS).</p>
-<p>The HCSA also introduces the role of the Clinical Governance Officer (CGO).
-PAOs must establish a clinical governance framework, including oversight
-by a CGO responsible for the clinical and technical aspects of their services.
-They must ensure that EAS and MTS crew members have the appropriate training,
-skills, and competencies and that vehicles are equipped with the necessary
-equipment, medications, and consumables, all in working order and not expired,
-as stipulated in the EAS and MTS regulations. MOH will conduct random audits
-and compliance checks to ensure ongoing adherence to these requirements.</p>
+<p>In line with the HCSA’s objectives, a new regulatory framework for ambulance
+services was established to improve patient care and ensure the safety
+and welfare of those seeking ambulance services. As of January 3, 2022,
+all private ambulance services must be licensed under the HCSA. Private
+Ambulance Operators (PAOs) are required to apply for an HCSA license to
+provide either Emergency Ambulance Service (EAS) or Medical Transport Service
+(MTS).</p>
+<p>Additionally, the HCSA introduces the role of the Clinical Governance
+Officer (CGO). PAOs must establish a clinical governance framework, including
+oversight by a CGO who is responsible for the clinical and technical aspects
+of their services. This framework ensures that EAS and MTS crew members
+have the appropriate training, skills, and competencies. It also mandates
+that vehicles are equipped with the necessary equipment, medications, and
+consumables, all of which must be in working order and not expired, as
+stipulated in the EAS and MTS regulations. To ensure compliance, MOH will
+conduct random audits and compliance checks.</p>
 <p>PAOs that provide EAS and MTS in Singapore without a valid service licence
 issued under the HCSA, or use emergency ambulances (EAs) or medical transports
 (MTs) not listed as licensed conveyances in their HCSA service licence,

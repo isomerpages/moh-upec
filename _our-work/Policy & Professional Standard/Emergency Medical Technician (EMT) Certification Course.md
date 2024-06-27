@@ -5,10 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Policy & Professional Standard
 ---
-<h1>Emergency Medical Technician (EMT) Certification Course</h1>
-<h1></h1>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_EMT_Full_Course.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Amb_Team_EMT_Full_Course.jpeg">
 </div>
 <p>Emergency Medical Technicians (EMTs) are often the first responders at
 medical or trauma scenes, providing critical initial patient care. It is

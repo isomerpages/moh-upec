@@ -181,3 +181,14 @@ in SSG’s course fee funding.
 <br>https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html</p>
 <p>Kindly take note that the course fee subsidy is only applicable once per
 participant.</p>
+<p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course is
+now successfully integrated into the STEP platform for registration. Please
+download the PDF for the registration process.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Joint_Cert_Step_Platform_Registration_Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint Cert STEP Platform Registration Process </a>
+</p>
+</li>
+</ul>
+<p>For further clarification, you may contact Ms. Belinda Ho at 6590 2146
+or <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>.</p>

@@ -144,17 +144,6 @@ the course:</p>
 <p>Retest (if applicable): 4 Dec 2024</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>The fee payable for 2024 is as follows:</p>

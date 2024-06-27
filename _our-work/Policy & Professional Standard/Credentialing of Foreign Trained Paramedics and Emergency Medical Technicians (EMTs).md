@@ -87,8 +87,8 @@ to have relevant experience.</p>
 <p>Obtain Letter of Support for MOM application</p>
 </li>
 <li>
-<p>Candidate to attend and pass a Qualifying Assessment – EMT Recertification
-Programme</p>
+<p>Candidate to attend and pass a Qualifying Assessment – <strong>EMT Recertification Programme</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -101,8 +101,8 @@ Programme</p>
 <p>Obtain Letter of Support for MOM application</p>
 </li>
 <li>
-<p>Candidate to attend and pass a Qualifying Assessment -&nbsp; Joint ITE-UPEC
-Certificate in Pre-hospital Emergency Care course</p>
+<p>Candidate to attend and pass a Qualifying Assessment -&nbsp; <strong>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</strong>
+</p>
 </li>
 </ul>
 </td>
@@ -142,8 +142,9 @@ Application Form.</p>
 </p>
 </li>
 <li>
-<p><a href="http://upec.stackedup.sg/wp-content/uploads/2021/08/List-of-Recognised-Foreign-Paramedic-Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
+<p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
 </p>
+<p></p>
 <p></p>
 </li>
 </ol>

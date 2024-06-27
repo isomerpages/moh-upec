@@ -147,6 +147,7 @@ the course:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>The fee payable for 2024 is as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>

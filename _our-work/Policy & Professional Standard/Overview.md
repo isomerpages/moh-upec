@@ -42,6 +42,8 @@ conduct inspections and compliance checks.</p>
 issued under the HCSA, or use emergency ambulances (EAs) or medical transports
 (MTs) not listed as licensed conveyances in their HCSA service licence,
 will be in violation of the HCSA.</p>
+<p>To view the requirements for becoming an EAS CGO, <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.
+For the requirements to become an MTS CGO, <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
 <p><strong>Licence Conditions for EAS and MTS under the HCSA</strong>
 </p>
 <p>To further ensure safe service provision, MOH has developed Licence Conditions

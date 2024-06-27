@@ -18,7 +18,7 @@ January 3, 2022. The EAS and MTS regulations also specify staff requirements,
 including recognized qualifications and certifications.</p>
 <p>As part of these regulations, a credentialing framework has been established
 to ensure that all EMTs and Paramedics, including those trained overseas,
-meet the standards required to be recognized as qualified professionals
+meet the standards required to be recognised as qualified professionals
 in Singapore. This framework allows these healthcare professionals to be
 officially acknowledged and integrated into the local emergency medical
 services system.</p>

@@ -178,6 +178,7 @@ the course:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>For more details on the revisions in SSG’s course fee funding, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank">click</a> here
 to access the SkillsFuture Funding Changes. Please note that the course
 fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>

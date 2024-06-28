@@ -26,4 +26,5 @@ contact UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer no
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="These samples are Pre-hospital Provider e-cards for paramedics and EMTs on the Nominal Roll." src="/images/Pre_hospital_provider_e_card.jpg">
 </div>
-<p></p>
+<p>These samples are Pre-hospital Provider e-cards for paramedics and EMTs
+on the Nominal Roll.</p>

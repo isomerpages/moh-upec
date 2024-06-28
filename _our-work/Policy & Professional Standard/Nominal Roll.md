@@ -24,8 +24,5 @@ e-cards need to be renewed 3 to 6 months before expiration, with early
 renewal encouraged to avoid last-minute delays.</p>
 <p>For verification of paramedics' or EMTs' qualification status, please
 contact UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="These samples are Pre-hospital Provider e-cards for paramedics and EMTs on the Nominal Roll." src="/images/Pre_hospital_provider_e_card.jpg">
-</div>
 <p>These samples are Pre-hospital Provider e-cards for paramedics and EMTs
 on the Nominal Roll.</p>

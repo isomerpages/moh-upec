@@ -21,10 +21,13 @@ third_nav_title: PEC Data & Analysis
 </a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2019__Final.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2019 report" src="/images/2019_data_report.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2019 OHCA Data Report</div><div class="isomer-card-link">Download here</div></div></a>
 </div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/data.jpg">
+</div>
 <p><strong><u>DATA REQUESTS</u></strong>
 </p>
-<p><u>All </u>completed data request forms are to submit to Ms Asyikin via
-email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
+<p>Download the required form below and submit completed data request forms
+to Miss Asyikin via email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
 processing.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -37,6 +40,9 @@ processing.</p>
 </li>
 </ul>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/papers.png">
+</div>
 <p><strong><u>PUBLISHED PAPERS</u></strong>
 </p>
 <p>Kuek BJ, Li H, Yap S, Ng MX, Ng YY, White AE, Ong ME. Characteristics

@@ -2,7 +2,10 @@
 title: UPEC Leadership
 permalink: /about-us/upec-leadership/
 description: ""
+variant: markdown
 ---
+![](https://upec.rawmix.xyz/wp-content/uploads/2021/08/Marcus-Ong_Photo.jpg "Marcus Ong_Photo")
+
 ### Marcus ONG Eng Hock
 
 MBBS, FRCS (A&E) EDIN, MPH (VCU)

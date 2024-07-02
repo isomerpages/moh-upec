@@ -62,7 +62,7 @@ processing.</p>
 </ul>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/papers.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/papers.png">
 </div>
 <p><strong><u>PUBLISHED PAPERS</u></strong>
 </p>

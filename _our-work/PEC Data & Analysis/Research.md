@@ -49,16 +49,13 @@ Responders: <u>M</u>obile <u>E</u>xternal <u>D</u>efibrillation <u>I</u>nvestiga
 for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 </li>
 <li>
-<p>MOH Consolidated Data Repository (MCDR).</p>
+<p>Ambulance diversion and ED overcrowding.</p>
 </li>
 <li>
 <p>Optimizing AED placements.</p>
 </li>
 <li>
 <p>National CPR/AED Survey.</p>
-</li>
-<li>
-<p>ACSP Exploratory study.</p>
 </li>
 </ol>
 <p><strong>Completed Studies</strong>
@@ -76,6 +73,25 @@ interval for a simplified community-based training.</p>
 <li>
 <p>Knowledge, Attitudes and Practices of Singaporeans towards Use of the
 Automated External Defibrillator (AED).</p>
+</li>
+<li>
+<p>Survey for myResponder app users: Exploring community CPR responders’
+OHCA experience and needs.</p>
+</li>
+<li>
+<p>The Association of Gender with Cardiopulmonary Resuscitation Performance,
+Knowledge, and Attitudes amongst Laypersons.</p>
+</li>
+<li>
+<p>AED-On-Wheels: Learning from Driver Feedback and public’s perspectives.</p>
+</li>
+<li>
+<p>Evaluation of Save-A-life Initiative.</p>
+</li>
+<li>
+<p>Comparative study on quality of cpr by first responder through video assisted
+coaching versus video assisted coaching using real-time feedback with a
+CPRcard™.</p>
 </li>
 </ol>
 <p></p>

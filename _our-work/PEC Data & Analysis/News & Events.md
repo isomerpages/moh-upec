@@ -5,45 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<p><strong><u>UPCOMING EVENTS</u></strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/events.jpg">
+</div>
 <p>12 October 2024 - World Resart A Heart (WRAH) Day</p>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
+</div>
 <p><strong><u>TCPRLINK NEWSLETTERS - THE LINK</u></strong>
 </p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Issue 1" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Issue 1</div>
-<div class="isomer-card-description">Feb 2023</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Issue 2" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Issue 2</div>
-<div class="isomer-card-description">Mar 2023</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Issue 3" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Issue 3</div>
-<div class="isomer-card-description">April 2023</div>
-</div>
-</div>
-</div>
+<p>Get updates on the TCPRLink project below:</p>
+<p><a href="/files/Issue_1_Feb_2023_The_Link_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 1 Feb 2023</a>
+<br><a href="/files/Issue_2_Mar_2023_The_Link_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 2 Mar 2023</a>
+<br><a href="/files/Issue_3_Apr_2023_The_Link_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 3 Apr 2023</a>
+<br><a href="/files/Issue_4_Jun_2023_The_Link_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 4 Jun 2023</a>
+<br><a href="/files/Issue_5_Aug_2023_The_Link_Newsletter.pdf" rel="noopener noreferrer nofollow" target="_blank">Issue 5 Aug 2023</a>
+</p>
 <p></p>

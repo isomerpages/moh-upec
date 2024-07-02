@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/research.jpg">
+</div>
 <p><strong><u>RESEARCH AREAS</u></strong>
 </p>
 <ol data-tight="true" class="tight">

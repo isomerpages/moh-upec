@@ -1,5 +1,4 @@
 collections:
   news-and-updates:
     output: true
-    order:
-      - Hyperlink.md
+    order: []

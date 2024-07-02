@@ -20,9 +20,6 @@ sections:
         - title: Private Ambulance Operators
           description: HCSA, credentialing & recert
           url: /our-work/policy-and-professional-standard
-        - title: PEC Data & Analysis
-          description: OHCA reports and data requests
-          url: https://staging-lite.d583zrq8vbx3s.amplifyapp.com/research/
         - title: General Public
           description: Our community programs
           url: /community-responsiveness

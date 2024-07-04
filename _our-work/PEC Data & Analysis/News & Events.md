@@ -11,7 +11,7 @@ third_nav_title: PEC Data & Analysis
 <p>12 October 2024 - World Resart A Heart (WRAH) Day</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
 </div>
 <p><strong><u>TCPRLINK NEWSLETTERS - THE LINK</u></strong>
 </p>

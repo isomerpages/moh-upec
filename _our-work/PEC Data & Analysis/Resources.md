@@ -22,11 +22,11 @@ third_nav_title: PEC Data & Analysis
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2017 data report" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="2017-2018 data report" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">2017 OHCA Data Report</div>
+<div class="isomer-card-title">2017-2018 Combined OHCA Data Report</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/Data_report_of_2011_2016_OHCA__logoed_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2016 data report" src="/images/2016_data.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2016 OHCA Data Report</div><div class="isomer-card-link">Download here.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/Singapore_OHCA_report_2011_2015.pdf" class="isomer-card">

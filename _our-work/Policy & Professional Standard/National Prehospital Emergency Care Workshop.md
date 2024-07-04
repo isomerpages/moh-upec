@@ -74,5 +74,67 @@ setting.</p>
 <p>The next workshop is scheduled for December 2024. Please keep an eye out
 for it and register closer to the date.</p>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lecture_hall.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lecture session</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_144542.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IV insertion training</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nil" src="/images/20240625_143827.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Scenario-based discussion</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nil" src="/images/National_PEC_workshop2_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participants practice spinal management techniques</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nol" src="/images/National_PEC_workshop5_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participants engage in CPR and cardiac arrest scenario practice</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIl" src="/images/National_PEC_workshop4_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Practice airway management</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>

@@ -32,7 +32,7 @@ EMTs listed on the Nominal Roll.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TEMPLATE_PRM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ EMTs listed on the Nominal Roll.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TEMPLATE_EMT.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

@@ -28,26 +28,11 @@ as certified paramedics and EMTs.</p>
 contact UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
 <p>The images below are Pre-hospital Provider e-cards for paramedics and
 EMTs listed on the Nominal Roll.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TEMPLATE_PRM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="This is a sample of the EMT Pre-hospital Provider e-card." src="/images/TEMPLATE_EMT.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a sample of the PRM Pre-hospital Provider e-card.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TEMPLATE_EMT.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a sample of the EMT Pre-hospital Provider e-card.</div>
-</div>
-</div>
+<img style="width: 100%" height="auto" width="100%" alt="This is a sample of the PRM Pre-hospital Provider e-card." src="/images/TEMPLATE_PRM.jpg">
 </div>
 <p></p>

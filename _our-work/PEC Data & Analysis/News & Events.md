@@ -6,7 +6,7 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/events.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/events.jpg">
 </div>
 <p>12 October 2024 - World Resart A Heart (WRAH) Day</p>
 <hr>

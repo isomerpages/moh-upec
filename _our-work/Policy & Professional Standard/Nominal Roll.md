@@ -16,12 +16,14 @@ paramedics and EMTs, and promotes professionalism within the field.</p>
 <p>The e-cards are digital identification cards issued to personnel listed
 on the nominal roll, providing a convenient and professional way to verify
 the qualifications and status of paramedics and EMTs. Each e-card includes
-essential information such as the paramedic's name, the card's expiry date,
-and a unique identification number that follows the paramedic or EMT, similar
-to an IC number. These e-cards enhance the personnel's credibility and
-facilitate quick verification of their credentials. To remain valid, these
-e-cards need to be renewed 3 to 6 months before expiration, with early
-renewal encouraged to avoid last-minute delays.</p>
+essential information such as the paramedic's or EMT's name, the card's
+expiration date, and a unique identification number similar to an IC number.
+These e-cards enhance the personnel's credibility and facilitate quick
+verification of their credentials. To remain valid, these e-cards must
+be renewed 3 to 6 months before expiration, with early renewal encouraged
+to avoid last-minute delays. For renewal, personnel must pass the paramedic
+and EMT certification test to maintain their status on the nominal roll
+as certified paramedics and EMTs.</p>
 <p>For verification of paramedics' or EMTs' qualification status, please
 contact UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
 <p>The images below are Pre-hospital Provider e-cards for paramedics and

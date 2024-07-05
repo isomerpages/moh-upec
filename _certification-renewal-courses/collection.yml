@@ -1,5 +1,0 @@
-collections:
-  certification-renewal-courses:
-    output: true
-    order:
-      - example-page.md

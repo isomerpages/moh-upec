@@ -1,0 +1,4 @@
+collections:
+  certification-renewal-courses:
+    output: true
+    order: []

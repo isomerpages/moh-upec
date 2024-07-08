@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Education courses (archive)/Education content (old).md
       - Education courses (archive)/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Operations and Oversight.md

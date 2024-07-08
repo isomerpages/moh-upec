@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Education courses (archive)/Resuscitation Academy.md
       - Education courses (archive)/NAEMT Courses.md
       - Education courses (archive)/TTM Provider Course.md
       - Education courses (archive)/EMS Medical Director Course.md

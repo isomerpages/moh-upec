@@ -5,6 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Training and Education
 ---
+<h1><strong>Resuscitation Academy</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="300" width="300" title="logo-resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/logo-resuscitation_academy-300x300.png">
+</div>
+<p>In 2016, UPEC hosted the first Seattle-style Resuscitation Academy for
+EMS leaders, physicians and paramedics from 9 other Asian countries. This
+2-day course was designed to help EMS leaders and healthcare policy makers
+improve cardiac arrest survival in their communities.</p>
+<p>Our honourable speakers from Seattle and the King County, U.S.A., shared
+their experience and learning points with the participants on:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Why everyone with Ventricular Fibrillation (VF) should survive</p>
+</li>
+<li>
+<p>How it takes a system to save a victim: Learn how we can improve our emergency
+response system to save the next life</p>
+</li>
+<li>
+<p>The ‘10 Steps’ to Improvement in survival</p>
+</li>
+</ol>
+<p>Should you have any query, please click <a href="https://upec.rawmix.xyz/contact/" rel="noopener noreferrer nofollow" target="_blank">here</a> and drop us a message.</p>
 <h1><strong>Emergency Medical Services (EMS) Medical Directors’ Course</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
@@ -81,7 +107,6 @@ the Basic &amp; Advanced combined Online course, which include e-learning
 and two 4-hour Zoom sessions.</p>
 <p><strong>Next Course Date:</strong> 24 &amp; 27 Sep 2021</p>
 <p>Should you have any query, please click <a href="https://upec.rawmix.xyz/contact/" rel="noopener noreferrer nofollow" target="_blank">here</a> and drop us a message.</p>
-<p></p>
 <h1><strong>Targeted Temperature Management (TTM) Provider Course</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">
@@ -122,7 +147,6 @@ For more information on this national workgroup, please click <a href="http://up
 </ul>
 <p>Next Course: (The course is suspended due to COVID-19. Check out here
 for the latest update).</p>
-<p></p>
 <h1><strong>NAEMT Courses</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="Advanced-Medical--Life-Support" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Advanced-Medical-Life-Support.jpg">

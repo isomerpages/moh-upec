@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Education courses (archive)/4 week International PEC Fellowship.md
       - Education courses (archive)/PEMC Fellowship Program.md
       - Education courses (archive)/Resuscitation Academy.md
       - Education courses (archive)/NAEMT Courses.md

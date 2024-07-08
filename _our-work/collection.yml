@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Education Courses and Fellowship (archive).md
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md
@@ -10,8 +9,8 @@ collections:
       - Medical Operations & Oversight/Online Medical Control (OMC) Physicians.md
       - Medical Operations & Oversight/National Post Cardiac Arrest and
         Survivorship (PCAS) Workgroup.md
-      - Policy & Professional Standard/Certification Renewal Courses.md
       - Policy & Professional Standard/.keep
+      - Policy & Professional Standard/Certification Renewal Courses.md
       - Policy & Professional Standard/Overview.md
       - Policy & Professional Standard/PAO Engagement Sessions.md
       - Policy & Professional Standard/National Prehospital Emergency Care
@@ -51,3 +50,4 @@ collections:
       - Community Responsiveness/Frequently Asked Questions.md
       - Community Responsiveness (page).md
       - Singapore Resuscitation and First Aid Council.md
+      - Education Courses and Fellowship (archive).md

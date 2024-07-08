@@ -30,7 +30,6 @@ sections:
   - textcards:
       title: PEC Strategy
       id: textcards
-      description: Text card description
       cards:
         - title: Medical Operations and Oversight
           description: Coordination of PEC resources, partners to improve OHCA survival

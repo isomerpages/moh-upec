@@ -2,14 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Education courses (archive)/4 week International PEC Fellowship.md
-      - Education courses (archive)/PEMC Fellowship Program.md
-      - Education courses (archive)/Resuscitation Academy.md
-      - Education courses (archive)/NAEMT Courses.md
-      - Education courses (archive)/TTM Provider Course.md
-      - Education courses (archive)/EMS Medical Director Course.md
-      - Education courses (archive)/Education content (old).md
-      - Education courses (archive)/.keep
       - Medical Operations & Oversight/.keep
       - Medical Operations & Oversight/Operations and Oversight.md
       - Medical Operations & Oversight/Medical Dispatch.md
@@ -45,6 +37,14 @@ collections:
       - PEC Training and Education/Education for National EMS.md
       - PEC Training and Education/National PEC Training Committee.md
       - PEC Training and Education/PEC Continuing Education.md
+      - Education courses (archive)/.keep
+      - Education courses (archive)/4 week International PEC Fellowship.md
+      - Education courses (archive)/PEMC Fellowship Program.md
+      - Education courses (archive)/Resuscitation Academy.md
+      - Education courses (archive)/NAEMT Courses.md
+      - Education courses (archive)/TTM Provider Course.md
+      - Education courses (archive)/EMS Medical Director Course.md
+      - Education courses (archive)/Education content (old).md
       - Health Informatics & Innovation.md
       - Community Responsiveness/.keep
       - Community Responsiveness/Community Responsiveness.md

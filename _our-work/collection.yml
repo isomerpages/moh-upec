@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Education courses (archive)/EMS Medical Director Course.md
       - Education courses (archive)/Education content (old).md
       - Education courses (archive)/.keep
       - Medical Operations & Oversight/.keep

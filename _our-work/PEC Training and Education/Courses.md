@@ -134,7 +134,7 @@ other courses) in Singapore. UPEC members are also part of PHTLS core faculty.</
 <p>For more information about NAEMT and courses not offered in Singapore,
 please visit <a href="https://www.naemt.org/education" rel="noopener noreferrer nofollow" target="_blank">NAEMT</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
+<img style="width: 30%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
 </div>
 <h3><strong>Pre-Hospital Trauma Life Support (PHTLS)</strong></h3>
 <p>Pre-hospital Trauma Life Support (PHTLS) is recognized around the world
@@ -170,7 +170,7 @@ relevant to and accessible by first responders, and EMTs.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
+<img style="width: 30%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
 </div>
 <h3><strong>Advanced Medical Life Support (AMLS)</strong></h3>
 <p>Advanced Medical Life Support (AMLS) remains the gold standard of education
@@ -187,10 +187,10 @@ by UPEC in 2019.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
+<img style="width: 30%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
+<img style="width: 30%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
 </div>
 <h3><strong>Tactical Combat Casualty Care (TCCC) / Tactical Emergency Casualty Care (TECC)</strong></h3>
 <p>Tactical Combat Casualty Care (TCCC) is developed by the U.S. Department
@@ -207,7 +207,7 @@ care for patients in a civilian tactical environment.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
+<img style="width: 30%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
 </div>
 <h3><strong>Geriatric Education for EMS (GEMS)</strong></h3>
 <p>Advanced Medical Life Support (AMLS) remains the gold standard of education

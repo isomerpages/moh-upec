@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - example-subfolder/Certification Renewal Courses.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

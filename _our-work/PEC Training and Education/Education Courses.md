@@ -7,7 +7,7 @@ third_nav_title: PEC Training and Education
 ---
 <h1><strong>Resuscitation Academy</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
+<img style="width: 60%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="300" width="300" title="logo-resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/logo-resuscitation_academy-300x300.png">

@@ -7,11 +7,12 @@ third_nav_title: PEC Training and Education
 ---
 <h1><strong>Resuscitation Academy</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
+<img style="width: 20%;" height="300" width="300" title="logo-resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/logo-resuscitation_academy-300x300.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="300" width="300" title="logo-resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/logo-resuscitation_academy-300x300.png">
+<img style="width: 60%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
 </div>
+<p></p>
 <p>In 2016, UPEC hosted the first Seattle-style Resuscitation Academy for
 EMS leaders, physicians and paramedics from 9 other Asian countries. This
 2-day course was designed to help EMS leaders and healthcare policy makers

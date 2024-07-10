@@ -1,5 +1,5 @@
 collections:
-  events:
+  courses-and-seminars:
     output: true
     order:
       - example-subfolder/Certification Renewal Courses.md

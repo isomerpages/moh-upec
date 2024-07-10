@@ -2,7 +2,6 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - Education Courses/Education Courses.md
       - Education Courses/.keep
       - example-subfolder/Certification Renewal Courses.md
       - example-subfolder/.keep

@@ -6,8 +6,8 @@ links:
     collection: our-work
   - title: News and Updates
     url: /news-and-updates/
-  - title: Events
-    url: /permalink
+  - title: Courses and Seminars
+    collection: courses-and-seminars
   - title: Careers
     url: /careers/
   - title: Contact Us

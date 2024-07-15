@@ -32,6 +32,6 @@ follows:</p>
 <p>Connection One Tower 1, #18-00</p>
 <p>Singapore 150168</p>
 <p></p>
-<p>For details on course fees and application procedures on the IAN website,
-<a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank">click</a>here.</p>
+<p>For information about course fees and application procedures, please visit
+the IAN website by <a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank">clicking</a> here.</p>
 <p></p>

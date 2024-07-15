@@ -17,3 +17,8 @@ Medical Transport Service (MTS) vehicles must be staffed with at least
 one certified EMT as the crew leader. Therefore, Private Ambulance Operators
 (PAOs) must ensure that their personnel have successfully completed EMT
 training and hold valid EMT certification.</p>
+<p>For more detailed information regarding EMT course providers, available
+dates, and course fees, please visit the SkillsFuture Singapore (SSG) website
+and use their search feature to find the most up-to-date details. You can
+access this information by clicking the following link:</p>
+<p>Visit the SSG website:</p>

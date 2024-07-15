@@ -2,13 +2,13 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - Certification Renewal Courses/Joint ITE UPEC Certificate in Prehospital
-        Emergency Care Course.md
       - Certification Renewal Courses/.keep
       - Certification Renewal Courses/Emergency Medical Technician (EMT)
         Certification Course.md
       - Certification Renewal Courses/Emergency Medical Technician (EMT)
         Recertification Programme.md
+      - Certification Renewal Courses/Joint ITE UPEC Certificate in Prehospital
+        Emergency Care Course.md
       - Education Courses/Education Workshop and Courses.md
       - Education Courses/.keep
       - example-subfolder/Certification Renewal Courses.md

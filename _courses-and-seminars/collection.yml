@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Certification Renewal Courses/Emergency Medical Technician (EMT)
+        Recertification Programme.md
+      - Certification Renewal Courses/Emergency Medical Technician (EMT)
         Certification Course.md
       - Certification Renewal Courses/.keep
       - Education Courses/Education Workshop and Courses.md

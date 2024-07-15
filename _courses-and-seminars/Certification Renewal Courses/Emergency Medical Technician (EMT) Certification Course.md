@@ -21,4 +21,5 @@ training and hold valid EMT certification.</p>
 dates, and course fees, please visit the SkillsFuture Singapore (SSG) website
 and use their search feature to find the most up-to-date details. You can
 access this information by clicking the following link:</p>
-<p>Visit the SSG website:</p>
+<p>Visit the SSG website: <a href="https://www.skillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Click</a>
+</p>

@@ -12,9 +12,10 @@ third_nav_title: Policy & Professional Standard
 <p>The Ministry of Health (MOH), in partnership with the Unit for Pre-hospital
 Emergency Care (UPEC) and the Institute of Technical Education (ITE), has
 launched a national initiative aimed at enhancing the skills and competencies
-of pre-hospital emergency care professionals. Recognizing the vital role
-paramedics play in leading emergency ambulance teams and providing patient
-care in pre-hospital settings, this initiative focuses on providing ongoing
+of pre-hospital emergency care professionals. Recognising the vital role
+pre-hospital emergency care professionals play in leading emergency ambulance
+teams, providing medical transport services, and delivering patient care
+in pre-hospital settings, this initiative focuses on providing ongoing
 training and professional development.</p>
 <p>To support this goal, ITE College East, a prominent provider of paramedicine
 education in Singapore's civilian sector, has been engaged by MOH to offer

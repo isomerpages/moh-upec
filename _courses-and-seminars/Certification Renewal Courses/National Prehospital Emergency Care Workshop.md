@@ -57,7 +57,7 @@ and their management in the pre-hospital setting using PAM.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Objective:</strong> Participants will recognize the signs and symptoms
+<p><strong>Objective:</strong> Participants will recognise the signs and symptoms
 of shock and manage a simulated patient in hemorrhagic shock in the pre-hospital
 setting.</p>
 </li>
@@ -66,7 +66,7 @@ setting.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Objective:</strong> Participants will recognize the signs and symptoms
+<p><strong>Objective:</strong> Participants will recognise the signs and symptoms
 of head injury and manage a simulated patient with head injury in the pre-hospital
 setting.</p>
 </li>

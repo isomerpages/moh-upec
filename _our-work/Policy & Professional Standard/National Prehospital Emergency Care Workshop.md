@@ -24,4 +24,5 @@ pre-hospital emergency care by ensuring that these professionals are equipped
 with the latest knowledge and skills. The collaboration underscores the
 commitment of MOH, UPEC, and ITE to improve the quality and effectiveness
 of emergency medical services through ongoing professional development.</p>
-<p></p>
+<p>For more information or to register for the National PEC workshop, please
+here.</p>

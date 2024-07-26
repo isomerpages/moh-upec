@@ -1,4 +1,5 @@
 collections:
   example-i-am-a:
     output: true
-    order: []
+    order:
+      - Healthcare Professionals.md

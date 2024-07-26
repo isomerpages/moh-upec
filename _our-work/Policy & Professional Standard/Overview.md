@@ -11,12 +11,11 @@ third_nav_title: Policy & Professional Standard
 </div>
 <p>The Policy and Professional Standards team works closely with the Ministry
 of Health (MOH) to develop and implement initiatives aimed at enhancing
-patient safety and well-being. They focus on developing and updating medical
-treatment protocols and service standards for Emergency Ambulance Service
-(EAS) and Medical Transport Service (MTS). This includes ensuring compliance
-with the Healthcare Services Act (HCSA), which introduced a service-based
-licensing framework that replaced the Private Hospitals and Medical Clinics
-Act (PHMCA).</p>
+patient safety and well-being. The team focus on developing service standards
+for Emergency Ambulance Service (EAS) and Medical Transport Service (MTS).
+This includes ensuring compliance with the Healthcare Services Act (HCSA),
+which introduced a service-based licensing framework that replaced the
+Private Hospitals and Medical Clinics Act (PHMCA).</p>
 <p>The team ensures that EAS and MTS crews are appropriately trained and
 equipped, oversees the clinical governance framework including the role
 of the Clinical Governance Officer (CGO), and conducts inspections to ensure

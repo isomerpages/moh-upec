@@ -20,6 +20,8 @@ that EAS and MTS vehicles are properly equipped and maintained.</p>
 <p>The team's initiatives include coordinating with training providers to
 offer courses and workshops that enhance the skills of pre-hospital emergency
 care (PEC) professionals. They also oversee the credentialing framework
-for foreign-trained paramedics and EMTs, ensuring they meet HCSA requirements.
-By working in close partnership with MOH, the team upholds high standards
-of patient safety and care within the emergency medical services sector.</p>
+to ensure foreign-trained paramedics and EMTs meet Singapore's standards,
+allowing them to be recognized and integrated into the local emergency
+medical services system. By working in close partnership with MOH, the
+team upholds high standards of patient safety and care within the emergency
+medical services sector.</p>

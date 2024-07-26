@@ -2,4 +2,5 @@ collections:
   career:
     output: true
     order:
+      - Job Openings/Admin Assistant (JUL001).md
       - Job Openings/.keep

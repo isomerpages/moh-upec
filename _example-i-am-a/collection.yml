@@ -1,0 +1,4 @@
+collections:
+  example-i-am-a:
+    output: true
+    order: []

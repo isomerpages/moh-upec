@@ -32,4 +32,4 @@ care. This initiative highlights the commitment of MOH, UPEC, and ITE to
 improving the quality and effectiveness of emergency medical services through
 continuous professional development.</p>
 <p>For more information or to register for the National PEC workshop, please
-<a href="https://cms.isomer.gov.sg/sites/moh-upec/folders/courses-and-seminars/subfolders/Certification%20Renewal%20Courses/editPage/National%20Prehospital%20Emergency%20Care%20Workshop.md" rel="noopener noreferrer nofollow" target="_blank">click</a>here.</p>
+<a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/national-prehospital-emergency-care-workshop/" rel="noopener noreferrer nofollow" target="_blank">click</a>here.</p>

@@ -18,12 +18,11 @@ teams, providing medical transport services, and delivering patient care
 in pre-hospital settings, this initiative focuses on providing ongoing
 training and professional development.</p>
 <p>To support this goal, ITE College East, a prominent provider of paramedicine
-education in Singapore's civilian sector, has been engaged by MOH to offer
-continuing professional development (CPD) and educational programs for
-paramedics and Emergency Medical Technicians (EMTs). This collaboration
-is part of a larger national strategy to strengthen pre-hospital emergency
-care by ensuring that these professionals stay current with the latest
-knowledge and skills.</p>
+education in Singapore, has been engaged by MOH to offer continuing professional
+development (CPD) and educational programs for paramedics and Emergency
+Medical Technicians (EMTs). This collaboration is part of a larger national
+strategy to strengthen pre-hospital emergency care by ensuring that these
+professionals stay current with the latest knowledge and skills.</p>
 <p>MOH has funded the National PEC workshop, which will be hosted by ITE
 College East. The workshop aims to refresh and enhance the essential skills
 that paramedics and EMTs need in their frontline roles. It will provide

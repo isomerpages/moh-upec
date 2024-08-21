@@ -43,7 +43,7 @@ third_nav_title: PEC Data & Analysis
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/data.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/data.jpg">
 </div>
 <h2>Request for Pre-hospital Data</h2>
 <p>Researchers from Singapore hospital institutions working on studies requiring

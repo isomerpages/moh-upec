@@ -6,10 +6,9 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/research.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/research.jpg">
 </div>
-<p><strong><u>RESEARCH AREAS</u></strong>
-</p>
+<h2>RESEARCH AREAS</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Out-of-hospital (OHCA): CPR, AED, community-based interventions.</p>
@@ -34,10 +33,8 @@ third_nav_title: PEC Data & Analysis
 </li>
 </ol>
 <hr>
-<p><strong><u>RESEARCH STUDIES</u></strong>
-</p>
-<p><strong>Current/On-going Studies</strong>
-</p>
+<h2>RESEARCH STUDIES</h2>
+<h3>Current and On-going Studies</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bystander CPR and survival in six regions of Singapore saturated with
@@ -61,8 +58,7 @@ for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 <p>National CPR/AED Survey.</p>
 </li>
 </ol>
-<p><strong>Completed Studies</strong>
-</p>
+<h3>Completed Studies</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>A prospective randomized controlled trial to explore the effectiveness

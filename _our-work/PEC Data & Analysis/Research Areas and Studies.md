@@ -6,7 +6,7 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/research.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/research.jpg">
 </div>
 <h2>Research Areas</h2>
 <ol data-tight="true" class="tight">

@@ -68,65 +68,90 @@ All email responses will be within 3 working days.</p>
 </div>
 <h2>UPEC Publications</h2>
 <h3>Published Papers</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Year 2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10802030/" rel="noopener noreferrer nofollow" target="_blank">Development of prehospital emergency care in Singapore</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.resuscitationjournal.com/article/S0300-9572(23)00186-7/abstract" rel="noopener noreferrer nofollow" target="_blank">Does witness type affect the chance of receiving bystander CPR in out-of-hospital cardiac arrest?</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://annals.edu.sg/inter-hospital-trends-of-post-resuscitation-interventions-and-outcomes-of-out-of-hospital-cardiac-arrest-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Inter-hospital trends of post-resuscitation interventions and outcomes of out-of-hospital cardiac arrest in Singapore</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9596179/" rel="noopener noreferrer nofollow" target="_blank">Impact of COVID-19 on Barriers to Dispatcher-Assisted Cardiopulmonary Resuscitation in Adult Out-of-Hospital Cardiac Arrests in Singapore</a>
+</p>
 <p></p>
-<p>Nadarajan GD, <strong>Jalil NA</strong>, <strong>White AE</strong>, Hock
-MO, Venkataraman A. Development of prehospital emergency care in Singapore.
-International Journal of Emergency Medicine. 2024 Jan 22;17(1):11.</p>
-<p>Lo CY, Fook-Chong S, Shahidah N, <strong>White AE</strong>, Tan CK, Ng
-YY, Tiah L, Chia MY, Leong BS, Mao DR, Ng WM. Does witness type affect
-the chance of receiving bystander CPR in out-of-hospital cardiac arrest?.
-Resuscitation. 2023 Aug 1;189:109873.</p>
-<p>Jaffar JL, Fook-Chong S, Shahidah N, Ho AF, Ng YY, Arulanandam S, <strong>White A</strong>,
-Liew LX, <strong>Asyikin N</strong>, Leong BS, Gan HN. Inter-hospital trends
-of post-resuscitation interventions and outcomes of out-of-hospital cardiac
-arrest in Singapore. Annals of the Academy of Medicine, Singapore. 2022
-Jun 1;51(6):341-50.</p>
-<p>Toh CH, Lim SL, Muhammad Y, Shahidah N, Ng QX, Ho A, Arulanandam S, Leong
-BS, <strong>White A</strong>, Ong ME. Impact of COVID-19 on Barriers to
-Dispatcher-Assisted Cardiopulmonary Resuscitation in Adult Out-of-Hospital
-Cardiac Arrests in Singapore. Circulation. 2021 Nov 16;144(Suppl_2):A12051-.</p>
-<p><strong>White AE</strong>, Ho AF, Shahidah N,<strong> Asyikin N</strong>,
-Liew LX, Pek PP, Kua JP, Chia MY, Ng YY, Arulanandam S, Leong SH. An essential
-review of Singapore’s response to out-of-hospital cardiac arrests: improvements
-over a ten-year period. Singapore Medical Journal. 2021 Aug;62(8):438.</p>
-<p>Ming Ng W, De Souza CR, Pek PP, Shahidah N, Ng YY, Arulanandam S, <strong>White AE</strong>,
-Leong BS, Ong ME. myResponder smartphone application to crowdsource basic
-life support for out-of-hospital cardiac arrest: the Singapore experience.
-Prehospital Emergency Care. 2021 Apr 20;25(3):388-96.</p>
-<p>Ho AF, De Souza NN, Blewer AL, Wah W, Shahidah N, <strong>White AE</strong>,
-Ng YY, Mao DR, Doctor N, Gan HN, Chia MY. Implementation of a national
-5‐year plan for prehospital emergency care in Singapore and impact on out‐of‐hospital
-cardiac arrest outcomes from 2011 to 2016. Journal of the American Heart
-Association. 2020 Nov 3;9(21):e015368.</p>
-<p>Blewer AL, Ho AF, Shahidah N, <strong>White AE</strong>, Pek PP, Ng YY,
-Mao DR, Tiah L, Chia MY, Leong BS, Cheah SO. Impact of bystander-focused
-public health interventions on cardiopulmonary resuscitation and survival:
-a cohort study. The Lancet Public Health. 2020 Aug 1;5(8):e428-36.</p>
-<p>Kuek BJ, Li H, Yap S, Ng MX, Ng YY, <strong>White AE</strong>, Ong ME.
-Characteristics of frequent users of emergency medical services in Singapore.
-Prehospital Emergency Care. 2019 Mar 4;23(2):215-24.</p>
-<p>Kua PH, <strong>White AE</strong>, Ng WY, Fook-Chong S, Ng EK, Ng YY, Ong
-ME. Knowledge and attitudes of Singapore schoolchildren learning cardiopulmonary
-resuscitation and automated external defibrillator skills. Singapore medical
-journal. 2018 Sep;59(9):487.</p>
-<p>Tanaka S, <strong>White AE</strong>, Sagisaka R, Chong G, Ng E, Seow J, <strong>MJ NA</strong>,
-Tanaka H, Ong ME. Comparison of quality of chest compressions during training
-of laypersons using Push Heart and Little Anne manikins using blinded CPRcards.
-International journal of emergency medicine. 2017 Dec;10(1):20.</p>
-<p><strong>White AE</strong>, Ng HX, Ng WY, Ng EK, Fook-Chong S, Kua PH,
-Ong ME. Measuring the effectiveness of a novel CPRcard™ feedback device
-during simulated chest compressions by non-healthcare workers. Singapore
-medical journal. 2017 Jul;58(7):438.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8804483/" rel="noopener noreferrer nofollow" target="_blank">An essential review of Singapore’s response to out-of-hospital cardiac arrests: improvements over a ten-year period</a>
+</p>
+<p></p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/10903127.2020.1777233" rel="noopener noreferrer nofollow" target="_blank">myResponder smartphone application to crowdsource basic life support for out-of-hospital cardiac arrest: the Singapore experience</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7763405/" rel="noopener noreferrer nofollow" target="_blank">Implementation of a national 5‐year plan for prehospital emergency care in Singapore and impact on out‐of‐hospital cardiac arrest outcomes from 2011 to 2016</a>
+</p>
+<p></p>
+<p><a href="https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30140-7/fulltext" rel="noopener noreferrer nofollow" target="_blank">Impact of bystander-focused public health interventions on cardiopulmonary resuscitation and survival: a cohort study</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2019</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/10903127.2018.1484969" rel="noopener noreferrer nofollow" target="_blank">Characteristics of frequent users of emergency medical services in Singapore</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6158132/" rel="noopener noreferrer nofollow" target="_blank">Knowledge and attitudes of Singapore schoolchildren learning cardiopulmonary resuscitation and automated external defibrillator skills</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Year 2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5483220/" rel="noopener noreferrer nofollow" target="_blank">Comparison of quality of chest compressions during training of laypersons using Push Heart and Little Anne manikins using blinded CPRcards</a>
+</p>
+<p></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5523097/" rel="noopener noreferrer nofollow" target="_blank">Measuring the effectiveness of a novel CPRcard™ feedback device during simulated chest compressions by non-healthcare workers</a>
+</p>
+</div>
+</details>
+</div>
 <h3>Published Abstracts</h3>
-<p>Sim Z, <strong>White AE</strong>, Wah W, Ready SM, <strong>Jalil NA</strong>,
-Ng HX, Ong ME. 42 Assessing factors affecting the quality of chest compressions
-during training for laypersons using a novel CPRCARD. Emergency medicine
-journal: EMJ. 2017 Dec 1;34(12):A889.</p>
-<p><strong>White AE</strong>, Wah W, <strong>Jalil NA</strong>, Lum NJ, Ng
-EK, Kua PH, Ong ME. Quality of bystander CPR by lay first responders: training
-versus real-world use of a novel CPR feedback device in Singapore.</p>
-<p><strong>White A</strong>, Ng HX, Ng WY, Ng EKX, Fook-Chong S, Kua PHJ,
-Ong MEH, et al. Meeting abstracts from the first European Emergency Medical
-Services congress (EMS2016). Scandinavian journal of trauma, resuscitation
-and emergency medicine. 2017;25(1):1-14.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Click dropdown for the list</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://emj.bmj.com/content/34/12/A889.1" rel="noopener noreferrer nofollow" target="_blank">Assessing factors affecting the quality of chest compressions during training for laypersons using a novel CPRcard</a>
+</p>
+<p></p>
+<p><a href="https://bmjopen.bmj.com/content/8/Suppl_1/A4.2" rel="noopener noreferrer nofollow" target="_blank">Quality of bystander CPR by lay first responders: training versus real-world use of a novel CPR feedback device in Singapore</a>
+</p>
+<p></p>
+<p><a href="https://sjtrem.biomedcentral.com/articles/supplements/volume-25-supplement-1" rel="noopener noreferrer nofollow" target="_blank">Meeting abstracts from the first European Emergency Medical Services congress (EMS2016)</a>
+</p>
+</div>
+</details>
+</div>
 <p>&nbsp;</p>

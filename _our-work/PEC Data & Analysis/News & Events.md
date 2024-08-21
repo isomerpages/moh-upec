@@ -6,13 +6,13 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/events.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/events.jpg">
 </div>
 <p>5 August 2024 - Soft Lauch of TCPR Link Study Trial
 <br>12 October 2024 - World Resart A Heart (WRAH) Day</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
 </div>
 <h2>The Link: TCPR Link Newsletters</h2>
 <p>Get updates on TCPR Link study below:</p>

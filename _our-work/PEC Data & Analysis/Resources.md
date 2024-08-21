@@ -65,7 +65,7 @@ All email responses will be within 3 working days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/papers.png">
 </div>
-<h2>Publications</h2>
+<h2>UPEC Publications</h2>
 <h3>Published Papers</h3>
 <p></p>
 <p>Nadarajan GD, <strong>Jalil NA</strong>, <strong>White AE</strong>, Hock

@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<p><strong><u>PEC DATA REPORTS</u></strong>
-</p>
+<h2>PEC Data Reports</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2021____FINAL.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2021 Report" src="/images/2021_data_report.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2021 OHCA Data Report</div><div class="isomer-card-link">Download here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2020____ver__May_12_2022___FINAL.pdf" class="isomer-card">
 <div class="isomer-card-image">
@@ -46,10 +45,9 @@ third_nav_title: PEC Data & Analysis
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/data.jpg">
 </div>
-<p><strong><u>DATA REQUESTS</u></strong>
-</p>
-<p>Download the required form below and submit completed data request forms
-to Miss Asyikin via email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
+<h2>Request for Data</h2>
+<p>Download the required form below and submit the completed data request
+form to Miss Asyikin via email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
 processing.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,12 +59,15 @@ processing.</p>
 </p>
 </li>
 </ul>
+<p>For more information and queries, please also drop Miss Asyikin an email.
+All email responses will be within 3 working days.</p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/papers.png">
 </div>
-<p><strong><u>PUBLISHED PAPERS</u></strong>
-</p>
+<h2>Publications</h2>
+<h3>Published Papers</h3>
+<p></p>
 <p>Nadarajan GD, <strong>Jalil NA</strong>, <strong>White AE</strong>, Hock
 MO, Venkataraman A. Development of prehospital emergency care in Singapore.
 International Journal of Emergency Medicine. 2024 Jan 22;17(1):11.</p>
@@ -115,8 +116,7 @@ International journal of emergency medicine. 2017 Dec;10(1):20.</p>
 Ong ME. Measuring the effectiveness of a novel CPRcard™ feedback device
 during simulated chest compressions by non-healthcare workers. Singapore
 medical journal. 2017 Jul;58(7):438.</p>
-<p><strong>PUBLISHED ABSTRACTS</strong>
-</p>
+<h3>Published Abstracts</h3>
 <p>Sim Z, <strong>White AE</strong>, Wah W, Ready SM, <strong>Jalil NA</strong>,
 Ng HX, Ong ME. 42 Assessing factors affecting the quality of chest compressions
 during training for laypersons using a novel CPRCARD. Emergency medicine

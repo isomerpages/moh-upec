@@ -8,7 +8,7 @@ third_nav_title: PEC Data & Analysis
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/research.jpg">
 </div>
-<h2>RESEARCH AREAS</h2>
+<h2>Research Areas</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Out-of-hospital (OHCA): CPR, AED, community-based interventions.</p>
@@ -26,14 +26,14 @@ third_nav_title: PEC Data & Analysis
 <p>Community response to OHCA</p>
 </li>
 <li>
-<p>ED overcrowding</p>
+<p>Ambulance diversion and ED overcrowding</p>
 </li>
 <li>
 <p>ED frequent flyers</p>
 </li>
 </ol>
 <hr>
-<h2>RESEARCH STUDIES</h2>
+<h2>Research Studies</h2>
 <h3>Current and On-going Studies</h3>
 <ol data-tight="true" class="tight">
 <li>

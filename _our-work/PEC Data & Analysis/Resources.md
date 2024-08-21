@@ -68,6 +68,7 @@ All email responses will be within 3 working days.</p>
 </div>
 <h2>UPEC Publications</h2>
 <h3>Published Papers</h3>
+<p>Click on the dropdown below for links to the articles.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Year 2024</summary>

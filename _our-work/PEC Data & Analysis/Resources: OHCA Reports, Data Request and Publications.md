@@ -89,6 +89,9 @@ All email responses will be within 3 working days.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://annals.edu.sg/inter-hospital-trends-of-post-resuscitation-interventions-and-outcomes-of-out-of-hospital-cardiac-arrest-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Inter-hospital trends of post-resuscitation interventions and outcomes of out-of-hospital cardiac arrest in Singapore</a>
 </p>
+<p></p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9596179/" rel="noopener nofollow" target="_blank">Impact of covid-19 on barriers to dispatcher-assisted cardiopulmonary resuscitation in adult out-of-hospital cardiac arrests in Singapore</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">

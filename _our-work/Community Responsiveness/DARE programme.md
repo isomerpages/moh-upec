@@ -137,7 +137,7 @@ to run roadshows at heartlands, attractions and clubhouses.</div>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Trained over 107,000 individuals and still counting</p>
+<p>• Trained over 112,000 individuals and still counting</p>
 </td>
 </tr>
 </tbody>

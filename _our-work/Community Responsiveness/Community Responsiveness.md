@@ -16,19 +16,4 @@ than 3,400 Out-of-Hospital Cardiac Arrest (OHCA) cases happened in Singapore.</p
 the <strong>National Community Emergency and Resilience (NCER) workgroup</strong> are
 2 initiatives led by UPEC, aiming at enhancing health literacy and public
 awareness.</p>
-<p>The Dispatcher-Assisted first REsponder (DARE) programme was launched
-in 2014 as a national effort to equip the community with CardioPulmonary
-Resuscitation (CPR) skills and the use of Automated External Defibrillator
-(AED), aiming to increase the survival rate from 20% to at least 30%, similar
-to cities like Seattle, Tokyo and Seoul, where survival rates range from
-30% to 50%.</p>
-<p>A National Community</p>
-<p>During this process, the calling of 995, administering of bystander CardioPulmonary
-Resuscitation (CPR) and the use of an Automated External Defibrillator
-(AED) on the victim are interventions that can be performed by any layperson. <strong>CPR awareness and training need to start from the community. We believe it is important to invest in raising the health literacy/awareness of our population, as a long term strategy to improve bystander CPR and cardiac arrest survival in our communities.</strong>
-</p>
-<p>The <strong><a href="/dare-programme/" rel="noopener noreferrer nofollow" target="_blank">DARE programme</a></strong> focuses
-on educating the public on this life-saving skill and aims to increase
-the survival rate of cardiac arrest from 20% to at least 30%, similar to
-cities such as Seattle, Tokyo or Seoul where survival rates range from
-30% to 50%.</p>
+<p></p>

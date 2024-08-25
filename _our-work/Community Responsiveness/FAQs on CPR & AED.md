@@ -32,5 +32,12 @@ just because you are female; you are equally capable of initiating resuscitation
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>More FAQs Coming Soon</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>

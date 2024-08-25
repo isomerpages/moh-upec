@@ -36,4 +36,14 @@ just because you are female; you are equally capable of initiating resuscitation
 </div>
 </details>
 </div>
+<p><strong><u>Automated External Defibrillator (AED)</u></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>

@@ -150,8 +150,7 @@ to run roadshows at heartlands, attractions and clubhouses.</div>
 <summary><strong>Resources</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>&lt;Link&gt;</p>
-<p>&lt;Link&gt;</p>
+<p>Coming Soon</p>
 </div>
 </details>
 </div>

@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCER_cover_600x200.png">
+</div>
 <p><strong>National Community Emergency and Resilience (NCER) workgroup committee</strong> was
 established in 2023 to formulate and implement collaborative strategic
 directions to strengthen community's level of preparedness, resilience

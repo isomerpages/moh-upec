@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
-<p><strong>National Community Emergency and Resilience (NCER)</strong> was
+<p><strong>National Community Emergency and Resilience (NCER) workgroup</strong> was
 established in 2023 to formulate and implement collaborative strategic
 directions to strengthen community's level of preparedness, resilience
 and responsiveness in improving cardiac arrest survival rates in Singapore.

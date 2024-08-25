@@ -12,9 +12,10 @@ is critical to increase the victim’s chances of survival. In 2020, more
 than 3,400 Out-of-Hospital Cardiac Arrest (OHCA) cases happened in Singapore.</p>
 <p><strong>We believe it is important to invest in raising the health literacy and awareness of our population, as a long-term strategy to improve bystander CPR and cardiac arrest survival in our community.</strong>
 </p>
-<p>The Dispatcher-Assisted first REsponder (DARE) programme and the National
-Community Emergency and Resilience (NCER) workgroup are 2 initiatives by
-UPEC aimed at enhancing health literacy and public awareness.</p>
+<p>The <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong> and
+the <strong>National Community Emergency and Resilience (NCER) workgroup</strong> are
+2 initiatives led by UPEC, aiming at enhancing health literacy and public
+awareness.</p>
 <p>The Dispatcher-Assisted first REsponder (DARE) programme was launched
 in 2014 as a national effort to equip the community with CardioPulmonary
 Resuscitation (CPR) skills and the use of Automated External Defibrillator

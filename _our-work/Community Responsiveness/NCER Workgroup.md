@@ -16,6 +16,9 @@ and responsiveness in improving cardiac arrest survival rates in Singapore.
 It also serves as a platform for information sharing among different stakeholders
 and is dedicated to making sustainable efforts to drive culture change.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCER_org_chart.png">
+</div>
 <p>The NCER workgroup committee is composed of representatives from the Ministry
 of Education, Ministry of Defence, Ministry of Home Affairs, Ministry of
 Manpower, Sport Singapore (SportSG), Red Cross Singapore, Singapore Heart

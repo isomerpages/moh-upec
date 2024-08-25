@@ -156,7 +156,7 @@ to run roadshows at heartlands, attractions and clubhouses.</div>
 </div>
 <p></p>
 <p>Questions regarding the DARE programme and/or CPR+AED related matters?
-<br>Our <strong><a href="/FAQs-on-CPR-and-AED/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
+<br>Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
 have the answer you need.</p>
 <hr>
 <p><strong>Get in touch with us today for more information:</strong>

@@ -156,7 +156,7 @@ to run roadshows at heartlands, attractions and clubhouses.</div>
 </div>
 <p></p>
 <p>Questions regarding the DARE programme and/or CPR+AED related matters?
-<br>Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
+Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
 have the answer you need.</p>
 <hr>
 <p><strong>Get in touch with us today for more information:</strong>
@@ -176,14 +176,6 @@ have the answer you need.</p>
 <td rowspan="1" colspan="3">
 <p><a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank"><u>DARE_programme@upec.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Phone</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>(65) 6576 2643</p>
 </td>
 </tr>
 <tr>

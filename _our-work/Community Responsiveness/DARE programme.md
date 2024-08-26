@@ -19,7 +19,7 @@ in under an hour.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_04.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -32,7 +32,7 @@ years) and infants (under 1 year) in additional 30 minutes.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_05.png">
 </div>
 </div>
 <div class="isomer-card-body">

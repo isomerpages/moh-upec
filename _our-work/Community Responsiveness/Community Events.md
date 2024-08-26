@@ -16,9 +16,8 @@ with World Restart A Heart (WRAH) Day. It aims to raise public awareness
 about Out-of-Hospital Cardiac Arrest (OHCA) and to recognise the selfless
 dedication of laypersons and pre-hospital providers who have played a role
 in saving lives from OHCA. At the ceremony, survivors show their appreciation
-by awarding certificates of appreciation to the bystanders, 995 staff,
-paramedics and MyResponder volunteers who came forth and assisted in resuscitating
-them.</p>
+by awarding certificates of appreciation to the bystanders, 995 specialists,
+paramedics and MyResponder volunteers who assisted in resuscitating them.</p>
 <p></p>
 <p>Festive of Hands</p>
 <p></p>

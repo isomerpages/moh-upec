@@ -18,4 +18,3 @@ Resuscitation (CPR) and the use of an Automated External Defibrillator
 the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong> are
 two (2) initiatives led by UPEC, aiming at enhancing health literacy and
 public awareness.</p>
-<p></p>

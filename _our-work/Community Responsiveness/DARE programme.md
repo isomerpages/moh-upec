@@ -39,7 +39,6 @@ this fun and interactive hands-on programme allows participants to learn
 how to co-operate with the 995 specialists, perform chest compressions
 and use an Automated External Defibrillator (AED) on a cardiac arrest victim
 in under an hour.</p>
-<p></p>
 <p><strong><u>DARE programme (Supplementary)</u></strong>
 </p>
 <div class="isomer-card-grid">
@@ -71,7 +70,6 @@ an AED.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Milestones</strong>

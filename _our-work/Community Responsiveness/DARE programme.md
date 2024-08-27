@@ -50,6 +50,18 @@ an AED.</div>
 </div>
 </div>
 <div class="isomer-card-body">
+<div class="isomer-card-title">SGSecure Movement</div>
+<div class="isomer-card-description">In response to the threat of terrorism, SGSecure advisories are incorporated
+in the DARE programme during community centre sessions.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
 <div class="isomer-card-title">MOE Schools</div>
 <div class="isomer-card-description">The Ministry of Education has collaborated to provide hands-on CPR+AED
 training to Secondary One students, with theory-based knowledge included

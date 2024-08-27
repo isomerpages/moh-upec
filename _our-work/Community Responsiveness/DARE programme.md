@@ -50,7 +50,7 @@ an AED.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CPR+AED in MOE Schools</div>
+<div class="isomer-card-title">MOE Schools</div>
 <div class="isomer-card-description">The Ministry of Education has collaborated to provide hands-on CPR+AED
 training to Secondary One students, with theory-based knowledge included
 in Primary Five’s Health Education.</div>
@@ -63,7 +63,7 @@ in Primary Five’s Health Education.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CPR+AED to Migrant Domestic Workers</div>
+<div class="isomer-card-title">Migrant Domestic Workers</div>
 <div class="isomer-card-description">With support from the Ministry of Manpower, first-time migrant domestic
 workers will receive a brief CPR+AED introduction as part of their Settling-In
 Programme to better support Singapore’s aging population.</div>

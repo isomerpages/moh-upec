@@ -50,7 +50,7 @@ an AED.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Train the Trainer</div>
+<div class="isomer-card-title">Train-the-Trainer</div>
 <div class="isomer-card-description">Sustaining the DARE programme in our community is crucial. A Train-the-Trainer
 (TTT) workshop has been introduced to schools, corporations, and interest
 groups to train volunteers as DARE adjunct trainers.</div>
@@ -63,7 +63,7 @@ groups to train volunteers as DARE adjunct trainers.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">SGSecure Movement</div>
+<div class="isomer-card-title">MHA's SGSecure Movement</div>
 <div class="isomer-card-description">In response to the threat of terrorism, SGSecure advisories are incorporated
 in the DARE programme during community centre sessions.</div>
 </div>
@@ -75,7 +75,7 @@ in the DARE programme during community centre sessions.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">MOE Schools</div>
+<div class="isomer-card-title">Primary &amp; Secondary Schools</div>
 <div class="isomer-card-description">The Ministry of Education has collaborated to provide hands-on CPR+AED
 training to Secondary One students, with theory-based knowledge included
 in Primary Five’s Health Education.</div>

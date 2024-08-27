@@ -19,7 +19,8 @@ in saving lives from OHCA. At the ceremony, survivors show their appreciation
 by awarding certificates of appreciation to the bystanders, 995 specialists,
 paramedics and MyResponder volunteers who assisted in resuscitating them.</p>
 <p></p>
-<p>Festive of Hands</p>
+<p><strong><u>Festive of Hands</u></strong>
+</p>
 <p></p>
 <p>Roadshows</p>
 <p>To increase public awareness of CPR and AED, we collaborate with our partners

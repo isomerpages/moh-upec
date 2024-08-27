@@ -20,6 +20,7 @@ paramedics and MyResponder volunteers who assisted in resuscitating them.</p>
 <p></p>
 <p><strong><u>DARE 'Festival of Hands' Campaign</u></strong>
 </p>
+<p></p>
 <p>On the fifth anniversary of the national programme, DARE continued its
 publicity efforts by hosting the 'Festival of Hands' event at Toa Payoh
 HDB Hub on May 26, 2018.</p>

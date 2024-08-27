@@ -50,6 +50,19 @@ an AED.</div>
 </div>
 </div>
 <div class="isomer-card-body">
+<div class="isomer-card-title">Train the Trainer</div>
+<div class="isomer-card-description">Sustaining the DARE programme in our community is crucial. A Train-the-Trainer
+(TTT) workshop has been introduced to schools, corporations, and interest
+groups to train volunteers as DARE adjunct trainers.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
 <div class="isomer-card-title">SGSecure Movement</div>
 <div class="isomer-card-description">In response to the threat of terrorism, SGSecure advisories are incorporated
 in the DARE programme during community centre sessions.</div>

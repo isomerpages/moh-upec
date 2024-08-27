@@ -146,7 +146,7 @@ Programme to better support Singapore’s aging population.</div>
 <td rowspan="1" colspan="3">
 <p>• Introduction to the enhanced DARE <em>(inclusion of Child+Infant CPR)</em>
 <br>• Collaboration with NLB for regular DARE sessions
-<br>• Collaboration with MOM in MDW’s Settling-In Programme&nbsp;&nbsp;</p>
+<br>• Collaboration with MOM in Migrant Domestic Workers' Settling-In Programme&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>

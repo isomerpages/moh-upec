@@ -30,6 +30,6 @@ launched to reach a wider audience.</p>
 <p></p>
 <p><strong><u>DARE Roadshows</u></strong>
 </p>
-<p>To increase public awareness of CPR and AED, we collaborate with our partners
-to run roadshows at heartlands, attractions and clubhouses.</p>
+<p>To increase public awareness of CPR and AED, we collaborate with various
+partners to run roadshows at heartlands, attractions and clubhouses.</p>
 <p></p>

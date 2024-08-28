@@ -13,9 +13,9 @@ locations:
     title: Unit for Pre-hospital Emergency Care (UPEC)
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@upec.com.sg
-      - other: ""
+      - phone: ""
+      - email: ""
+      - other: Please use the FormSG below.
     title: General Enquiries
 feedback: ""
 ---

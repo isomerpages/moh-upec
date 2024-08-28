@@ -9,8 +9,8 @@ third_nav_title: Community Responsiveness
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover_600x200.png">
 </div>
 <p>Also known as the <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong>,
-this fun and interactive hands-on programme allows participants to learn
-how to co-operate with the 995 specialists, perform chest compressions
+is a fun and interactive hands-on programme that allow participants to
+learn how to co-operate with the 995 specialists, perform chest compressions
 and use an Automated External Defibrillator (AED) on a cardiac arrest victim
 in under an hour.</p>
 <p><strong><u>DARE programme (Supplementary)</u></strong>
@@ -24,9 +24,9 @@ in under an hour.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Child and Infant CPR</div>
-<div class="isomer-card-description">In addition to the DARE programme, participants can learn how to perform
+<div class="isomer-card-description">Complementing the DARE programme, participants can also learn how to perform
 chest compressions and mouth-to-mouth ventilations on children (aged 1-12
-years) and infants (under 1 year) in additional 30 minutes.</div>
+years) and infants (under 1 year) in an additional 30 minutes.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -37,10 +37,10 @@ years) and infants (under 1 year) in additional 30 minutes.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Preschoolers</div>
-<div class="isomer-card-description">We believe that education should start at a young age. Through storytelling,
-young participants (aged 4-6 years) learn the emergency ambulance number
-(995) and gain a basic understanding of chest compressions and how to use
-an AED.</div>
+<div class="isomer-card-description">We believe that education should start early. Through storytelling, young
+participants (aged 4-6 years) learn the emergency ambulance number (995)
+and gain a basic understanding of chest compressions and how to use an
+AED.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -76,9 +76,9 @@ in the DARE programme during community centre sessions.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Primary &amp; Secondary Schools</div>
-<div class="isomer-card-description">The Ministry of Education has collaborated to provide hands-on CPR+AED
-training to Secondary One students, with theory-based knowledge included
-in Primary Five’s Health Education.</div>
+<div class="isomer-card-description">Collaboration with Ministry of Education provides hands-on CPR+AED training
+to Secondary One student, with theory-based knowledge included in Primary
+Five’s Health Education.</div>
 </div>
 </div>
 <div class="isomer-card">

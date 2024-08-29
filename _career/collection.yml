@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Career Opportunities.md
+      - Job Openings/Position 2.md
       - Job Openings/Admin Assistant (JUL001).md
       - Job Openings/.keep

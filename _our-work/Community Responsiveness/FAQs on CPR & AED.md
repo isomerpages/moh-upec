@@ -110,20 +110,137 @@ to go to the aid of someone who can potentially be saved by the skills
 and training which the medical professional possesses.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Q: Why don’t we do a pulse check?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A:</strong> Even some healthcare providers have a hard time telling
+if there is a pulse within</p>
+<p>10 seconds. It is better to give CPR to a person who is unconscious and
+not breathing normally, who is highly likely to be in cardiac arrest, than
+to not give CPR to someone who needs it.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: If I find a person on a bed, should I move him/her to the floor so that I have a hard surface under her back?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A: </strong>If you can, quickly move the person to a firm surface
+(e.g. the floor) to give CPR.</p>
+<p>Make sure you support the head and neck as you move the person. If you
+are alone and can’t move the person, try to find something flat and firm
+(like a piece of board). Slide it under the person's back to provide a
+firm surface.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: When should I stop CPR?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A: </strong>Stop when
+<br>- The person starts to wake up/move/respond
+<br>- Someone else comes to help, and you can take turns to give CPR
+<br>- Someone with more advanced training arrives to take over (e.g. the ambulance
+paramedic)
+<br>- You are too exhausted to continue or it is dangerous for you to continue <em>(resume as soon as you are able to)</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: Why is ventilation not taught?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A:</strong> Any attempt at CPR is better than no attempt. Chest
+compression only CPR performed by a bystander has been shown to be as effective
+as conventional CPR with mouth-to-mouth ventilation in the first few minutes
+of an out-of-hospital sudden cardiac arrest. For bystanders who are not
+willing/able to perform ventilations, chest compression only CPR is a good
+alternative.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: If the victim is gasping for air and do I still continue CPR?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A:</strong> Gasping is considered as not normal breathing. Please
+start CPR as soon as possible.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: Can I perform chest compression on a pregnant victim?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A:</strong> Yes! The steps to perform CPR are the same. Chest compressions
+are performed at the center of victim’s chest (lower half of sternum bone)
+and not at the abdomen.</p>
+</div>
+</details>
 </div>
 <p><strong><u>Automated External Defibrillator (AED)</u></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Q: In public places, where are AEDs found and who can access them?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>A: </strong>All government sports facilities (e.g. sports stadiums
+and gyms), most government facilities (e.g. fire stations and police stations,
+prison link centres, military camps and schools), most major tourist attractions,
+MRT stations, shopping centres, hotels and country clubs are equipped with
+AEDs. There is an ongoing pilot program where AEDs are installed at the
+lift lobby in every 2-3 HDB blocks.&nbsp;</p>
+<p>These AEDs are accessible to anyone who needs them. All laypersons are
+allowed to use them, but undergoing CPR/AED training is highly encouraged
+as it will help you to be familiar with them and use it when it is needed.
+Download the “myResponder” mobile application where there is a function
+that allows you to search for an AED near you.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Q: For conventional certified AED-providers, previously they are taught that, after AED rhythm analysis if no shock is advised, they should check for normal breathing. If there is no normal breathing, to start CPR. For the DARE programme, are bystanders told to check for normal breathing?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>A: </strong>In DARE training, minimum interruption to chest compressions
+is emphasised. The appropriate time to check for normal breathing is the
+beginning, when the dispatcher asks to confirm lack of responsiveness and
+normal breathing, as well as during AED rhythm analysis. If there are still
+no normal breathing observed and no shock is advised, immediately begin
+chest compression.&nbsp;
+<br>~ <em>Dr Francis Lee, Head of Defibrillation Committee, National Resuscitation Council, Senior Consultant at Khoo Teck Puat Hospital</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: What if there is no AED available?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A: </strong>Continue CPR until EMS help arrives, or when the victim
+starts to wake up/move/respond.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: Can I use the AED on a pregnant victim?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A:</strong> Yes! The steps to use the AED are the same. Our priority
+is to increase the chances of survival in any cardiac arrest victim. There
+are no scientific papers supporting the result that AED causes more harm
+when used on a pregnant victim.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: What are the dangers the participants must critically take note before the use of AED?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A: </strong>Participants should take care of personal safety in
+the environment, and also be aware of potential hazards related to the
+transmission of electricity if an AED shock needs to be delivered. For
+example, the patient should be wiped down as best as you can if he/she
+is rescued from a swimming pool and also the shock should not be delivered
+in an environment with an active gas leakage. Also precautions should be
+taken if the patient is lying down on a metal surface as a small amount
+of electrical energy may be transmitted via the metal surface. Ensure that
+you are wearing shoes and avoid barefoot contact.</p>
 </div>
 </details>
 </div>

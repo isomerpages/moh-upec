@@ -196,12 +196,11 @@ Programme to better support Singapore’s aging population.</div>
 </div>
 </details>
 </div>
-<p></p>
-<p>Questions regarding the DARE programme and/or CPR+AED related matters?
+<p>Questions regarding CPR+AED?
 <br>Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
 have the answer you need.</p>
 <hr>
-<p><strong>Get in touch with us today for more information:</strong>
+<p><strong>Get in touch with us today for more information and to arrange a group training:</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>

@@ -65,7 +65,7 @@ to help a stranger.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Q: I<strong>f I attempt resuscitation and the victim passes away, will I be in trouble with the law?</strong>
+<summary><strong>Q:</strong> I<strong>f I attempt resuscitation and the victim passes away, will I be in trouble with the law?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> The law requires Good Samaritans to act reasonably.

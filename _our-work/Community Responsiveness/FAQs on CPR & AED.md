@@ -65,7 +65,7 @@ to help a stranger.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q:</strong> I<strong>f I attempt resuscitation and the victim passes away, will I be in trouble with the law?</strong>
+<summary><strong>Q: If I attempt resuscitation and the victim passes away, will I be in trouble with the law?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> The law requires Good Samaritans to act reasonably.
@@ -82,10 +82,10 @@ truly in dire need of help and intervention.</p>
 <summary><strong>Q: If I attempt resuscitation and the victim survives but has an injury directly resulting from my intervention e.g. rib fracture, will I get into trouble?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: So long as you apply CPR in accordance with proper techniques, there
-should be no liability, even if the victim were to sustain injuries that
-are known complications of CPR/external chest compressions, such as rib
-fractures.</p>
+<p><strong>A:</strong> So long as you apply CPR in accordance with proper
+techniques, there should be no liability, even if the victim were to sustain
+injuries that are known complications of CPR/external chest compressions,
+such as rib fractures.</p>
 </div>
 </details>
 <details class="isomer-details">

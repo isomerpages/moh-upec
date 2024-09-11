@@ -41,8 +41,8 @@ just because you are female; you are equally capable of initiating resuscitation
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Let this not be a barrier to the victim receiving timely
 life-saving help. Call 995 and stay on the line, the 995-dispatcher is
-trained to guide you through the steps.</p>
-<p>~ <em>Dr Benjamin Leong,</em>  <em>Deputy Director, UPEC</em>
+trained to guide you through the steps.
+<br>~ <em>Dr Benjamin Leong,</em>  <em>Deputy Director, UPEC</em>
 </p>
 </div>
 </details>
@@ -113,7 +113,13 @@ and training which the medical professional possesses.</p>
 </div>
 <p><strong><u>Automated External Defibrillator (AED)</u></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 <details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">

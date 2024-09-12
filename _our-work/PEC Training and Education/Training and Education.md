@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Training and Education
 ---
-<h1><strong>Pre-hospital Training and Education</strong></h1>
+<h1><strong>Overview</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Prehospital-Training-and-Education-1.jpg">
 </div>

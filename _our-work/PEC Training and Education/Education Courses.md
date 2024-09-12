@@ -28,7 +28,8 @@ out-of-hospital cardiac arrest (OHCA) survival rates.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Emergency Medical Services (EMS) Medical Directors’ Course</summary>
+<summary><strong>Emergency Medical Services (EMS) Medical Directors’ Course</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -108,13 +109,14 @@ and two 4-hour Zoom sessions.</p>
 <p></p>
 </div>
 </details>
-</div>
-<h1></h1>
-<p></p>
-<h1><strong>Targeted Temperature Management (TTM) Provider Course</strong></h1>
+<details class="isomer-details">
+<summary><strong>Targeted Temperature Management (TTM) Provider Course</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">
 </div>
+<p></p>
 <p>TTM was strongly recommended by ILCOR (2015) and NRC (2016) as a component
 of post resuscitation care. It has been known to be effective to im-prove
 the survival rate and neurological function outcome of patients after cardiac
@@ -151,7 +153,12 @@ For more information on this national workgroup, please click <a href="http://up
 </ul>
 <p>Next Course: (The course is suspended due to COVID-19. Check out here
 for the latest update).</p>
-<h1><strong>NAEMT Courses</strong></h1>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>NAEMT Courses</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="Advanced-Medical--Life-Support" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Advanced-Medical-Life-Support.jpg">
 </div>
@@ -159,8 +166,15 @@ for the latest update).</p>
 of our pre-hospital providers. The NAEMT Courses in Singapore are coordinated
 by Trauma Training Centre, TTSH (for trauma courses) and UPEC (for all
 other courses) in Singapore. UPEC members are also part of PHTLS core faculty.</p>
+<p></p>
 <p>For more information about NAEMT and courses not offered in Singapore,
 please visit <a href="https://www.naemt.org/education" rel="noopener noreferrer nofollow" target="_blank">NAEMT</a>.</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
 </div>

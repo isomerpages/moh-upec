@@ -18,7 +18,7 @@ worked hand in hand with other stakeholders, such as SCDF, SMTI and paramedic
 training institutions, to enhance the quality of training and education
 for paramedics.</p>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>National PEC Training Committee</strong>
 </summary>
@@ -50,6 +50,28 @@ for EMTs and paramedics, with the long term goal to establish paramedicine
 as a recognised profession.</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Simulation for PEC</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/first_aid_training.jpg">
+</div>
+<p>Simulation as a means of training in a safe and controlled environment
+has become increasingly common in the field of pre-hospital emergency care.</p>
+<p></p>
+<p>UPEC staff and physicians work closely with SCDF paramedic educators to
+create simulation scenarios or environments that allow paramedics to practice,
+learn, evaluate, and test both existing and new knowledge and skills. It
+also helps paramedic crews foster teamwork and develop a better understanding
+of systems and team dynamics.</p>
+<p></p>
+<p>UPEC and SEMS collaborated in organizing EMS SIMWars. UPEC also assists
+SAF and SCDF paramedics in preparing for competitions such as the international
+Ferno Australia Paramedic Simulation. Paramedic teams have participated
+since 2014, with the SCDF team achieving 1st runner-up in the same year.</p>
 </div>
 </details>
 </div>

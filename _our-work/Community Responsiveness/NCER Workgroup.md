@@ -26,5 +26,3 @@ Foundation (SHF), Singapore Resuscitation and First Aid Council (SRFAC),
 and Unit for Pre-hospital Emergency Care (UPEC). The committee operates
 under the leadership of <strong>Dr. Michael Chia</strong>, <em>Senior Consultant at Tan Tock Seng Hospital</em>,
 and <strong>SAC Abdul Razak Bin Abdul Raheem</strong><em>, Director of the Volunteer &amp; Community Partnership Department (VCPD) at the Singapore Civil Defence Force (SCDF)</em>.</p>
-<p></p>
-<p>include benchmark slide (KPI indicator)</p>

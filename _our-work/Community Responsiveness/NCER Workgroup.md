@@ -17,7 +17,7 @@ It also serves as a platform for information sharing among different stakeholder
 and is dedicated to making sustainable efforts to drive culture change.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCER_org_chart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_03.png">
 </div>
 <p>The NCER workgroup committee is composed of representatives from the Ministry
 of Education, Ministry of Defence, Ministry of Home Affairs, Ministry of

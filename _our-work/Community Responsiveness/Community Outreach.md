@@ -28,8 +28,8 @@ paramedics and MyResponder volunteers who assisted in resuscitating them.</p>
 publicity efforts by hosting the 'Festival of Hands' event at Toa Payoh
 HDB Hub on May 26, 2018.</p>
 <p>The objective of this public engagement event was to continue raising
-awareness about cardiac arrest. At the event, the DARE mobile application
-and the 'How We Save A Heart' storybook <em>(written by Dr Jade Kua)</em> were
+awareness about cardiac arrest. At the event, the DARE mobile application <em>(decommissioned on 30 September 2021)</em> and
+the 'How We Save A Heart' storybook <em>(written by Dr Jade Kua)</em> were
 launched to reach a wider audience.</p>
 <p></p>
 <p><strong><u>DARE Roadshows</u></strong>

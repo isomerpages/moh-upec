@@ -180,11 +180,12 @@ please visit <a href="https://www.naemt.org/education" rel="noopener noreferrer 
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
+<img style="width: 50%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
 </div>
 </th>
 <td rowspan="1" colspan="2">
-<p>Pre-Hospital Trauma Life Support (PHTLS)</p>
+<p><strong>Pre-Hospital Trauma Life Support (PHTLS)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +211,8 @@ centres in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>PHTLS for First Responders (PHTLS FR)</p>
+<p><strong>PHTLS for First Responders (PHTLS FR)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +240,8 @@ relevant to and accessible by first responders, and EMTs.</p>
 </div>
 </td>
 <td rowspan="1" colspan="2">
-<p>Advanced Medical Life Support (AMLS)</p>
+<p><strong>Advanced Medical Life Support (AMLS)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,9 +268,8 @@ by UPEC in 2019.</p>
 <img style="width: 50%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
+<img style="width: 50%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Tactical Combat Casualty Care (TCCC) / Tactical Emergency Casualty Care (TECC)</strong>

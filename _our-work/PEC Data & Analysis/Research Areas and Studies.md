@@ -11,7 +11,7 @@ third_nav_title: PEC Data & Analysis
 <h2>Research Areas</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Out-of-hospital (OHCA): CPR, AED, community-based interventions.</p>
+<p>Out-of-hospital cardiac arrest (OHCA): CPR, AED and community-based interventions.</p>
 </li>
 <li>
 <p>Post-OHCA care</p>
@@ -44,7 +44,7 @@ third_nav_title: PEC Data & Analysis
 <ol data-tight="true" class="tight">
 <li>
 <p>Bystander CPR and survival in six regions of Singapore saturated with
-trained and equipped volunteers with AED access (including TCPRLink).</p>
+trained and equipped volunteers with AED access (including TCPR Link).</p>
 </li>
 <li>
 <p>AED on Wheels: A Pilot Programme to Equip Singapore Taxis with AEDs.</p>
@@ -94,7 +94,7 @@ Knowledge, and Attitudes amongst Laypersons.</p>
 <p>Evaluation of Save-A-life Initiative.</p>
 </li>
 <li>
-<p>Comparative study on quality of cpr by first responder through video assisted
+<p>Comparative study on quality of CPR by first responder through video assisted
 coaching versus video assisted coaching using real-time feedback with a
 CPRcard™.</p>
 </li>

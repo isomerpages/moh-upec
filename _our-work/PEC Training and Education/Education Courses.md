@@ -5,15 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Training and Education
 ---
-<h1></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="300" width="300" title="logo-resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/logo-resuscitation_academy-300x300.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="873" width="1600" title="resuscitation_academy" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/resuscitation_academy.jpg">
-</div>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Resuscitation Academy</strong>
 </summary>
@@ -34,11 +27,14 @@ local and international courses, supporting EMS in the region to improve
 out-of-hospital cardiac arrest (OHCA) survival rates.</p>
 </div>
 </details>
-</div>
-<h1><strong>Emergency Medical Services (EMS) Medical Directors’ Course</strong></h1>
+<details class="isomer-details">
+<summary>Emergency Medical Services (EMS) Medical Directors’ Course</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
 </div>
+<p></p>
 <p>The series of Emergency Medical Services (EMS) Medical Directors’ Course
 are the localized version of the NAEMSP Medical Directors Course. It aims
 to provide EMS knowledge and skills for participants who are required to
@@ -109,8 +105,12 @@ offers commanders from SCDF an oversight of EMS.</p>
 <p>In view of the current COVID-19 situation, UPEC organised a hybrid of
 the Basic &amp; Advanced combined Online course, which include e-learning
 and two 4-hour Zoom sessions.</p>
-<p><strong>Next Course Date:</strong> 24 &amp; 27 Sep 2021</p>
-<p>Should you have any query, please click <a href="https://upec.rawmix.xyz/contact/" rel="noopener noreferrer nofollow" target="_blank">here</a> and drop us a message.</p>
+<p></p>
+</div>
+</details>
+</div>
+<h1></h1>
+<p></p>
 <h1><strong>Targeted Temperature Management (TTM) Provider Course</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">

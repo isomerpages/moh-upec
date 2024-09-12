@@ -6,7 +6,11 @@ description: ""
 third_nav_title: PEC Training and Education
 ---
 <h3><strong>Accredited Institutions in Singapore</strong></h3>
-<h4><strong>Emergency Medical Technicians (EMT)</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Emergency Medical Technicians (EMT)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/pre-hospital-emergency-medical-services" rel="noopener noreferrer nofollow" target="_blank">SingHealth Alice Lee Institute of Advanced Nursing (IAN)</a>
@@ -33,7 +37,12 @@ third_nav_title: PEC Training and Education
 </p>
 </li>
 </ul>
-<h4><strong>Paramedic</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Paramedic</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Certificate Programmes</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -46,14 +55,7 @@ third_nav_title: PEC Training and Education
 </p>
 </li>
 </ul>
-<p><strong>Higher National Institute of Technical Education Certificate (NITEC) Programmes</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-paramedic-and-emergency-care" rel="noopener" target="_blank">Institute of Technical Education</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p><strong>Diploma Programmes by Nanyang Polytechnic</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -66,6 +68,25 @@ third_nav_title: PEC Training and Education
 </p>
 </li>
 </ul>
-<h4><strong>EMT and Paramedic Trained Overseas</strong></h4>
-<p>Please refer to the credentialing framework for <a href="https://upec.rawmix.xyz/pec-strategy/standards-and-licensing/foreign-trained-paramedics-emergency-medical-technicians/" rel="noopener" target="_blank">Foreign-Trained Paramedics and Emergency Medical Technicians</a>
+<p></p>
+<p><strong>Higher National Institute of Technical Education Certificate (NITEC) Programmes</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.ite.edu.sg/courses/course-finder/course/higher-nitec-in-paramedic-and-emergency-care" rel="noopener" target="_blank">Institute of Technical Education</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>EMT and Paramedic Trained Overseas</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please refer to the credentialing framework for <a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/our-work/credentialing-of-foreign-trained-paramedics-and-emts/" rel="noopener nofollow" target="_blank">Foreign-Trained Paramedics and Medical Technicians</a>
+</p>
+</div>
+</details>
+</div>
+<h4></h4>
+<p></p>

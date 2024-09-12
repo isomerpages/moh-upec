@@ -170,15 +170,25 @@ other courses) in Singapore. UPEC members are also part of PHTLS core faculty.</
 <p>For more information about NAEMT and courses not offered in Singapore,
 please visit <a href="https://www.naemt.org/education" rel="noopener noreferrer nofollow" target="_blank">NAEMT</a>.</p>
 <p></p>
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="300" width="300" title="phtls-300x300" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/phtls-300x300-1.png">
 </div>
-<h3><strong>Pre-Hospital Trauma Life Support (PHTLS)</strong></h3>
+</th>
+<td rowspan="1" colspan="2">
+<p>Pre-Hospital Trauma Life Support (PHTLS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Pre-hospital Trauma Life Support (PHTLS) is recognized around the world
 as the leading continuing education program for pre-hospital emergency
 trauma care. PHTLS is developed by NAEMT in cooperation with the American
@@ -196,7 +206,15 @@ centres in Singapore.</p>
 </p>
 </li>
 </ul>
-<h3><strong>PHTLS for First Responders (PHTLS FR)</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>PHTLS for First Responders (PHTLS FR)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>PHTLS for First Responders (PHTLS-FR) adapts the world-class trauma care
 content from the 9th edition of PHTLS and delivers it in a style that is
 relevant to and accessible by first responders, and EMTs.</p>
@@ -211,6 +229,31 @@ relevant to and accessible by first responders, and EMTs.</p>
 </p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
 </div>

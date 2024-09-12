@@ -234,7 +234,7 @@ relevant to and accessible by first responders, and EMTs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
+<img style="width: 50%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">
@@ -262,7 +262,7 @@ by UPEC in 2019.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
+<img style="width: 50%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
@@ -295,7 +295,7 @@ care for patients in a civilian tactical environment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
+<img style="width: 50%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
 </div>
 </td>
 <td rowspan="1" colspan="2">

@@ -233,13 +233,92 @@ relevant to and accessible by first responders, and EMTs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p>Advanced Medical Life Support (AMLS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Advanced Medical Life Support (AMLS) remains the gold standard of education
+for emergency medical assessment and treatment. AMLS emphasizes the use
+of the AMLS Assessment Pathway, a systematic tool for assessing and managing
+common medical conditions with urgent accuracy. The course is endorsed
+by the National Association of EMS Physicians and brought into Singapore
+by UPEC in 2019.</p>
+<p></p>
+<p>Authorised Training Centres for AMLS:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.stjohn.org.sg/" rel="noopener" target="_blank">St John Singapore</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
+</div>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>Tactical Combat Casualty Care (TCCC) / Tactical Emergency Casualty Care (TECC)</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Tactical Combat Casualty Care (TCCC) is developed by the U.S. Department
+of Defense, Defense Health Agency (DHA) Joint Trauma System to teach evidence-based,
+life-saving techniques and strategies for providing the best trauma care
+on the battlefield. Tactical Emergency Casualty Care (TECC) course teaches
+EMS practitioners and other pre-hospital providers how to respond to and
+care for patients in a civilian tactical environment.</p>
 <p></p>
+<p>Authorised Training Centres for TCCC &amp; TECC:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.aris-im.com/trauma-first-responder-tfr" rel="noopener" target="_blank">ARIS Integrated Medical</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
+</div>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Geriatric Education for EMS (GEMS)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Advanced Medical Life Support (AMLS) remains the gold standard of education
+for emergency medical assessment and treatment. AMLS emphasizes the use
+of the AMLS Assessment Pathway, a systematic tool for assessing and managing
+common medical conditions with urgent accuracy. The course is endorsed
+by the National Association of EMS Physicians and brought into Singapore
+by UPEC in 2019.</p>
+<p></p>
+<p>Authorised Training Centres for GEMS:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.stjohn.org.sg/" rel="noopener" target="_blank">St John Singapore</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -249,65 +328,13 @@ relevant to and accessible by first responders, and EMTs.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3></h3>
 <p></p>
 <h3></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="225" width="225" title="amls" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/amls.png">
-</div>
-<h3><strong>Advanced Medical Life Support (AMLS)</strong></h3>
-<p>Advanced Medical Life Support (AMLS) remains the gold standard of education
-for emergency medical assessment and treatment. AMLS emphasizes the use
-of the AMLS Assessment Pathway, a systematic tool for assessing and managing
-common medical conditions with urgent accuracy. The course is endorsed
-by the National Association of EMS Physicians and brought into Singapore
-by UPEC in 2019.</p>
-<p>Authorised Training Centres for AMLS:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.stjohn.org.sg/" rel="noopener" target="_blank">St John Singapore</a>
-</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="180" width="180" title="tecc" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/tecc.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="222" width="220" title="Tactical_combat_casualty_care_logo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Tactical_combat_casualty_care_logo.png">
-</div>
-<h3><strong>Tactical Combat Casualty Care (TCCC) / Tactical Emergency Casualty Care (TECC)</strong></h3>
-<p>Tactical Combat Casualty Care (TCCC) is developed by the U.S. Department
-of Defense, Defense Health Agency (DHA) Joint Trauma System to teach evidence-based,
-life-saving techniques and strategies for providing the best trauma care
-on the battlefield. Tactical Emergency Casualty Care (TECC) course teaches
-EMS practitioners and other pre-hospital providers how to respond to and
-care for patients in a civilian tactical environment.</p>
-<p>Authorised Training Centres for TCCC &amp; TECC:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.aris-im.com/trauma-first-responder-tfr" rel="noopener" target="_blank">ARIS Integrated Medical</a>
-</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="300" width="300" title="gems" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/gems.png">
-</div>
-<h3><strong>Geriatric Education for EMS (GEMS)</strong></h3>
-<p>Advanced Medical Life Support (AMLS) remains the gold standard of education
-for emergency medical assessment and treatment. AMLS emphasizes the use
-of the AMLS Assessment Pathway, a systematic tool for assessing and managing
-common medical conditions with urgent accuracy. The course is endorsed
-by the National Association of EMS Physicians and brought into Singapore
-by UPEC in 2019.</p>
-<p>Authorised Training Centres for GEMS:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.stjohn.org.sg/" rel="noopener" target="_blank">St John Singapore</a>
-</p>
-</li>
-</ul>
+<h3></h3>
+<h3></h3>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

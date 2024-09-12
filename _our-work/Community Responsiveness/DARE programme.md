@@ -59,7 +59,7 @@ groups to train volunteers as DARE adjunct trainers.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_09.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -71,7 +71,7 @@ in the DARE programme during community centre sessions.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_10.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -84,7 +84,7 @@ Five’s Health Education.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_11.png">
 </div>
 </div>
 <div class="isomer-card-body">

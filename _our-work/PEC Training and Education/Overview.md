@@ -29,6 +29,7 @@ Emergency Medical Technicians (EMT) to safeguard a good standard of care
 and the safety of patients. NPTC comprises members from the Unit for Pre-hospital
 Emergency Care (UPEC), the Singapore Armed Forces (SAF), Singapore Civil
 Defence Force (SCDF) and various PEC training providers.</p>
+<p></p>
 <p>The aims of NPTC includes:</p>
 <ul data-tight="true" class="tight">
 <li>

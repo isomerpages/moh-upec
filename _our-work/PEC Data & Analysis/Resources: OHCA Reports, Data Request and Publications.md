@@ -60,7 +60,7 @@ processing.</p>
 </p>
 </li>
 </ul>
-<p>For more information and queries, please also drop Miss Asyikin an email.
+<p>For more information and queries, please also drop Ms Asyikin an email.
 All email responses will be within 3 working days.</p>
 <hr>
 <div class="isomer-image-wrapper">

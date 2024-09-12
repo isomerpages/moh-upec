@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h3>Operational Medical Network Informatics Integrators (OMNII)</h3>
-<p>The project OMNII is a collaboration between MOH and MHA-SCDF to provide
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TuWYYhB6U9Q"></iframe>
+</div>
+<p>
+<br>
+<br>The project OMNII is a collaboration between MOH and MHA-SCDF to provide
 seamless data sharing among the 995 Ops center, the ground ambulance team
 and the hospitals’ emergency departments. UPEC co-chairs this project with
 SCDF. We provide the project with clinical advice and operational inputs

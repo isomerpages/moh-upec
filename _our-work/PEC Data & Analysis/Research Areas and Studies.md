@@ -26,10 +26,16 @@ third_nav_title: PEC Data & Analysis
 <p>Community response to OHCA</p>
 </li>
 <li>
-<p>Ambulance diversion and ED overcrowding</p>
+<p>Ambulance diversion and Emergency Department (ED) overcrowding</p>
 </li>
 <li>
 <p>ED frequent flyers</p>
+</li>
+<li>
+<p>Patient care standards and monitoring outcomes</p>
+</li>
+<li>
+<p>Managing demand for Emergency Ambulance Services (EAS)</p>
 </li>
 </ol>
 <hr>

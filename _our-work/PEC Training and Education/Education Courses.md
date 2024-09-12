@@ -19,7 +19,7 @@ third_nav_title: PEC Training and Education
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RA_SIngapore_Logo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RA_SIngapore_Logo.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

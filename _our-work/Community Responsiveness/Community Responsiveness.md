@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_14.png">
+</div>
 <p>Sudden cardiac arrest (SCA) occurs when the heart suddenly stops beating.
 The victim is not responsive and does not breathe normally. Mortality is
 usually high and timely intervention, also known as the ‘Chain of Survival’,

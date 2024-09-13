@@ -130,7 +130,7 @@ seeking employment in Singapore. The panel is composed of qualified professional
 including nurses, paramedics, and Emergency Medicine (EM) physicians recognized
 by UPEC.</p>
 <p>Each review panel must include at least one EM physician, ensuring medical
-expertise in the evaluation process. The UPEC Medical Director is responsible
+expertise in the evaluation process. The UPEC Clinical Director is responsible
 for assigning the panel members, and their role is to review the candidate's
 qualifications, ensuring they meet Singapore's high standards for practicing
 in emergency medical services.</p>

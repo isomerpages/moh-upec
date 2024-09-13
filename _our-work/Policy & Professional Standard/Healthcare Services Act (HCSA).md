@@ -52,6 +52,37 @@ to manage urgent medical situations.</p>
 ensuring the safe transfer of patients between locations.</p>
 </li>
 </ul>
+<p><strong>CGO (Clinical Governance Officer) Requirements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>MTS CGO</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Must be an SNB-registered nurse with 5+ years of experience in selected
+disciplines, or</p>
+</li>
+<li>
+<p>SMC-registered practitioner, or</p>
+</li>
+<li>
+<p>Clinical Director with 5+ years of experience.</p>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>EAS CGO</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Must be an SMC-registered specialist, or</p>
+</li>
+<li>
+<p>SMC-registered practitioner with 10+ years of experience in selected disciplines.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p><strong>General Requirements for All Personnel:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -77,11 +108,13 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 </li>
 </ul>
 </li>
-</ul>
+<li>
 <p>By ensuring that all personnel meet these training and certification standards,
 private ambulance operators (PAOs) will be better equipped to deliver safe,
 high-quality emergency and medical transport services, fully aligned with
 MOH regulations and the HCSA requirements.</p>
+</li>
+</ul>
 <p><strong>Licence Conditions for EAS and MTS</strong>
 </p>
 <p>MOH has established Licence Conditions (LCs) for EAS and MTS under the

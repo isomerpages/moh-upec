@@ -21,8 +21,9 @@ aspects of the services provided. In addition to this, the crews must be
 appropriately trained, hold valid certifications, and be equipped with
 up-to-date equipment and medications.</p>
 <p>The Ministry of Health (MOH) will conduct regular inspections to ensure
-compliance with these requirements. PAOs operating without a valid HCSA
-license or using unlicensed vehicles will be in violation of the HCSA regulations.</p>
+compliance with these requirements. Private Ambulance Operators (PAOs)
+operating without a valid HCSA license or using unlicensed vehicles will
+be in violation of the HCSA regulations.</p>
 <p>Here is a brief summary of the EAS and MTS Crew requirements:</p>
 <p><strong>EAS Crew (Recommended: 3 persons)</strong>
 </p>
@@ -52,7 +53,7 @@ to manage urgent medical situations.</p>
 ensuring the safe transfer of patients between locations.</p>
 </li>
 </ul>
-<p><strong>CGO (Clinical Governance Officer) Requirements:</strong>
+<p><strong>CGO Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,9 +111,10 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 </li>
 <li>
 <p>By ensuring that all personnel meet these training and certification standards,
-private ambulance operators (PAOs) will be better equipped to deliver safe,
-high-quality emergency and medical transport services, fully aligned with
-MOH regulations and the HCSA requirements.</p>
+PAOs will be better equipped to deliver safe, high-quality emergency and
+medical transport services, fully aligned with MOH regulations and the
+HCSA requirements.</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Licence Conditions for EAS and MTS</strong>

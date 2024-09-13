@@ -122,8 +122,7 @@ Application Form. If you are hiring foreign-trained EMTs, use the EMT Credential
 Application Form.</p>
 <p>Applications and inquiries can be directed to UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
 <p></p>
-<p><strong>PEC Training Review Panel</strong>
-</p>
+<h4><strong>PEC Training Review Panel</strong></h4>
 <p>As part of this framework, the <strong>PEC Training Review Panel</strong> has
 been established to assess the credentials of paramedic and EMT candidates
 seeking employment in Singapore. The panel is composed of qualified professionals,

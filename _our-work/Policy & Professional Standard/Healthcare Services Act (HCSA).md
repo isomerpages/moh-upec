@@ -78,7 +78,6 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 private ambulance operators (PAOs) will be better equipped to deliver safe,
 high-quality emergency and medical transport services, fully aligned with
 MOH regulations and the HCSA requirements.</p>
-<p></p>
 <p><strong>Licence Conditions for EAS and MTS</strong>
 </p>
 <p>MOH has established Licence Conditions (LCs) for EAS and MTS under the

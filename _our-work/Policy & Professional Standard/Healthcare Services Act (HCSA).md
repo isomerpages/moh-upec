@@ -71,8 +71,9 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 </p>
 </li>
 <li>
-<p><a href="https://srfac.sg/" rel="noopener nofollow" target="_blank">BCLS, CPR and AED</a> 
+<p><a href="http://srfac.sg/directory/training-centre/?tc=14" rel="noopener nofollow" target="_blank">Basic/Advanced Cardiac Life Support, CPR &amp; AED, first aid training</a>
 </p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -104,4 +105,5 @@ information, refer to the specific license conditions documents.</p>
 </ol>
 <p>For more information on Emergency Ambulance Service (EAS), <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
 <p>For more information on Medical Transport Service (MTS), <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
+<p></p>
 <p></p>

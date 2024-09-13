@@ -66,7 +66,8 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 <p>EMT Recertification Programme</p>
 </li>
 <li>
-<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care</p>
+<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care <a href="https://cms.isomer.gov.sg/sites/moh-upec/folders/courses-and-seminars/subfolders/Certification%20Renewal%20Courses/editPage/Joint%20ITE%20UPEC%20Certificate%20in%20Prehospital%20Emergency%20Care%20Course.md" rel="noopener nofollow" target="_blank">Click here </a>
+</p>
 </li>
 <li>
 <p>Basic/Advanced Cardiac Life Support, AED use &amp; first aid training</p>

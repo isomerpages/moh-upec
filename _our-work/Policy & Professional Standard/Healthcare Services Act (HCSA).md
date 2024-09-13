@@ -63,11 +63,11 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 <p>Medical Directors’ Workshop</p>
 </li>
 <li>
-<p>EMT Recertification Programme <a href="https://cms.isomer.gov.sg/sites/moh-upec/folders/courses-and-seminars/subfolders/Certification%20Renewal%20Courses/editPage/Emergency%20Medical%20Technician%20(EMT)%20Recertification%20Programme.md" rel="noopener nofollow" target="_blank">Click here</a>
+<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/emergency-medical-technician-emt-recertification-programme/" rel="noopener nofollow" target="_blank">EMT Recertification Programme</a>
 </p>
 </li>
 <li>
-<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care <a href="https://cms.isomer.gov.sg/sites/moh-upec/folders/courses-and-seminars/subfolders/Certification%20Renewal%20Courses/editPage/Joint%20ITE%20UPEC%20Certificate%20in%20Prehospital%20Emergency%20Care%20Course.md" rel="noopener nofollow" target="_blank">Click here</a>
+<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/joint-ite-upec-certificate-in-prehospital-emergency-care-course/" rel="noopener nofollow" target="_blank">Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course </a> 
 </p>
 </li>
 <li>

@@ -67,11 +67,12 @@ any necessary <strong>recertification programs</strong>, such as:</p>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/joint-ite-upec-certificate-in-prehospital-emergency-care-course/" rel="noopener nofollow" target="_blank">Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course </a> 
+<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/joint-ite-upec-certificate-in-prehospital-emergency-care-course/" rel="noopener nofollow" target="_blank">Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</a>
 </p>
 </li>
 <li>
-<p>Basic/Advanced Cardiac Life Support, AED use &amp; first aid training</p>
+<p><a href="https://srfac.sg/" rel="noopener nofollow" target="_blank">BCLS, CPR and AED</a> 
+</p>
 </li>
 </ul>
 </li>

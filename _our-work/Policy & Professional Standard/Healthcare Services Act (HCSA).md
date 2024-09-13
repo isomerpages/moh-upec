@@ -13,14 +13,72 @@ licensing framework. The HCSA is being implemented in three phases: January
 <p><strong>HCSA Ambulance Regulatory Framework</strong>
 </p>
 <p>As of January 3, 2022, all private ambulance services must be licensed
-under the HCSA, categorized as either Emergency Ambulance Service (EAS)
-or Medical Transport Service (MTS). The framework includes the role of
-the Clinical Governance Officer (CGO), responsible for the clinical and
-technical oversight of services. EAS and MTS crews must be properly trained
-and certified, and vehicles must be equipped with necessary, up-to-date
-equipment and medications. MOH will conduct inspections to ensure compliance.</p>
-<p>PAOs operating without a valid HCSA license or using unlicensed vehicles
-will violate the HCSA.</p>
+under the <strong>Healthcare Services Act (HCSA)</strong>, categorized as
+either Emergency Ambulance Service (EAS) or Medical Transport Service (MTS).
+Under this framework, a Clinical Governance Officer (CGO) is required for
+both EAS and MTS, responsible for overseeing the clinical and technical
+aspects of the services provided. In addition to this, the crews must be
+appropriately trained, hold valid certifications, and be equipped with
+up-to-date equipment and medications.</p>
+<p>The Ministry of Health (MOH) will conduct regular inspections to ensure
+compliance with these requirements. PAOs operating without a valid HCSA
+license or using unlicensed vehicles will be in violation of the HCSA regulations.</p>
+<p>Here is a brief summary of the EAS and MTS Crew requirements:</p>
+<p><strong>EAS Crew (Recommended: 3 persons)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>1 Paramedic, Ambulance Nurse, or Doctor</strong> (Crew Leader)</p>
+</li>
+<li>
+<p>The other crew member can be either a Paramedic, Nurse, or Doctor.</p>
+</li>
+<li>
+<p>EAS crews are responsible for providing emergency care and are equipped
+to manage urgent medical situations.</p>
+</li>
+</ul>
+<p><strong>MTS Crew (2 persons)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>1 EMT, Paramedic, Nurse, or Doctor</strong> (Crew Leader)</p>
+</li>
+<li>
+<p>The other crew member can be a Paramedic, Nurse, Doctor, or EMT.</p>
+</li>
+<li>
+<p>MTS crews are responsible for non-emergency medical transport services,
+ensuring the safe transfer of patients between locations.</p>
+</li>
+</ul>
+<p><strong>General Requirements for All Personnel:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All personnel must hold <strong>valid certifications</strong> and complete
+any necessary <strong>recertification programs</strong>, such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical Directors’ Workshop</p>
+</li>
+<li>
+<p>EMT Recertification Programme</p>
+</li>
+<li>
+<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care</p>
+</li>
+<li>
+<p>Basic/Advanced Cardiac Life Support, AED use &amp; first aid training</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>By ensuring that all personnel meet these training and certification standards,
+private ambulance operators (PAOs) will be better equipped to deliver safe,
+high-quality emergency and medical transport services, fully aligned with
+MOH regulations and the HCSA requirements.</p>
+<p></p>
 <p><strong>Licence Conditions for EAS and MTS</strong>
 </p>
 <p>MOH has established Licence Conditions (LCs) for EAS and MTS under the

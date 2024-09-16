@@ -53,7 +53,8 @@ as a recognised profession.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Simulation for PEC</summary>
+<summary><strong>Simulation for PEC</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">

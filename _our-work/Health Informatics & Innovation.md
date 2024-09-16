@@ -23,6 +23,4 @@ early preparation and activation of other services. The emergency department
 will also have an overall preview of the patients’ status, condition and
 estimated arrival time for better resource management.</p>
 <p></p>
-<p><a href="https://www.youtube.com/watch?v=TuWYYhB6U9Q&amp;t=27s" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=TuWYYhB6U9Q&amp;t=27s</a>
-</p>
 <p></p>

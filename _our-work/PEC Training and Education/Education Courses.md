@@ -5,7 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Training and Education
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Education_page_photo__2_.jpg">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Resuscitation Academy</strong>
@@ -14,7 +16,6 @@ third_nav_title: PEC Training and Education
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RA_SIngapore_Logo.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/resuscitation_academy_photo.jpg">
 </div>
@@ -31,11 +32,9 @@ out-of-hospital cardiac arrest (OHCA) survival rates.</p>
 <summary><strong>Emergency Medical Services (EMS) Medical Directors’ Course</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
 </div>
-<p></p>
 <p>The series of Emergency Medical Services (EMS) Medical Directors’ Courses
 are the localized version of the NAEMSP Medical Directors Course. It aims
 to provide EMS knowledge and skills for participants who are required to
@@ -108,53 +107,6 @@ offers commanders from SCDF an oversight of EMS.</p>
 <p>In view of the current COVID-19 situation, UPEC organised a hybrid of
 the Basic &amp; Advanced combined Online course, which include e-learning
 and two 4-hour Zoom sessions.</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Targeted Temperature Management (TTM) Provider Course</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">
-</div>
-<p></p>
-<p>TTM was strongly recommended by ILCOR (2015) and NRC (2016) as a component
-of post resuscitation care. It has been known to be effective to im-prove
-the survival rate and neurological function outcome of patients after cardiac
-arrest.</p>
-<p>This course provides local providers with in-depth knowledge to manage
-patients on TTM. The course is organised by the National TTM Workgroup.
-For more information on this national workgroup, please click <a href="http://upec.rawmix.xyz/our-work/medical-operations-and-oversight/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Content</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Latest update of post-resuscitation care &amp; TTM evidence and trial.</p>
-</li>
-<li>
-<p>Singapore Guideline on TTM</p>
-</li>
-<li>
-<p>Breaking the barriers of implementation of TTM</p>
-</li>
-<li>
-<p>Pharmacological consideration</p>
-</li>
-<li>
-<p>Complication and side effects</p>
-</li>
-<li>
-<p>Cardiovascular and Neurological management</p>
-</li>
-<li>
-<p>Simulation training for TTM</p>
-</li>
-<li>
-<p>Showcase of various TTM methods and equipment.</p>
-</li>
-</ul>
-<p>Next Course: (The course is suspended due to COVID-19. Check out here
-for the latest update).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -327,17 +279,85 @@ by UPEC in 2019.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Life Support Courses</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://srfac.sg/" rel="noopener noreferrer nofollow" target="_blank">Advanced Cardiac Life Support (ACLS)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://srfac.sg/" rel="noopener noreferrer nofollow" target="_blank">Life Support for Nurses (LSCN)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://srfac.sg/public-information/#tab-id-2" rel="noopener noreferrer nofollow" target="_blank">Basic Cardiac Life Support</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://srfac.sg/public-information/#tab-id-4" rel="noopener noreferrer nofollow" target="_blank">Standard First Aid (SFA)</a></strong>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Targeted Temperature Management (TTM) Provider Course</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">
+</div>
+<p>TTM was strongly recommended by ILCOR (2015) and NRC (2016) as a component
+of post resuscitation care. It has been known to be effective to im-prove
+the survival rate and neurological function outcome of patients after cardiac
+arrest.</p>
+<p>This course provides local providers with in-depth knowledge to manage
+patients on TTM. The course is organised by the National TTM Workgroup.
+For more information on this national workgroup, please click <a href="http://upec.rawmix.xyz/our-work/medical-operations-and-oversight/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Content</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Latest update of post-resuscitation care &amp; TTM evidence and trial.</p>
+</li>
+<li>
+<p>Singapore Guideline on TTM</p>
+</li>
+<li>
+<p>Breaking the barriers of implementation of TTM</p>
+</li>
+<li>
+<p>Pharmacological consideration</p>
+</li>
+<li>
+<p>Complication and side effects</p>
+</li>
+<li>
+<p>Cardiovascular and Neurological management</p>
+</li>
+<li>
+<p>Simulation training for TTM</p>
+</li>
+<li>
+<p>Showcase of various TTM methods and equipment.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
 </div>
-<h3></h3>
 <p></p>
 <h3></h3>
 <p></p>
 <h3></h3>
+<p></p>
 <h3></h3>
+<h3></h3>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

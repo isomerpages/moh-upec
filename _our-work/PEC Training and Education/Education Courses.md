@@ -33,13 +33,14 @@ out-of-hospital cardiac arrest (OHCA) survival rates.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
+<img style="width: 50%;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
 </div>
 <p></p>
-<p>The series of Emergency Medical Services (EMS) Medical Directors’ Course
+<p>The series of Emergency Medical Services (EMS) Medical Directors’ Courses
 are the localized version of the NAEMSP Medical Directors Course. It aims
 to provide EMS knowledge and skills for participants who are required to
-be a medical director or take up leadership role in the ambulance services.</p>
+be a medical director or take up leadership roles in the ambulance services.</p>
+<p></p>
 <p>The EMS Medical Directors’ Course can be divided into three sub-categories:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -57,6 +58,7 @@ national EMS, firemen from SCDF are cross-trained as EMTs. This course
 offers commanders from SCDF an oversight of EMS.</p>
 </li>
 </ol>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

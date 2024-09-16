@@ -12,7 +12,7 @@ third_nav_title: PEC Training and Education
 <h4><strong>PEC Education &amp; Training</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/education-courses/" rel="noopener noreferrer nofollow" target="_blank">EMS Medical Directors Course</a>
+<p><a href="https://www.upec.sg/education-courses/" rel="noopener noreferrer nofollow" target="_blank">EMS Medical Directors Course</a>
 </p>
 </li>
 <li>

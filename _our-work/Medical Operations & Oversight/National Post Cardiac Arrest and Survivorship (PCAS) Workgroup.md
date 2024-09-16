@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Medical Operations & Oversight
 ---
-<p>With endorsement from the Ministry of Health, the National Targeted Temperature
+<p><strong>National Post Cardiac Arrest and Survivorship (PCAS) Workgroup</strong>
+<br>With endorsement from the Ministry of Health, the National Targeted Temperature
 Management (TTM) Workgroup was established in 2014 under the Unit for Prehospital
 Emergency Care (UPEC) to promote TTM as a standard of care for post-cardiac
 arrest management in Singapore, aiming to improve the survival and neurological

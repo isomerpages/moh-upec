@@ -12,9 +12,16 @@ description: ""
 </p>
 <p></p>
 <p><a href="https://www.straitstimes.com/singapore/first-responders-attended-to-4500-cases-of-cardiac-arrest-scdf-to-provide-more-resources-shanmugam" rel="noopener nofollow" target="_blank">First responders attended to 4,500 cases of cardiac arrest; SCDF to provide more resources.</a>
-<br>
 </p>
 <p></p>
+<p><a href="https://www.straitstimes.com/singapore/singpost-equips-vehicles-with-aeds-to-join-network-of-drivers-that-can-respond-to-cardiac-arrest-cases" rel="noopener nofollow" target="_blank">SingPost equips some vehicles with defibrillators; drivers get training.</a>
+</p>
+<p></p>
+<p><a href="https://www.straitstimes.com/opinion/cpr-literacy-little-room-for-ignorance-on-a-matter-of-life-and-death" rel="noopener nofollow" target="_blank">CPR literacy: Little room for ignorance on a matter of life and death</a>
+</p>
+<p></p>
+<p><a href="https://www.straitstimes.com/opinion/unleashing-potential-of-paramedics-can-fill-critical-healthcare-gaps" rel="noopener nofollow" target="_blank">Unleashing potential of paramedics can fill critical healthcare gaps.</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">

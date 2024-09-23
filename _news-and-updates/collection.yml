@@ -2,4 +2,5 @@ collections:
   news-and-updates:
     output: true
     order:
+      - 2024 News.md
       - 2024 News/.keep

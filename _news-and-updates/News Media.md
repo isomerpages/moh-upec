@@ -12,7 +12,9 @@ description: ""
 </p>
 <p></p>
 <p><a href="https://www.straitstimes.com/singapore/first-responders-attended-to-4500-cases-of-cardiac-arrest-scdf-to-provide-more-resources-shanmugam" rel="noopener nofollow" target="_blank">First responders attended to 4,500 cases of cardiac arrest; SCDF to provide more resources.</a>
+<br>
 </p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -23,4 +25,6 @@ description: ""
 </details>
 </div>
 <h4></h4>
+<p></p>
+<p></p>
 <p></p>

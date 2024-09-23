@@ -2,4 +2,5 @@ collections:
   news-and-updates:
     output: true
     order:
+      - Upcoming Events.md
       - News Media.md

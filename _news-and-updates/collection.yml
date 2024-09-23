@@ -1,5 +1,4 @@
 collections:
   news-and-updates:
     output: true
-    order:
-      - 2024 News.md
+    order: []

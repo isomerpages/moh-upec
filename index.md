@@ -19,10 +19,10 @@ sections:
           url: /training-and-education/
         - title: Private Ambulance Operators
           description: HCSA, credentialing & recert
-          url: /our-work/policy-and-professional-standard
+          url: our-work/overview/
         - title: General Public
           description: Our community programs
-          url: /community-responsiveness
+          url: about-community-responsiveness/
       variant: side
       backgroundColor: white
       size: md

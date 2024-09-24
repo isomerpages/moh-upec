@@ -28,7 +28,7 @@ sections:
       size: md
       alignment: right
   - textcards:
-      title: PEC Strategy and Education
+      title: PEC Strategy
       id: textcards
       cards:
         - title: Medical Operations and Oversight
@@ -65,4 +65,30 @@ sections:
           description: ""
           linktext: Learn more
           url: ""
+  - infobar:
+      title: Medical Oversight
+      id: infobar
+      description: Coordination of PEC resources, partners to improve OHCA survival
+        and EMS demand
+      button: Learn More
+      url: medical-oversight
+  - infobar:
+      title: Policy & Professional Standards
+      id: infobar
+      description: Work with MOH to develop standards for EAS & MTS which is enforced
+        under HCSA
+      button: Learn More
+      url: policy-professional-standards
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---

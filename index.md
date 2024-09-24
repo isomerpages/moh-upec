@@ -28,7 +28,7 @@ sections:
       size: md
       alignment: right
   - textcards:
-      title: PEC Strategy
+      title: PEC Strategy and Education
       id: textcards
       cards:
         - title: Medical Operations and Oversight
@@ -41,8 +41,28 @@ sections:
             under HCSA
           linktext: Learn more
           url: our-work/policy-and-professional-standard/permalink/
-        - title: Card
+        - title: PEC Data & Analysis
           description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Health Informatics & Innovation
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: PEC Education & Community
+      id: textcards
+      cards:
+        - title: PEC Training and Education
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Community Responsiveness
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Singapore Resuscitation and First Aid Council
+          description: ""
           linktext: Learn more
           url: ""
 ---

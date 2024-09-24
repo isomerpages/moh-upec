@@ -50,7 +50,7 @@ sections:
           linktext: Learn more
           url: ""
   - textcards:
-      title: PEC Education & Community
+      title: PEC Strategy
       id: textcards
       cards:
         - title: PEC Training and Education
@@ -79,16 +79,4 @@ sections:
         under HCSA
       button: Learn More
       url: policy-professional-standards
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---

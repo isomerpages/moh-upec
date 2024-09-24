@@ -27,56 +27,48 @@ sections:
       backgroundColor: white
       size: md
       alignment: right
-  - textcards:
-      title: PEC Strategy
-      id: textcards
-      cards:
-        - title: Medical Operations and Oversight
-          description: Coordination of PEC resources, partners to improve OHCA survival
-            and EMS demand
-          linktext: Learn more
-          url: /our-work/medical-operations-and-oversight/medicaloperationsandoversight/
-        - title: Policy & Professional Standards
-          description: Work with MOH to develop  standards for EAS & MTS which is enforced
-            under HCSA
-          linktext: Learn more
-          url: our-work/policy-and-professional-standard/permalink/
-        - title: PEC Data & Analysis
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Health Informatics & Innovation
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - textcards:
-      title: PEC Strategy
-      id: textcards
-      cards:
-        - title: PEC Training and Education
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Community Responsiveness
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Singapore Resuscitation and First Aid Council
-          description: ""
-          linktext: Learn more
-          url: ""
   - infobar:
-      title: Medical Oversight
+      title: Medical Operations and Oversight
       id: infobar
       description: Coordination of PEC resources, partners to improve OHCA survival
         and EMS demand
       button: Learn More
-      url: medical-oversight
+      url: our-work/medical-operations-and-oversight/medicaloperationsandoversight/
   - infobar:
       title: Policy & Professional Standards
       id: infobar
       description: Work with MOH to develop standards for EAS & MTS which is enforced
         under HCSA
       button: Learn More
-      url: policy-professional-standards
+      url: our-work/overview/
+  - infobar:
+      title: PEC Data & Analysis
+      id: infobar
+      description: Infobar description
+      button: Learn More
+      url: research/
+  - infobar:
+      title: PEC Training and Education
+      id: infobar
+      description: Infobar description
+      button: Learn More
+      url: training-and-education/
+  - infobar:
+      title: Health Informatics & Innovation
+      id: infobar
+      description: Infobar description
+      button: Learn More
+      url: health-informatics-innovation/
+  - infobar:
+      title: Community Responsiveness
+      id: infobar
+      description: Infobar description
+      button: Learn More
+      url: about-community-responsiveness/
+  - infobar:
+      title: Singapore Resuscitation First Aid Council
+      id: infobar
+      description: Infobar description
+      button: Learn More
+      url: singapore-resuscitation-and-first-aid-council/
 ---

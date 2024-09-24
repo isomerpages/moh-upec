@@ -5,7 +5,7 @@ links:
   - title: Our Work
     collection: our-work
   - title: News and Updates
-    url: /news-and-updates/
+    collection: news-and-updates
   - title: Courses and Seminars
     collection: courses-and-seminars
   - title: Careers

@@ -17,6 +17,6 @@ contacts:
       - email: ""
       - other: Click <a href="https://form.gov.sg/66cee3e8725169f9096f704d"> here</a>
           for enquiries
-    title: General Enquiries & Feedback
-feedback: https://form.gov.sg/66cee3e8725169f9096f704d
+    title: General Enquiries
+feedback: ""
 ---

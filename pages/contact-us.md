@@ -15,7 +15,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://form.gov.sg/66cee3e8725169f9096f704d
-    title: "For enquiry, please use the FormSG below:"
-feedback: https://form.gov.sg/66d0275121805ae7afbbefdf
+      - other: Click <a href="https://form.gov.sg/66cee3e8725169f9096f704d"> here</a>
+          for enquiries
+    title: General Enquiries & Feedback
+feedback: https://form.gov.sg/66cee3e8725169f9096f704d
 ---

@@ -15,8 +15,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Click <a href="https://form.gov.sg/66cee3e8725169f9096f704d"> here</a> to
-          enquire
-    title: General Enquiries
+      - other: To reach us, click <a
+          href="https://form.gov.sg/66cee3e8725169f9096f704d"> here</a>
+    title: Thank you for visiting our website
 feedback: ""
 ---

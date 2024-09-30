@@ -48,7 +48,7 @@ sections:
         innovation in pre-hospital care and improving OHCA survival outcomes in
         Singapore.
       button: Learn More
-      url: research/
+      url: /pec-data-analysis/
   - infobar:
       title: PEC Training and Education
       id: infobar

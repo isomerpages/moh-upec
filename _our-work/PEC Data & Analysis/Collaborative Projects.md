@@ -5,12 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/events.jpg">
-</div>
-<p>5 August 2024 - Soft Lauch of TCPR Link Study Trial
-<br>12 October 2024 - World Resart A Heart (WRAH) Day</p>
-<hr>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/nwsletter.png">
 </div>

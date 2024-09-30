@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/research.jpg">
-</div>
-<h2>Research Areas</h2>
+<h2>Key Areas of Interest</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Out-of-hospital cardiac arrest (OHCA): CPR, AED and community-based interventions.</p>
@@ -39,7 +36,7 @@ third_nav_title: PEC Data & Analysis
 </li>
 </ol>
 <hr>
-<h2>Research Studies</h2>
+<h2>List of Studies</h2>
 <h3>Current and On-going Studies</h3>
 <ol data-tight="true" class="tight">
 <li>

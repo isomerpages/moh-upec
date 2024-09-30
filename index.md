@@ -42,9 +42,10 @@ sections:
       button: Learn More
       url: our-work/overview/
   - infobar:
-      title: PEC Data & Analysis
+      title: PEC Data, Analysis & Implementation
       id: infobar
-      description: Infobar description
+      description: Our initiatives focus on implementing novel technologies to drive
+        innovation in pre-hospital care and improving OHCA survival outcomes.
       button: Learn More
       url: research/
   - infobar:

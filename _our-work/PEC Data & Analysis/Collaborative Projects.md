@@ -6,7 +6,9 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <h1>The TCPR Link System</h1>
-<h2>Enhancing Public's OHCA Response via a Novel Technological Intervention</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p>Initiated island-wide on August 5, 2024.</p>

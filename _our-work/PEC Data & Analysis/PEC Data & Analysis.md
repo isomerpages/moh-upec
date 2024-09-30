@@ -11,6 +11,7 @@ of patients suffering from out-of-hospital cardiac arrest (OHCA). These
 studies investigate various aspects, including introducing and implementing
 practical and evidence-based interventions, OHCA patient outcomes, and
 the impact of advanced technologies on enhancing response time by first
-responder and EMS.</p>
-<p></p>
+responder and EMS in Singapore.</p>
+<p>We collaborate with various stakeholders locally and overseas and carry
+out pilot trials.</p>
 <p></p>

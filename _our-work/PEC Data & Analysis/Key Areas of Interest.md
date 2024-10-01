@@ -36,8 +36,8 @@ third_nav_title: PEC Data & Analysis
 </li>
 </ol>
 <hr>
-<h2>List of Studies</h2>
-<h3>Current and On-going Studies</h3>
+<h2>List of Project</h2>
+<h3>Current and On-going Projects</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bystander CPR and survival in six regions of Singapore saturated with
@@ -61,7 +61,7 @@ for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 <p>National CPR/AED Survey.</p>
 </li>
 </ol>
-<h3>Completed Studies</h3>
+<h3>Completed Projects</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>A prospective randomized controlled trial to explore the effectiveness

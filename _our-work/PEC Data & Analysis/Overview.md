@@ -21,9 +21,9 @@ evaluate performance metrics such as compression quality, and discover
 opportunities for improvement in pre-hospital care specifically for cardiac
 arrest.</p>
 <p>The team produces an annual OHCA data report that is disseminated widely.
-It contains OHCA data for over a decade. Data points include OHCA case
-burden, response rate and outcomes such as Utstein survival rate and the
-rate of OHCA survival-to-discharge in Singapore. Please view these annual
-reports under "Resources".</p>
+It contains OHCA data for over a decade. Data points include OHCA burden
+data, bystander CPR/AED response rates and survival outcomes data such
+as Utstein survival rate and the rate of OHCA survival-to-discharge. Annual
+reports can be found under "Resources".</p>
 <p></p>
 <p></p>

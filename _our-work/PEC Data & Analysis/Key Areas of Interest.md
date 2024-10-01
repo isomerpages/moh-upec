@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<h2>Key Areas of Interest</h2>
+<h2>Key Areas of Interests</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Out-of-hospital cardiac arrest (OHCA): CPR, AED and community-based interventions.</p>
@@ -36,7 +36,7 @@ third_nav_title: PEC Data & Analysis
 </li>
 </ol>
 <hr>
-<h2>List of Project</h2>
+<h2>List of Projects</h2>
 <h3>Current and On-going Projects</h3>
 <ol data-tight="true" class="tight">
 <li>

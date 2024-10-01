@@ -15,8 +15,11 @@ out-of-hospital cardiac arrest (OHCA). These studies investigate various
 aspects such as OHCA patient outcomes, and the impact of advanced technologies
 on response time and compression quality given by first responder and/or
 EMS in Singapore.</p>
-<p>We collaborate with various stakeholders locally and overseas and carry
-out pilot trials and collecting essential data for analysis. Through comprehension
-data analysis, we identify trends, evaluate performance metrics of compression
-quality, and uncover opportunities for improvement in pre-hospital care
-for cardiac arrest.</p>
+<p>The team also collaborates with various stakeholders locally and overseas
+to carry out pilot studies and collecting essential data for analysis.
+We identify trends, evaluate performance metrics of compression quality,
+and uncover opportunities for improvement in pre-hospital care for cardiac
+arrest through comprehension data analysis.</p>
+<p></p>
+<p></p>
+<p></p>

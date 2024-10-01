@@ -44,9 +44,8 @@ sections:
   - infobar:
       title: PEC Data, Analysis & Implementation
       id: infobar
-      description: Our initiatives focus on implementing novel technologies to drive
-        innovation in pre-hospital care with emphasis on improving OHCA survival
-        outcomes.
+      description: Our initiatives focus on evidence generation to drive innovation in
+        pre-hospital care with emphasis on improving OHCA survival outcomes.
       button: Learn More
       url: /pec-data-analysis/
   - infobar:

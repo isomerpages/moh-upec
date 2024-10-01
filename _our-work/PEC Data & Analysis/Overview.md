@@ -16,13 +16,13 @@ aspects such as OHCA patient outcomes, and the impact of advanced technologies
 on response time and compression quality given by first responder and/or
 EMS in Singapore.</p>
 <p>The team also collaborates with various stakeholders locally and overseas
-to carry out pilot studies and collecting essential data for analysis.
+to carry out pilot projects and collecting essential data for analysis.
 We identify trends, evaluate performance metrics of compression quality,
 and uncover opportunities for improvement in pre-hospital care for cardiac
 arrest through comprehension data analysis.</p>
 <p>The team churns out annual OHCA data report that presents and a reflection
 of the number of years' worth of OHCA case burden, response rate and outcomes
 such as Utstein survival rate and the rate of OHCA survival-to-discharge
-in Singapore. Please view the reports under "Resources".</p>
+in Singapore. Please view these annual reports under "Resources".</p>
 <p></p>
 <p></p>

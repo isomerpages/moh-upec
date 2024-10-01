@@ -45,7 +45,8 @@ sections:
       title: PEC Data, Analysis & Implementation
       id: infobar
       description: Our initiatives focus on evidence generation to drive innovation in
-        pre-hospital care with emphasis on improving OHCA survival outcomes.
+        pre-hospital care setting with emphasis on improving OHCA survival
+        outcomes.
       button: Learn More
       url: /pec-data-analysis/
   - infobar:

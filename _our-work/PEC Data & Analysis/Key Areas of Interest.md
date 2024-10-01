@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Data & Analysis
 ---
-<h2>Key Areas of Interests</h2>
+<h2>Key Areas of Interest</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>Out-of-hospital cardiac arrest (OHCA): CPR, AED and community-based interventions.</p>

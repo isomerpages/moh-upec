@@ -45,8 +45,8 @@ sections:
       title: PEC Data, Analysis & Implementation
       id: infobar
       description: Our initiatives focus on implementing novel technologies to drive
-        innovation in pre-hospital care and improving OHCA survival outcomes in
-        Singapore.
+        innovation in pre-hospital care with emphasis on improving OHCA survival
+        outcomes.
       button: Learn More
       url: /pec-data-analysis/
   - infobar:

@@ -193,5 +193,6 @@ PDF below:</p>
 </p>
 </li>
 </ul>
-<p>For further clarification, you may contact Ms. Belinda Ho at 6590 2146
-or <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>.</p>
+<p>For further clarification, please contact Ms. Belinda Ho at 6590 2146
+or via email at <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a> or
+Serene at <a href="mailto:serene_y_i_kwan@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_y_i_kwan@ite.edu.sg</a>.</p>

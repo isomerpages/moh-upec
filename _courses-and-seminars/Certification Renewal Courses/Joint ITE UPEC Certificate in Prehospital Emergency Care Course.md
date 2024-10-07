@@ -115,7 +115,7 @@ the course:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p></p>
 <p></p>
 <p></p>
@@ -143,6 +143,11 @@ the course:</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Retest (if applicable): 4 Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Registration deadline: 15 Oct 2024</p>
 </td>
 </tr>
 </tbody>

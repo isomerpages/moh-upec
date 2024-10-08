@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dare_cover_600x200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_01.png">
 </div>
 <p>Also known as the <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong>,
 is a fun and interactive hands-on programme that allow participants to
@@ -19,7 +20,7 @@ in under an hour.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_04.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_04.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -32,7 +33,7 @@ years) and infants (under 1 year) in an additional 30 minutes.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_05.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_05.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,7 +47,7 @@ AED.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_08.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_08.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -59,7 +60,7 @@ groups to train volunteers as DARE adjunct trainers.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_09.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_09.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -71,7 +72,7 @@ in the DARE programme during community centre sessions.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_10.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -84,7 +85,7 @@ Five’s Health Education.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/ISOMER_11.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_11.png">
 </div>
 </div>
 <div class="isomer-card-body">

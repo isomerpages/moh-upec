@@ -17,6 +17,7 @@ than 3,600 Out-of-Hospital Cardiac Arrest (OHCA) cases happened in Singapore.</p
 Resuscitation (CPR) and the use of an Automated External Defibrillator
 (AED) on the victim are interventions that can be performed by any layperson. <strong>We believe that investing in the health literacy and awareness of our population is crucial for improving bystander CPR and cardiac arrest survival in our community over the long term.</strong>
 </p>
-<p>UPEC leads three (3) initiatives, The <strong><a href="/dare-programme/" rel="noopener nofollow" target="_blank">Dispatcher-Assisted first REsponder (DARE) programme</a></strong>,
-the Survivor Awards Singapore and the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong>,
-both aimed at enhancing health literacy and public awareness.</p>
+<p>UPEC leads three (3) initiatives, the <strong><a href="/dare-programme/" rel="noopener nofollow" target="_blank">Dispatcher-Assisted first REsponder (DARE) programme</a></strong>,
+the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong> and
+the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong>,
+all aimed at enhancing health literacy and public awareness.</p>

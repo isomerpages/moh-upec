@@ -25,19 +25,31 @@ resuscitating them.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
-<a rel="noopener noreferrer nofollow" href="" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg">
+</div>
+</div>
+<div class="isomer-card-body"></div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title"></div>
-<div class="isomer-card-description"></div>
-<div class="isomer-card-link"></div>
+<div class="isomer-card-body"></div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title"></div><div class="isomer-card-description"></div><div class="isomer-card-link"></div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg">
+</div>
+</div>
+<div class="isomer-card-body"></div>
+</div>
 </div>
 </div>
 </details>

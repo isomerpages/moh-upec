@@ -7,9 +7,8 @@ third_nav_title: Community Responsiveness
 ---
 <p><strong><u>DARE 'Festival of Hands' Campaign</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_12.png">
 </div>
 <p>On the fifth anniversary of the national programme, DARE continued its
 publicity efforts by hosting the 'Festival of Hands' event at Toa Payoh
@@ -22,7 +21,7 @@ launched to reach a wider audience.</p>
 <p><strong><u>DARE Roadshows</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
 <p>To increase public awareness of CPR and AED, we collaborate with various
 partners to run roadshows at heartlands, attractions and clubhouses.</p>

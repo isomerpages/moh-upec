@@ -7,7 +7,7 @@ third_nav_title: Community Responsiveness
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_06.png">
 </div>
 <p>The <strong>Survivor Awards Singapore</strong> is an annual ceremony held
 in conjunction with World Restart A Heart (WRAH) Day. It aims to raise
@@ -32,7 +32,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -40,7 +42,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -48,7 +52,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 </div>
 </div>

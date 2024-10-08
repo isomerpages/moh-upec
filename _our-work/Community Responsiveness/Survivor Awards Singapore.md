@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Community Responsiveness
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_06.png">
 </div>
@@ -17,5 +18,12 @@ played a role in saving lives from OHCA. At every ceremony, survivors show
 their appreciation by awarding certificates of appreciation to the bystanders,
 995 specialists, paramedics and MyResponder volunteers who assisted in
 resuscitating them.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Survivor Awards Singapore 2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+</div>
 <p></p>

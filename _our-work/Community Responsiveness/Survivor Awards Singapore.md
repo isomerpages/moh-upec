@@ -21,7 +21,7 @@ resuscitating them.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Survivor Awards Singapore 2023</strong>
+<summary><strong>Survivor Awards Singapore 2023 @ EXPO</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>

@@ -14,14 +14,13 @@ licensing framework.</p>
 <p>As of January 3, 2022, all private ambulance services must be licensed
 under the <strong>Healthcare Services Act (HCSA)</strong> and regulated as
 either Emergency Ambulance Service (EAS) or Medical Transport Service (MTS).
-Under this framework, private ambulance operators (PAOs) are required to
+Under this framework, Private Ambulance Operators (PAOs) are required to
 apply for an HCSA license to provide EAS or MTS services, which is renewable
 every two years. To obtain an HCSA license, EAS and MTS must meet general
 licensing requirements as well as ambulance-specific requirements.</p>
 <p>The Ministry of Health (MOH) will conduct licensing inspections to ensure
-compliance with these requirements. Private Ambulance Operators (PAOs)
-operating without a valid HCSA license or using unlicensed vehicles will
-be in violation of HCSA regulations.</p>
+compliance with these requirements. PAOs operating without a valid HCSA
+license or using unlicensed vehicles will be in violation of HCSA regulations.</p>
 <p>Here is a brief summary of the EAS and MTS Crew requirements:</p>
 <p><strong>EAS Crew (Recommended: 3 persons)</strong>
 </p>

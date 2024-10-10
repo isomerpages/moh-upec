@@ -17,10 +17,10 @@ either Emergency Ambulance Service (EAS) or Medical Transport Service (MTS).
 Under this framework, Private Ambulance Operators (PAOs) are required to
 apply for an HCSA license to provide EAS or MTS services, which is renewable
 every two years. To obtain an HCSA license, EAS and MTS must meet general
-licensing requirements as well as ambulance-specific requirements. A key
-licensing requirement is the appointment of a Clinical Governance Officer
-(CGO) to provide clinical oversight and ensure appropriately qualified
-staff.</p>
+licensing requirements as well as ambulance-specific requirements. One
+of the key licensing requirements is the appointment of a Clinical Governance
+Officer (CGO) to provide clinical oversight and ensure that staff are appropriately
+qualified.</p>
 <p>The Ministry of Health (MOH) will conduct licensing inspections to ensure
 compliance with these requirements. PAOs operating without a valid HCSA
 license or using unlicensed vehicles will be in violation of HCSA regulations.</p>

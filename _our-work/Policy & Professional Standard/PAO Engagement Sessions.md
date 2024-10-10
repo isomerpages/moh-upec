@@ -9,9 +9,9 @@ third_nav_title: Policy & Professional Standard
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_PAO_Engagement_1.jpeg">
 </div>
-<p>With the implementation of the Healthcare Services Act (HCSA) and the
-introduction of regulations for Emergency Ambulance Services (EAS) and
-Medical Transport Services (MTS) under the HCSA, the Ministry of Health
+<p>To facilitate the implementation of the Healthcare Services Act (HCSA)
+and the introduction of regulations for Emergency Ambulance Services (EAS)
+and Medical Transport Services (MTS) under the HCSA, the Ministry of Health
 (MOH) and UPEC have held multiple engagement sessions with Private Ambulance
 Operators (PAOs). These sessions were aimed at sharing the ambulance regulatory
 framework under the HCSA and gathering feedback from the PAOs. You can

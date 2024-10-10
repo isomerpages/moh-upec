@@ -8,22 +8,20 @@ third_nav_title: Policy & Professional Standard
 <p>The Healthcare Services Bill, passed in Singapore Parliament in 2020,
 aims to enhance patient safety and well-being by replacing the Private
 Hospitals and Medical Clinics Act (PHMCA) with a more flexible, service-based
-licensing framework. The HCSA is being implemented in three phases: January
-2022, June 2023, and the end of 2023.</p>
+licensing framework.</p>
 <p><strong>HCSA Ambulance Regulatory Framework</strong>
 </p>
 <p>As of January 3, 2022, all private ambulance services must be licensed
-under the <strong>Healthcare Services Act (HCSA)</strong>, categorized as
+under the <strong>Healthcare Services Act (HCSA)</strong> and regulated as
 either Emergency Ambulance Service (EAS) or Medical Transport Service (MTS).
-Under this framework, a Clinical Governance Officer (CGO) is required for
-both EAS and MTS, responsible for overseeing the clinical and technical
-aspects of the services provided. In addition to this, the crews must be
-appropriately trained, hold valid certifications, and be equipped with
-up-to-date equipment and medications.</p>
-<p>The Ministry of Health (MOH) will conduct regular inspections to ensure
+Under this framework, private ambulance operators (PAOs) are required to
+apply for an HCSA license to provide EAS or MTS services, which is renewable
+every two years. To obtain an HCSA license, EAS and MTS must meet general
+licensing requirements as well as ambulance-specific requirements.</p>
+<p>The Ministry of Health (MOH) will conduct licensing inspections to ensure
 compliance with these requirements. Private Ambulance Operators (PAOs)
 operating without a valid HCSA license or using unlicensed vehicles will
-be in violation of the HCSA regulations.</p>
+be in violation of HCSA regulations.</p>
 <p>Here is a brief summary of the EAS and MTS Crew requirements:</p>
 <p><strong>EAS Crew (Recommended: 3 persons)</strong>
 </p>

@@ -2,12 +2,12 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - Certification Renewal Courses/National Prehospital Emergency Care
+      - Recertification Programmes/National Prehospital Emergency Care
         Workshop.md
-      - Certification Renewal Courses/.keep
-      - Certification Renewal Courses/Emergency Medical Technician (EMT)
+      - Recertification Programmes/.keep
+      - Recertification Programmes/Emergency Medical Technician (EMT)
         Recertification Programme.md
-      - Certification Renewal Courses/Joint ITE UPEC Certificate in Prehospital
+      - Recertification Programmes/Joint ITE UPEC Certificate in Prehospital
         Emergency Care Course.md
       - Education Courses/Education Workshop and Courses.md
       - Education Courses/.keep

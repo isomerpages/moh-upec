@@ -2,16 +2,16 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - PAO Training Courses/.keep
+      - Recertification Programmes/.keep
       - Recertification Programmes/National Prehospital Emergency Care
         Workshop.md
-      - Recertification Programmes/.keep
       - Recertification Programmes/Emergency Medical Technician (EMT)
         Recertification Programme.md
       - Recertification Programmes/Joint ITE UPEC Certificate in Prehospital
         Emergency Care Course.md
-      - Education Courses/Education Workshop and Courses.md
+      - PAO Training Courses/.keep
       - Education Courses/.keep
-      - example-subfolder/Certification Renewal Courses.md
+      - Education Courses/Education Workshop and Courses.md
       - example-subfolder/.keep
+      - example-subfolder/Certification Renewal Courses.md
       - example-subfolder/subfolder-page.md

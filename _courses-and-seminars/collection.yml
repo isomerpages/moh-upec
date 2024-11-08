@@ -2,6 +2,7 @@ collections:
   courses-and-seminars:
     output: true
     order:
+      - PAO Training Courses/.keep
       - Recertification Programmes/National Prehospital Emergency Care
         Workshop.md
       - Recertification Programmes/.keep

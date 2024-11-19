@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_06.png">
 </div>
@@ -32,9 +31,7 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -42,9 +39,7 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -52,9 +47,7 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg">
 </div>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
+<div class="isomer-card-body"></div>
 </div>
 </div>
 </div>

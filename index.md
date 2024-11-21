@@ -55,7 +55,7 @@ sections:
       id: infobar
       description: Enhancing patient care locally and regionally through education,
         training, strategic planning, and evidence-based programs for
-        prehospital emergency care.
+        prehospital emergency providers.
       button: Learn More
       url: training-and-education/
   - infobar:

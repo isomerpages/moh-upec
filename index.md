@@ -53,7 +53,9 @@ sections:
   - infobar:
       title: PEC Training and Education
       id: infobar
-      description: Infobar description
+      description: Enhancing patient care locally and regionally through education,
+        training, strategic planning, and evidence-based programs for
+        prehospital emergency care.
       button: Learn More
       url: training-and-education/
   - infobar:

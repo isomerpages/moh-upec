@@ -59,7 +59,9 @@ sections:
   - infobar:
       title: Health Informatics & Innovation
       id: infobar
-      description: Infobar description
+      description: Advancing healthcare with innovative informatics, data-driven
+        insights, and transformative technologies to improve patient outcomes
+        and system efficiency.
       button: Learn More
       url: health-informatics-innovation/
   - infobar:

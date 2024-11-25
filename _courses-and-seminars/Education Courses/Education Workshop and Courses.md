@@ -19,13 +19,19 @@ third_nav_title: Education Courses
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/resuscitation_academy_photo.jpg">
 </div>
-<p>UPEC organized the first Resuscitation Academy Leadership course in Southeast
-Asia in 2016. This two-day course was designed to help EMS leaders and
-healthcare policymakers improve cardiac arrest survival rates in their
-communities.</p>
+<p>UPEC organized the first Resuscitation Academy Leadership Course in Southeast
+Asia in 2016. This two-day program introduces EMS leaders to the 10 steps
+for improving survival rates from cardiac arrest. Participants have the
+opportunity to learn from renowned faculty with proven expertise in leading
+successful resuscitation improvement initiatives, network with EMS leaders
+from systems around the globe, and access comprehensive support materials.</p>
+<p></p>
 <p>Over the years, our UPEC Resuscitation Academy team has organized both
 local and international courses, supporting EMS in the region to improve
 out-of-hospital cardiac arrest (OHCA) survival rates.</p>
+<p>&nbsp;</p>
+<p>For more details: <a rel="noopener noreferrer nofollow" target="_blank">https://www.resuscitationacademy.org/leadership-workshop</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -37,8 +43,13 @@ out-of-hospital cardiac arrest (OHCA) survival rates.</p>
 </div>
 <p>The series of Emergency Medical Services (EMS) Medical Directors’ Courses
 are the localized version of the NAEMSP Medical Directors Course. It aims
-to provide EMS knowledge and skills for participants who are required to
-be a medical director or take up leadership roles in the ambulance services.</p>
+to enhance the participants’ expertise in EMS issues. It provides an overview
+of elements that run the range and depth of issues vital to EMS.</p>
+<p></p>
+<p>Originating from the National EMS Medical Directors Course &amp; Practicum
+by the National Association of EMS Physicians (NAEMSP), the EMS Medical
+Director course is accredited by the Asia Association in EMS (AAEMS) in
+Asia.</p>
 <p></p>
 <p>The EMS Medical Directors’ Course can be divided into three sub-categories:</p>
 <ol data-tight="true" class="tight">

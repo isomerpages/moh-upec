@@ -17,6 +17,8 @@ standards and better serve patients’ increasingly complex needs.</p>
 worked hand in hand with other stakeholders, such as SCDF, SMTI and paramedic
 training institutions, to enhance the quality of training and education
 for paramedics.</p>
+<p>For an overview of Prehospital courses and Seminars in Singapore, please
+refer to "<a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-workshop-and-courses/" rel="noopener nofollow" target="_blank">Courses and Seminars</a>".</p>
 <hr>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

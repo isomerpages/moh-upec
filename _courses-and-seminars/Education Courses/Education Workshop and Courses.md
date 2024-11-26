@@ -29,7 +29,7 @@ from systems around the globe, and access comprehensive support materials.</p>
 <p>Over the years, our UPEC Resuscitation Academy team has organized both
 local and international courses, supporting EMS in the region to improve
 out-of-hospital cardiac arrest (OHCA) survival rates.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>For more details: <a rel="noopener noreferrer nofollow" target="_blank">https://www.resuscitationacademy.org/leadership-workshop</a>
 </p>
 </div>
@@ -115,9 +115,8 @@ offers commanders from SCDF an oversight of EMS.</p>
 </tr>
 </tbody>
 </table>
-<p>In view of the current COVID-19 situation, UPEC organised a hybrid of
-the Basic &amp; Advanced combined Online course, which include e-learning
-and two 4-hour Zoom sessions.</p>
+<p>Since COVID-19, UPEC organised a hybrid of the Basic &amp; Advanced combined
+course, which include e-learning and physical sessions.</p>
 </div>
 </details>
 <details class="isomer-details">

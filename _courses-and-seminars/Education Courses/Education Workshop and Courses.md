@@ -407,8 +407,18 @@ sessions, focusing on enhancing theoretical knowledge and practical skills
 in pre-hospital trauma care.</p>
 <p>The next workshop will be announced soon. Stay tuned for updates and registration
 details!</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lecture_hall.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lecture session</div><div class="isomer-card-link">Nil</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lecture_hall.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lecture session</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_144542.jpg">
@@ -416,10 +426,19 @@ details!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">IV insertion training</div>
-<div class="isomer-card-link">Nil</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_143827.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scenario-based discussion</div><div class="isomer-card-link">NIl</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_143827.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Scenario-based discussion</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop2_1030x773.jpg">
@@ -427,10 +446,19 @@ details!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Participants practice spinal management techniques</div>
-<div class="isomer-card-link">Nil</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop5_1030x773.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Participants engage in CPR and cardiac arrest scenario practice</div><div class="isomer-card-link">Nil</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop5_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participants engage in CPR and cardiac arrest scenario practice</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop4_1030x773.jpg">
@@ -438,9 +466,8 @@ details!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Practice airway management</div>
-<div class="isomer-card-link">Nil</div>
 </div>
-</a>
+</div>
 </div>
 <p></p>
 <p></p>

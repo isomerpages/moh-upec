@@ -364,7 +364,83 @@ For more information on this national workgroup, please click <a href="http://up
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_National_PEC_workshop.jpeg">
+</div>
 </div>
 </details>
 </div>
+<p>The National Pre-hospital Emergency Care Workshop held on 3 December 2024
+aimed to update participants on the latest developments in pre-hospital
+care while providing practical skills training for managing specific injuries.
+The session focused on advancing knowledge and practical applications in
+burn injuries and intra-abdominal injuries.</p>
+<p><strong>Lecture Summaries:</strong>
+</p>
+<p><strong>Lecture 1: Burn Injuries</strong>
+<br><strong>Content:</strong> Different types and degrees of burns, including
+BSA (Body Surface Area) calculation.
+<br><strong>Focus:</strong> Management of burn casualties in the pre-hospital
+setting using the Patient Assessment Model (PAM).</p>
+<p><strong>Lecture 2: Intra-abdominal Injuries</strong>
+<br><strong>Content:</strong> Overview of intra-abdominal injuries, including
+signs and symptoms.
+<br><strong>Focus:</strong> Management of intra-abdominal injuries in the pre-hospital
+setting using PAM.</p>
+<p><strong>Lecture 3: The Future of Singapore Pre-Hospital Care</strong>
+<br><strong>Content:</strong> Updates on ongoing changes in the local pre-hospital
+care landscape.
+<br><strong>Focus:</strong> Insights into the future direction of pre-hospital
+emergency care in Singapore.</p>
+<p><strong>Skills Stations:</strong>
+</p>
+<p><strong>Skills Station 1: Management of Patient with Burns</strong>
+<br><strong>Objective:</strong> Participants recognized the signs and symptoms
+of burns and practiced managing a simulated patient in the pre-hospital
+setting.</p>
+<p><strong>Skills Station 2: Management of Patient with Intra-abdominal Injuries</strong>
+<br><strong>Objective:</strong> Participants recognized the signs and symptoms
+of intra-abdominal injuries and practiced managing a simulated patient
+in the pre-hospital setting.</p>
+<p>This workshop successfully built upon the foundations laid in previous
+sessions, focusing on enhancing theoretical knowledge and practical skills
+in pre-hospital trauma care.</p>
+<p>The next workshop will be announced soon. Stay tuned for updates and registration
+details!</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/lecture_hall.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Lecture session</div><div class="isomer-card-link">Nil</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_144542.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">IV insertion training</div>
+<div class="isomer-card-link">Nil</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/20240625_143827.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scenario-based discussion</div><div class="isomer-card-link">NIl</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop2_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participants practice spinal management techniques</div>
+<div class="isomer-card-link">Nil</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop5_1030x773.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Participants engage in CPR and cardiac arrest scenario practice</div><div class="isomer-card-link">Nil</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/National_PEC_workshop4_1030x773.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Practice airway management</div>
+<div class="isomer-card-link">Nil</div>
+</div>
+</a>
+</div>
+<p></p>
 <p></p>

@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Recertification Programmes/.keep
-      - Recertification Programmes/National Prehospital Emergency Care
-        Workshop.md
       - Recertification Programmes/Emergency Medical Technician (EMT)
         Recertification Programme.md
       - Recertification Programmes/Joint ITE UPEC Certificate in Prehospital

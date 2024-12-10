@@ -359,5 +359,12 @@ For more information on this national workgroup, please click <a href="http://up
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>National Pre-hospital Emergency Care Workshop</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p></p>

@@ -14,7 +14,8 @@ least once every two years. Similarly, EMTs are required to participate
 in a recognized EMT Recertification Programme biennially.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Joint ITE-UPEC Certificate In Pre-hospital Emergency Care Course</summary>
+<summary><strong>Joint ITE-UPEC Certificate In Pre-hospital Emergency </strong>Care
+Course</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -219,7 +220,8 @@ or via email at <a href="https://www.myskillsfuture.gov.sg/content/portal/en/car
 </div>
 </details>
 <details class="isomer-details">
-<summary>EMT Recertification Programme</summary>
+<summary><strong>EMT Recertification Programme</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">

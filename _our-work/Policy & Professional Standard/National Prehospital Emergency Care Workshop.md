@@ -13,10 +13,7 @@ third_nav_title: Policy & Professional Standard
 by UPEC and ITE, aimed at enhancing the skills and competencies of private
 sector paramedics and EMTs. Conducted twice annually, this fully subsidized
 workshop provides EMS professionals with the knowledge, techniques, and
-practical skills essential for delivering high-quality pre-hospital care.
-By combining the expertise of UPEC and ITE, the course is designed to be
-comprehensive, practical, and aligned with the latest standards in emergency
-medical services.</p>
+practical skills essential for delivering high-quality pre-hospital care.</p>
 <p>It addresses common challenges such as a perceived lack of sufficient
 clinical training and feeling out of practice in critical areas like ECG
 interpretation, emergency procedures, and advanced clinical techniques.</p>

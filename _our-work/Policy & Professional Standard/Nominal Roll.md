@@ -30,10 +30,10 @@ contact UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer no
 EMTs listed on the Nominal Roll.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="This is a sample of the PRM Pre-hospital Provider e-card." src="/images/TEMPLATE_PRM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/template_prm.jpg">
 </div>
 <p>This is a sample of the PRM Pre-hospital Provider e-card.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="This is a sample of the EMT Pre-hospital Provider e-card." src="/images/TEMPLATE_EMT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/template_emt.jpg">
 </div>
 <p>This is a sample of the EMT Pre-hospital Provider e-card.</p>

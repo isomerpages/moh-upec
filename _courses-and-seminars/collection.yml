@@ -2,8 +2,6 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - Recertification Programmes 1/Continuous Recertification.md
-      - Recertification Programmes 1/.keep
       - Recertification Programmes/.keep
       - Recertification Programmes/Emergency Medical Technician (EMT)
         Recertification Programme.md

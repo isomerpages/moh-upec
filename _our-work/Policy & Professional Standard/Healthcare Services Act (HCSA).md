@@ -92,7 +92,8 @@ disciplines, or</p>
 any necessary <strong>recertification programs</strong>, such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical Directors’ Workshop</p>
+<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-workshop-and-courses/" rel="noopener nofollow" target="_blank">Medical Directors' Workshop</a>
+</p>
 </li>
 <li>
 <p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/emergency-medical-technician-emt-recertification-programme/" rel="noopener nofollow" target="_blank">EMT Recertification Programme</a>
@@ -138,7 +139,7 @@ information, refer to the specific license conditions documents.</p>
 </p>
 </li>
 <li>
-<p>For the legal definition of EAS and MTS, please refer to the <a href="https://sso.agc.gov.sg/Act/HSA2020?ProvIds=Sc1-#Sc1-" rel="noopener nofollow" target="_blank">First Schedule of the Act,</a> 
+<p>For the legal definition of EAS and MTS, please refer to the <a href="https://sso.agc.gov.sg/Act/HSA2020?ProvIds=Sc1-#Sc1-" rel="noopener nofollow" target="_blank">First Schedule of the Act,</a>
 </p>
 <p></p>
 </li>

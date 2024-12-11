@@ -203,20 +203,10 @@ the course:</p>
 to access the SkillsFuture Funding Changes. Please note that the course
 fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>
 <p></p>
-<p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course is
-now successfully integrated into the STEP platform for registration. For
-detailed instructions on the registration process, please download the
-PDF below:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/Joint_Cert_Step_Platform_Registration_Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Joint Cert STEP Platform Registration Process</u></a>
+<p>For a detailed overview of the course and registration, please visit the
+<a href="https://www.ite.edu.sg/courses/part-time-courses/joint-industry-certification/upec-cert-in-pre-hosp-emer-care" rel="noopener nofollow" target="_blank">ITE website</a>or contact Ms. Belinda Ho at 6590 2146 or via email at
+<a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>
 </p>
-<p></p>
-</li>
-</ul>
-<p>For further clarification, please contact Ms. Belinda Ho at 6590 2146
-or via email at <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>.
-For more information, visit the <a href="https://www.ite.edu.sg/courses/part-time-courses/joint-industry-certification/upec-cert-in-pre-hosp-emer-care" rel="noopener nofollow" target="_blank">ITE website</a>.</p>
 </div>
 </details>
 <details class="isomer-details">

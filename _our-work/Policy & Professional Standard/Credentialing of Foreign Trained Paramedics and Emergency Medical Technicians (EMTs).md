@@ -242,7 +242,7 @@ of their training and experience to local standards.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
+<p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener nofollow" target="_blank">List of Recognised Foreign-Trained Paramedic Qualification</a>
 </p>
 <p></p>
 <p>For applications and inquiries:</p>

@@ -215,8 +215,8 @@ PDF below:</p>
 </li>
 </ul>
 <p>For further clarification, please contact Ms. Belinda Ho at 6590 2146
-or via email at <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>belinda_y_ho@ite.edu.sg</u></a>
-</p>
+or via email at <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>.
+For more information, visit the <a href="https://www.ite.edu.sg/courses/part-time-courses/joint-industry-certification/upec-cert-in-pre-hosp-emer-care" rel="noopener nofollow" target="_blank">ITE website</a>.</p>
 </div>
 </details>
 <details class="isomer-details">

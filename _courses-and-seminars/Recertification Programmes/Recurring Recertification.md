@@ -217,11 +217,9 @@ fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMT_Recert.jpg">
 </div>
-<p>In accordance with the Healthcare Services Act (HCSA), EMTs are required
-to pass a recertification test every two years. To minimise disruptions
-to daily operations, Private Ambulance Operators (PAOs) are strongly encouraged
-to have their EMTs undergo recertification 3 to 6 months before their current
-certification expires.</p>
+<p>Private Ambulance Operators (PAOs) are strongly encouraged to have their
+EMTs undergo recertification 3 to 6 months before their current certification
+expires.</p>
 <p>The recertification course will last for 1.5 days, with the schedule as
 follows:</p>
 <ul data-tight="true" class="tight">

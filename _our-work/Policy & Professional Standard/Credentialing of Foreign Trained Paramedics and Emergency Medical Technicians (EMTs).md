@@ -178,7 +178,7 @@ practice. Relevant experience required for nurses.</p>
 <p><strong>Submit Your Application</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email your application and documents to UPEC at <a href="#" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
+<p>Email your application and documents to UPEC at <a href="PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
 </li>
 </ul>
 </li>
@@ -248,7 +248,7 @@ of their training and experience to local standards.</p>
 <p>For applications and inquiries:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Email</strong>: <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
+<p><strong>Email</strong>: <a href="PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
 </p>
 </li>
 </ul>

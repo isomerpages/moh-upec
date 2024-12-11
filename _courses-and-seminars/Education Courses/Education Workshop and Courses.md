@@ -367,9 +367,6 @@ For more information on this national workgroup, please click <a href="http://up
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_National_PEC_workshop.jpeg">
 </div>
-</div>
-</details>
-</div>
 <p>The National Pre-hospital Emergency Care Workshop held on 3 December 2024
 aimed to update participants on the latest developments in pre-hospital
 care while providing practical skills training for managing specific injuries.
@@ -407,6 +404,7 @@ sessions, focusing on enhancing theoretical knowledge and practical skills
 in pre-hospital trauma care.</p>
 <p>The next workshop will be announced soon. Stay tuned for updates and registration
 details!</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -468,6 +466,10 @@ details!</p>
 <div class="isomer-card-title">Practice airway management</div>
 </div>
 </div>
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
 <p></p>

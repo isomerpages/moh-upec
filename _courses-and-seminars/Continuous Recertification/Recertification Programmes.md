@@ -12,7 +12,7 @@ maintain their professional competency.</p>
 the Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course, at
 least once every two years. Similarly, EMTs are required to participate
 in a recognized EMT Recertification Programme biennially.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Joint ITE-UPEC Certificate In Pre-hospital Emergency Care Course</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -216,6 +216,40 @@ PDF below:</p>
 <p>For further clarification, please contact Ms. Belinda Ho at 6590 2146
 or via email at <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>belinda_y_ho@ite.edu.sg</u></a>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>EMT Recertification Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMT_Recert.jpg">
+</div>
+<p>In accordance with the Healthcare Services Act (HCSA), EMTs are required
+to pass a recertification test every two years. To minimise disruptions
+to daily operations, Private Ambulance Operators (PAOs) are strongly encouraged
+to have their EMTs undergo recertification 3 to 6 months before their current
+certification expires.</p>
+<p>The recertification course will last for 1.5 days, with the schedule as
+follows:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>1st Day:</strong> 8:30 AM - 4:30 PM</p>
+</li>
+<li>
+<p><strong>2nd Day:</strong> 8:30 AM - 1:00 PM</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Venue:</strong>
+</p>
+<p>SingHealth Alice Lee Institute of Advanced Nursing</p>
+<p>168 Jalan Bukit Merah</p>
+<p>Connection One Tower 1, #18-00</p>
+<p>Singapore 150168</p>
+<p></p>
+<p>For information about course fees and application procedures, please visit
+the IAN website by <a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>clicking</u></a> here.</p>
 </div>
 </details>
 </div>

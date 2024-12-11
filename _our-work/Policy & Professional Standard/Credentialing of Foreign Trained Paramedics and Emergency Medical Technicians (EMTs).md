@@ -242,7 +242,7 @@ and experience to local standards.</p>
 <p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener nofollow" target="_blank">List of Recognised Foreign-Trained Paramedic Qualification</a>
 </p>
 <p></p>
-<p>For applications and inquiries:</p>
+<p>For applications and enquiries:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Email</strong>: <a href="PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>

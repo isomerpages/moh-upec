@@ -126,16 +126,21 @@ Transport Service), and (Advertisement) Regulations. For more detailed
 information, refer to the specific license conditions documents.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>EAS LC <a href="/files/Licence_Conditions_for_EAS_HCSA_3_Jan_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">pdf</a>
+<p>EAS LC <a href="/files/Licence_Conditions_For_EAS.pdf" rel="noopener nofollow" target="_blank">pdf</a>
 </p>
 </li>
 <li>
-<p>MTS LC <a href="/files/Licence_Conditions_for_MTS_HCSA_3_Jan_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">pdf</a>
+<p>MTS LC <a href="/files/Licence_Conditions_For_MTS.pdf" rel="noopener nofollow" target="_blank">pdf</a>
 </p>
 </li>
 <li>
-<p>EAS and MTS Regulations <a href="/files/Healthcare_Services_Act_EAS_and_MTS_regulations.pdf" rel="noopener noreferrer nofollow" target="_blank">pdf</a>
+<p>Healthcare Services Act 2020 <a href="/files/Healthcare_Services_Act_2020.pdf" rel="noopener nofollow" target="_blank">pdf</a>
 </p>
+</li>
+<li>
+<p>For the legal definition of EAS and MTS, please refer to the <a href="https://sso.agc.gov.sg/Act/HSA2020?ProvIds=Sc1-#Sc1-" rel="noopener nofollow" target="_blank">First Schedule of the Act,</a> 
+</p>
+<p></p>
 </li>
 </ol>
 <p>For further details on EAS, including crew and CGO requirements, <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>

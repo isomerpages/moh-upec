@@ -146,6 +146,7 @@ practice. Relevant experience required for nurses.</p>
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4><strong>Application Process</strong></h4>
 </blockquote>
 <ol>

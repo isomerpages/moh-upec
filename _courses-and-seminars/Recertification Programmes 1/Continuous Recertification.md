@@ -14,8 +14,8 @@ least once every two years. Similarly, EMTs are required to participate
 in a recognized EMT Recertification Programme biennially.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Joint ITE-UPEC Certificate In Pre-hospital Emergency </strong>Care
-Course</summary>
+<summary><strong>Joint ITE-UPEC Certificate In Pre-hospital Emergency Care Course</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -251,7 +251,7 @@ follows:</p>
 <p>Singapore 150168</p>
 <p></p>
 <p>For information about course fees and application procedures, please visit
-the IAN website by <a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>clicking</u></a> here.</p>
+the IAN website by <a href="https://www.singhealthacademy.edu.sg/ian/programmes/other-certification-courses/Pages/EMTRecert.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>clicking</u></a> here.</p>
 </div>
 </details>
 </div>

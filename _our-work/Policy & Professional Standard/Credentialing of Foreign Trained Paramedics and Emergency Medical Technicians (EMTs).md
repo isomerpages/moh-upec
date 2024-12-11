@@ -145,7 +145,9 @@ practice. Relevant experience required for nurses.</p>
 </tr>
 </tbody>
 </table>
+<blockquote>
 <h4><strong>Application Process</strong></h4>
+</blockquote>
 <ol>
 <li>
 <p><strong>Download Application Forms</strong>:</p>
@@ -186,7 +188,7 @@ practice. Relevant experience required for nurses.</p>
 <p>Applications are reviewed by UPEC's PEC Training Review Panel.</p>
 </li>
 <li>
-<p>Processing time is approximately <strong>3 to 4 weeks</strong>.</p>
+<p>Processing time is approximately 3 to 4 weeks.</p>
 </li>
 </ul>
 </li>
@@ -196,7 +198,7 @@ practice. Relevant experience required for nurses.</p>
 </blockquote>
 <p>The PEC Training Review Panel assesses the credentials of paramedic and
 EMT candidates seeking employment in Singapore. The panel comprises qualified
-professionals recognized by UPEC, including:</p>
+professionals recognised by UPEC, including:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nurses</p>

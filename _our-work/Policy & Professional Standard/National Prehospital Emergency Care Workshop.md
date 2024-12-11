@@ -31,5 +31,5 @@ a collaborative learning environment.</p>
 the professional development of EMS personnel but also strengthens the
 overall quality of emergency medical services, ensuring participants are
 well-prepared to meet the dynamic demands of the field.</p>
-<p>For more information about the course and to register, click here.</p>
+<p>For more information about the course and to register, <a href="https://cms.isomer.gov.sg/sites/moh-upec/folders/courses-and-seminars/subfolders/Education%20Courses/editPage/Education%20Workshop%20and%20Courses.md" rel="noopener nofollow" target="_blank">click</a> here.</p>
 <p></p>

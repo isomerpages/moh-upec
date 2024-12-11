@@ -10,16 +10,10 @@ third_nav_title: Policy & Professional Standard
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Credentialing_Framework.jpg">
 </div>
-<p>The Ministry of Health (MOH) has regulated private ambulance services
-as either Emergency Ambulance Service (EAS) or Medical Transport Service
-(MTS), licensing them under the Healthcare Services Act (HCSA) effective
-January 3, 2022. The EAS and MTS regulations also specify staff requirements,
-including recognized qualifications and certifications.</p>
-<p>As part of these regulations, a credentialing framework has been established
-to ensure that all EMTs and Paramedics, including those trained overseas,
-meet the standards required to be recognised as qualified professionals
-in Singapore. This framework allows these healthcare professionals to be
-officially acknowledged and integrated into the local emergency medical
+<p>To ensure that all Emergency Medical Technicians (EMTs) and Paramedics
+trained overseas meet Singapore's high standards, a credentialing framework
+has been established. This framework allows qualified professionals to
+be officially recognised and integrated into the local emergency medical
 services system.</p>
 <p>The eligibility criteria and requirements are outlined below:</p>
 <table style="minWidth: 75px">
@@ -31,13 +25,16 @@ services system.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><strong>Category</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>EMTs</p>
+<p><strong>EMTs</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Paramedics</p>
+<p><strong>Paramedics</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -46,94 +43,191 @@ services system.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Completed training in their home country in paramedicine or nursing deemed
-comparable to accredited local programmes at EMT level.</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Completed a certification or programme accredited by professional regulatory
-bodies of Australia and New Zealand, Canada, UK or US; and/or</p>
-</li>
-<li>
-<p>Registered as a paramedic in Australia, New Zealand, Canada, UK or US
-NREMT for at least a year and of good standing; or</p>
-</li>
-<li>
-<p>Completed training in their home country in paramedicine or nursing comparable
-to accredited local programmes at paramedic level. &nbsp;</p>
-</li>
-<li>
-<p>Paramedics do not need past experience if their training is equivalent
-or if they currently work as paramedics. However, all nurses are required
-to have relevant experience.</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Local Requirement</strong>
+<p>Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Completed training in paramedicine or nursing comparable to accredited
+local EMT programmes.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Completed training in paramedicine or nursing comparable to accredited
+local paramedic programmes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Certification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certification accredited by professional regulatory bodies in Australia,
+New Zealand, Canada, UK, or USA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Registration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Registered as a paramedic in Australia, New Zealand, Canada, UK, or with
+the US NREMT for at least one year and in good standing.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Experience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not required for paramedics with equivalent training or current paramedic
+practice. Relevant experience required for nurses.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Local Requirements</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Review of qualifications by PEC Training Review Panel</p>
-</li>
-<li>
-<p>Obtain Letter of Support for MOM application</p>
-</li>
-<li>
-<p>Candidate to attend and pass a Qualifying Assessment – <strong>EMT Recertification Programme</strong>
-</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Review of qualifications by PEC Training Review Panel</p>
-</li>
-<li>
-<p>Obtain Letter of Support for MOM application</p>
-</li>
-<li>
-<p>Candidate to attend and pass a Qualifying Assessment -&nbsp; <strong>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</strong>
-</p>
-</li>
-</ul>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qualification Review</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reviewed by PEC Training Review Panel.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reviewed by PEC Training Review Panel.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Letter of Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain Letter of Support for MOM application.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain Letter of Support for MOM application.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Qualifying Assessment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass the EMT Recertification Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pass the Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>To maintain high standards for overseas-trained Paramedics and EMTs practicing
-in Singapore, please refer to the list of recognised foreign paramedic
-qualifications, which is reviewed periodically.</p>
-<p>Applications are reviewed by UPEC, with an estimated processing time of
-3 to 4 weeks. UPEC will inform you of the outcome once the review is complete.</p>
-<p>Please download the appropriate application forms and send them to UPEC.
-If you are hiring foreign-trained paramedics, use the Paramedic Credentialing
-Application Form. If you are hiring foreign-trained EMTs, use the EMT Credentialing
-Application Form.</p>
-<p>Applications and inquiries can be directed to UPEC at <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
-<p></p>
+<p><strong>Application Process</strong>
+</p>
+<ol>
+<li>
+<p><strong>Download Application Forms</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>For Paramedics</strong>: <a href="#" rel="noopener" target="_blank">Paramedic Credentialing Application Form UPEC 2024</a>
+</p>
+</li>
+<li>
+<p><strong>For EMTs</strong>: <a href="#" rel="noopener" target="_blank">EMT Credentialing Application Form UPEC 2024</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Complete the Application</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Fill out the appropriate application form.</p>
+</li>
+<li>
+<p>Gather all required supporting documents.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Submit Your Application</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email your application and documents to UPEC at <a href="#" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Application Review</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applications are reviewed by UPEC's PEC Training Review Panel.</p>
+</li>
+<li>
+<p>Processing time is approximately <strong>3 to 4 weeks</strong>.</p>
+</li>
+</ul>
+</li>
+</ol>
 <h4><strong>PEC Training Review Panel</strong></h4>
-<p>As part of this framework, the <strong>PEC Training Review Panel</strong> has
-been established to assess the credentials of paramedic and EMT candidates
-seeking employment in Singapore. The panel is composed of qualified professionals,
-including nurses, paramedics, and Emergency Medicine (EM) physicians recognized
-by UPEC.</p>
-<p>Each review panel must include at least one EM physician, ensuring medical
-expertise in the evaluation process. The UPEC Clinical Director is responsible
-for assigning the panel members, and their role is to review the candidate's
-qualifications, ensuring they meet Singapore's high standards for practicing
-in emergency medical services.</p>
-<p></p>
+<p>The PEC Training Review Panel assesses the credentials of paramedic and
+EMT candidates seeking employment in Singapore. The panel comprises qualified
+professionals recognized by UPEC, including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nurses</p>
+</li>
+<li>
+<p>Paramedics</p>
+</li>
+<li>
+<p>Emergency Medicine (EM) physicians</p>
+</li>
+</ul>
+<p>Each panel includes at least one EM physician to ensure medical expertise
+in the evaluation process. The UPEC Clinical Director assigns panel members
+who will review your qualifications to ensure they meet Singapore's standards
+for emergency medical services.</p>
+<hr>
+<p><strong>Maintaining High Standards</strong>
+</p>
+<p>To uphold the quality of emergency medical services in Singapore, all
+overseas-trained Paramedics and EMTs must:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Refer to the Recognised Qualifications</strong>: Consult the
+<a href="#" rel="noopener" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>, which is reviewed
+periodically.</p>
+</li>
+<li>
+<p><strong>Stay Updated</strong>: Ensure compliance with the latest care
+protocols and best practices in emergency medical services.</p>
+</li>
+</ul>
+<hr>
 <p><strong>Relevant documents:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -149,7 +243,13 @@ in emergency medical services.</p>
 <p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>
 </p>
 <p></p>
-<p></p>
+<p>For applications and inquiries:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Email</strong>: <a href="mailto:PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
+</p>
+</li>
+</ul>
 </li>
 </ol>
 <p></p>

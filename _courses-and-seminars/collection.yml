@@ -2,7 +2,7 @@ collections:
   courses-and-seminars:
     output: true
     order:
-      - Recertification Programmes/Continuous Recertification.md
+      - Recertification Programmes/Recurring Recertification.md
       - Recertification Programmes/.keep
       - Education Courses/.keep
       - Education Courses/Education Workshop and Courses.md

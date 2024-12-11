@@ -89,7 +89,7 @@ disciplines, or</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All personnel must hold <strong>valid certifications</strong> and complete
-any necessary <strong>recertification programs</strong>, such as:</p>
+any necessary <strong>recertification programmes</strong>, such as:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-workshop-and-courses/" rel="noopener nofollow" target="_blank">Medical Directors' Workshop</a>

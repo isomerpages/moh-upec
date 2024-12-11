@@ -145,18 +145,17 @@ practice. Relevant experience required for nurses.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Application Process</strong>
-</p>
+<h4><strong>Application Process</strong></h4>
 <ol>
 <li>
 <p><strong>Download Application Forms</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For Paramedics</strong>: <a href="#" rel="noopener" target="_blank">Paramedic Credentialing Application Form UPEC 2024</a>
+<p><strong>For Paramedics</strong>: <a href="/files/PRM_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener" target="_blank">Paramedic Credentialing Application Form UPEC 2024</a>
 </p>
 </li>
 <li>
-<p><strong>For EMTs</strong>: <a href="#" rel="noopener" target="_blank">EMT Credentialing Application Form UPEC 2024</a>
+<p><strong>For EMTs</strong>: <a href="/files/EMT_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener" target="_blank">EMT Credentialing Application Form UPEC 2024</a>
 </p>
 </li>
 </ul>
@@ -192,7 +191,9 @@ practice. Relevant experience required for nurses.</p>
 </ul>
 </li>
 </ol>
+<blockquote>
 <h4><strong>PEC Training Review Panel</strong></h4>
+</blockquote>
 <p>The PEC Training Review Panel assesses the credentials of paramedic and
 EMT candidates seeking employment in Singapore. The panel comprises qualified
 professionals recognized by UPEC, including:</p>
@@ -212,21 +213,19 @@ in the evaluation process. The UPEC Clinical Director assigns panel members
 who will review your qualifications to ensure they meet Singapore's standards
 for emergency medical services.</p>
 <hr>
-<p><strong>Maintaining High Standards</strong>
+<blockquote>
+<p><strong>List of Recognised Foreign-Trained Paramedic Qualifications</strong>
 </p>
-<p>To uphold the quality of emergency medical services in Singapore, all
-overseas-trained Paramedics and EMTs must:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Refer to the Recognised Qualifications</strong>: Consult the
-<a href="#" rel="noopener" target="_blank">List of Recognised Foreign Paramedic Qualifications</a>, which is reviewed
-periodically.</p>
-</li>
-<li>
-<p><strong>Stay Updated</strong>: Ensure compliance with the latest care
-protocols and best practices in emergency medical services.</p>
-</li>
-</ul>
+</blockquote>
+<p>The List of Recognised Foreign-Trained Paramedic Qualifications serves
+as a guideline to identify training programmes that are comparable to Singapore’s
+standards for paramedics. These qualifications are reviewed periodically
+to ensure they remain aligned with evolving best practices in emergency
+medical services.</p>
+<p>Applicants with qualifications from countries or programmes not included
+in this list are still encouraged to apply. Such applications will be reviewed
+by the <strong>PEC Training Review Panel</strong> to assess the comparability
+of their training and experience to local standards.</p>
 <hr>
 <p><strong>Relevant documents:</strong>
 </p>

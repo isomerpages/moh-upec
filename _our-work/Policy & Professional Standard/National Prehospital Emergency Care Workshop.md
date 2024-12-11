@@ -31,5 +31,5 @@ a collaborative learning environment.</p>
 the professional development of EMS personnel but also strengthens the
 overall quality of emergency medical services, ensuring participants are
 well-prepared to meet the dynamic demands of the field.</p>
-<p>For more information about the course and to register, please click here.</p>
+<p>For more information about the course and to register, click here.</p>
 <p></p>

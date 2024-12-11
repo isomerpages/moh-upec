@@ -23,7 +23,8 @@ also conducted biennially, to maintain their professional qualifications.</p>
 </div>
 <p></p>
 <p>The Joint ITE-UPEC Certificate in Pre-hospital Emergency Care Course certifies
-local and foreign paramedics.</p>
+local and foreign paramedics, who are strongly encouraged to complete their
+recertification at least 6 months before their current certification expires.</p>
 <p></p>
 <h4>Course Information</h4>
 <p>The course starts with a five-week self-directed learning phase, where
@@ -216,9 +217,8 @@ fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMT_Recert.jpg">
 </div>
-<p>Private Ambulance Operators (PAOs) are strongly encouraged to have their
-EMTs undergo recertification 3 to 6 months before their current certification
-expires.</p>
+<p>EMTs are strongly encouraged to complete their recertification 3 to 6
+months before their current certification expires.</p>
 <p>The recertification course will last for 1.5 days, with the schedule as
 follows:</p>
 <ul data-tight="true" class="tight">

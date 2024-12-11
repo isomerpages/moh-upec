@@ -214,7 +214,7 @@ PDF below:</p>
 </li>
 </ul>
 <p>For further clarification, please contact Ms. Belinda Ho at 6590 2146
-or via email at <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>belinda_y_ho@ite.edu.sg</u></a> 
+or via email at <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>belinda_y_ho@ite.edu.sg</u></a>
 </p>
 </div>
 </details>

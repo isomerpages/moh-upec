@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Recertification Programmes 1/.keep
-      - Continuous Recertification.md
       - Recertification Programmes/.keep
       - Recertification Programmes/Emergency Medical Technician (EMT)
         Recertification Programme.md

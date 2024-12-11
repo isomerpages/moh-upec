@@ -17,12 +17,10 @@ practical skills essential for delivering high-quality pre-hospital care.
 By combining the expertise of UPEC and ITE, the course is designed to be
 comprehensive, practical, and aligned with the latest standards in emergency
 medical services.</p>
-<p>Their joint expertise ensures that the course content is tailored to address
-the evolving needs of EMS personnel and the challenges they face in the
-field. It focuses on bridging gaps such as a perceived lack of sufficient
+<p>It addresses common challenges such as a perceived lack of sufficient
 clinical training and feeling out of practice in critical areas like ECG
 interpretation, emergency procedures, and advanced clinical techniques.</p>
-<p>To tackle these challenges, the workshop offers hands-on training sessions
+<p>To address these challenges, the workshop offers hands-on training sessions
 to enhance core clinical skills and emergency procedures. It includes specialized
 modules on topics such as ECG interpretation, airway management, and trauma
 care, as well as scenario-based training to build confidence and competence

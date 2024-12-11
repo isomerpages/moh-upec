@@ -8,10 +8,10 @@ third_nav_title: Recertification Programmes
 <p>Under the Healthcare Services Act (HCSA), paramedics and Emergency Medical
 Technicians (EMTs) are required to undergo recertification to ensure they
 maintain their professional competency.</p>
-<p>Paramedics must complete a Paramedic Recertification Programme, such as
-the Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course, at
-least once every two years. Similarly, EMTs are required to participate
-in a recognized EMT Recertification Programme biennially.</p>
+<p>Paramedics are required to complete the Joint ITE-UPEC Certificate in
+Pre-hospital Emergency Care course every two years as part of their recertification.
+Similarly, EMTs must participate in the EMT Recertification Programme,
+also conducted biennially, to maintain their professional qualifications.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Joint ITE-UPEC Certificate In Pre-hospital Emergency Care Course</strong>

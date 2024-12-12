@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Recertification Programmes
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_12_12_at_08_53_55_6fb13567.jpg">
+</div>
 <p>Under the Healthcare Services Act (HCSA), paramedics and Emergency Medical
 Technicians (EMTs) are required to undergo recertification to ensure they
 maintain their professional competency.</p>

@@ -15,10 +15,10 @@ their professional competency:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Paramedics</strong>: Paramedics must complete the Joint ITE-UPEC
-Certificate in Pre-hospital Emergency Care course</p>
+Certificate in Pre-hospital Emergency Care course.</p>
 </li>
 <li>
-<p><strong>EMTs</strong>: EMTs must complete in the EMT Recertification Programme.&nbsp;</p>
+<p><strong>EMTs</strong>: EMTs must complete the EMT Recertification Programme.&nbsp;</p>
 </li>
 </ul>
 <p></p>

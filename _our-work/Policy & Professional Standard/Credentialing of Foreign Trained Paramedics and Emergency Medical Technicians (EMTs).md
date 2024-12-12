@@ -10,11 +10,10 @@ third_nav_title: Policy & Professional Standard
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Credentialing_Framework.jpg">
 </div>
-<p>To ensure that all Emergency Medical Technicians (EMTs) and Paramedics
-trained overseas meet Singapore's standards, a credentialing framework
-has been established. This framework allows qualified professionals to
-be officially recognised and integrated into the local emergency medical
-services system.</p>
+<p>A credentialing framework has been established to ensure that all Emergency
+Medical Technicians (EMTs) and Paramedics trained overseas meet Singapore's
+standards. This framework allows qualified professionals to be officially
+recognised and integrated into the local emergency medical services system.</p>
 <p>The eligibility criteria and requirements are outlined below:</p>
 <table style="minWidth: 75px">
 <colgroup>

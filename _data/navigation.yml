@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Our Work
     collection: our-work
+  - title: Events
+    collection: events
   - title: News and Updates
     collection: news-and-updates
   - title: Courses and Seminars

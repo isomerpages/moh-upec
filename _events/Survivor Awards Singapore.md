@@ -22,38 +22,8 @@ resuscitating them.</p>
 <summary><strong>Survivor Awards Singapore 2023 @ EXPO</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-link"></div>
-</div>
-</div>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLnypuZLgIXFYWLM7oKgMjOgpyOsaqyEG7z4NJIcT6zW5pWx47xcCyQ1wckPM5LSJJN90aAX1EIwIy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 </div>
 </details>

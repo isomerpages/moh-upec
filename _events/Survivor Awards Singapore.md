@@ -19,6 +19,17 @@ resuscitating them.</p>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Survivor Awards Singapore 2024 @ Our Tampines Hub</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRLnypuZLgIXFYWLM7oKgMjOgpyOsaqyEG7z4NJIcT6zW5pWx47xcCyQ1wckPM5LSJJN90aAX1EIwIy/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Survivor Awards Singapore 2023 @ EXPO</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">

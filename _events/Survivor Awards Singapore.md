@@ -30,7 +30,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SAS2023" src="/images/data_team.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -38,7 +40,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/card_app.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -46,7 +50,9 @@ resuscitating them.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2ndCPRcard.jpg">
 </div>
 </div>
-<div class="isomer-card-body"></div>
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
 </div>
 </div>
 </div>

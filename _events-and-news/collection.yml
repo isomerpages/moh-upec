@@ -1,4 +1,5 @@
 collections:
   events-and-news:
     output: true
-    order: []
+    order:
+      - Survivors Award Singapore.md

@@ -52,7 +52,7 @@ resuscitating them.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Survivor Awards Singapore 2014</strong>
+<summary><strong>Survivor Awards Singapore 2014 @ Academia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">

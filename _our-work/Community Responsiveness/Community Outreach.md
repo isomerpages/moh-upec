@@ -24,5 +24,6 @@ launched to reach a wider audience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
 <p>To increase public awareness of CPR and AED, we collaborate with various
-partners to run roadshows at heartlands, attractions and clubhouses.</p>
+partners to run roadshows at heartlands, attractions and clubhouses. Our
+highlight 'QCPR Race' has received positive responses from the community.</p>
 <p></p>

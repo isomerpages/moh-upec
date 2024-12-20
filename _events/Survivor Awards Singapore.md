@@ -52,6 +52,17 @@ resuscitating them.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Survivor Awards Singapore 2018 @ OCBC Square</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe height="484" width="810" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrx29HDfKV6vsTKYmXhsXpFxquPiYG1Mr0LrIxgAU5kdjaLdpZHghrW9UDVnld4VXT_Wcog5t-cdvW/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Survivor Awards Singapore 2014 @ Academia</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">

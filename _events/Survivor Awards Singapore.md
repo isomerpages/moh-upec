@@ -13,7 +13,7 @@ public awareness about Out-of-Hospital Cardiac Arrest (OHCA) and to recognise
 the selfless dedication of laypersons and pre-hospital providers who have
 played a role in saving lives from OHCA. At every ceremony, survivors show
 their appreciation by awarding certificates of appreciation to the bystanders,
-995 specialists, paramedics and MyResponder volunteers who assisted in
+995 specialists, MyResponder volunteers and paramedics who assisted in
 resuscitating them.</p>
 <p><strong><u>Photo Gallery</u></strong>
 </p>

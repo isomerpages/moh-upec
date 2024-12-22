@@ -8,7 +8,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_06.png">
 </div>
 <p>The <strong>Survivor Awards Singapore</strong> is an annual ceremony held
-in conjunction with World Restart A Heart (WRAH) Day. It aims to raise
+in conjunction with the World Restart A Heart (WRAH) Day. It aims to raise
 public awareness about Out-of-Hospital Cardiac Arrest (OHCA) and to recognise
 the selfless dedication of laypersons and pre-hospital providers who have
 played a role in saving lives from OHCA. At every ceremony, survivors show

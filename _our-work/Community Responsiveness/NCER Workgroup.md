@@ -23,7 +23,7 @@ Affairs, Ministry of Manpower, Singapore Civil Defence Force (SCDF), Sport
 Singapore, Singapore Resuscitation and First Aid Council, Singapore Heart
 Foundation, Singapore Red Cross, St. John Singapore and Unit for Pre-hospital
 Emergency Care (UPEC). The committee operates under the leadership of <strong>Dr. Michael Chia</strong>, <em>Deputy Director of UPEC and Senior Consultant at Tan Tock Seng Hospital</em>,
-and <strong>COL Bob Tan</strong><em>, Deputy Director of the Volunteer &amp; Community Partnership Department (VCPD) at SCDF</em>.</p>
+and <strong>Colonel (COL) Bob Tan</strong><em>, Deputy Director of the Volunteer &amp; Community Partnership Department (VCPD) at SCDF</em>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15.png">

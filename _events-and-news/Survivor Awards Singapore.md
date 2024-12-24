@@ -16,6 +16,10 @@ celebrate those who played a vital ole in resuscitating cardiac arrest
 victim, Unit for Pre-hospital Emergency Care (UPEC) will be holding the
 Survivor Awards Singapore 2019 to recognise their outstanding efforts.</p>
 <p></p>
+<p>Survivors of cardiac arrest and their families wil be invited to the Survivor
+Awards ceremony to show their appreciation for those who helped to resuscitate
+them. THe res</p>
+<p></p>
 <p>s</p>
 <p><strong><u>Photo Gallery</u></strong>
 </p>

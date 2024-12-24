@@ -31,6 +31,10 @@ the culture change.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_16.png">
+</div>
 <p>The workgroup is co-chaired by UPEC and SCDF. Since the start of the workgroup,
 each stakeholder brings a unique set of experiences and insights that are
 critical to the success of our mission. The workgroup had fruitful discussion

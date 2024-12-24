@@ -7,14 +7,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_06.png">
 </div>
-<p>The <strong>Survivor Awards Singapore</strong> is an annual ceremony held
-in conjunction with the World Restart A Heart (WRAH) Day. It aims to raise
-public awareness about Out-of-Hospital Cardiac Arrest (OHCA) and to recognise
-the selfless dedication of laypersons and pre-hospital providers who have
-played important roles in saving lives from OHCA. At every ceremony, survivors
-show their appreciation by awarding certificates of appreciation to the
-bystanders, 995 specialists, MyResponder volunteers and paramedics who
-assisted in resuscitating them.</p>
+<p>Every year, the were people who suffered an out-of-hospital cardiac arrest
+in Singapore, a potentially lethal event if victims are not attended to
+in time. Whether they are in a park, pool, or in the privacy of their own
+home, the difference between life and death for many f these people can
+be a matter of minutes and if a bystander takes action to help them. To
+celebrate those who played a vital ole in resuscitating cardiac arrest
+victim, Unit for Pre-hospital Emergency Care (UPEC) will be holding the
+Survivor Awards Singapore 2019 to recognise their outstanding efforts.</p>
+<p></p>
+<p>s</p>
 <p><strong><u>Photo Gallery</u></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

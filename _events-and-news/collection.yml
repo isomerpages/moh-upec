@@ -2,5 +2,6 @@ collections:
   events-and-news:
     output: true
     order:
+      - Survivor Awards Singapore.md
       - Upcoming Events.md
       - News Media.md

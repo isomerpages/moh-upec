@@ -4,23 +4,45 @@ permalink: /health-informatics-innovation/
 variant: tiptap
 description: ""
 ---
-<h3>Operational Medical Network Informatics Integrators (OMNII)</h3>
-<p></p>
+<p>The Health Informatics</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Operational Medical Network Informatics Integrators (OMNII)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TuWYYhB6U9Q"></iframe>
 </div>
+<p><strong>Project OMNII</strong> is a collaboration between the Ministry
+of Health (MOH) and the Ministry of Home Affairs – Singapore Civil Defence
+Force (MHA-SCDF) aimed at enabling seamless data sharing among the <strong>995 Operations Centre, ground ambulance teams, and hospital emergency departments</strong>.
+UPEC co-chairs this project alongside SCDF, providing clinical expertise
+and operational input from a healthcare perspective.</p>
+<p>Through this initiative, <strong>essential medical history</strong> of the
+patient will be made available to paramedics, allowing for <strong>more accurate assessment and timely treatment</strong>.
+Additionally, the <strong>pre-hospital care record will be transmitted in near real-time</strong> to
+the receiving emergency department, facilitating <strong>early preparation and activation of necessary medical services</strong>.
+This system also enhances <strong>hospital resource management</strong> by
+providing an <strong>overview of incoming patients’ conditions, statuses, and estimated arrival times</strong>,
+ensuring more efficient emergency care coordination.</p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>
 <br>
-<br>The project OMNII is a collaboration between MOH and MHA-SCDF to provide
-seamless data sharing among the 995 Ops center, the ground ambulance team
-and the hospitals’ emergency departments. UPEC co-chairs this project with
-SCDF. We provide the project with clinical advice and operational inputs
-from clinical perspectives.</p>
-<p>Essential medical history of the patient will be provided to the paramedics
-for more acute assessment and treatment. The pre-hospital care record will
-be transmitted almost real time to the receiving emergency department for
-early preparation and activation of other services. The emergency department
-will also have an overall preview of the patients’ status, condition and
-estimated arrival time for better resource management.</p>
+<br>
+</p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p></p>
+</div>
+</details>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>

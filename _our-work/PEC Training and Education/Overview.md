@@ -25,12 +25,43 @@ refer to "<a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-w
 <summary><strong>National PEC Training Committee</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The National PEC Training Committee (NPTC) was established in 2018 to
-develop and uphold the professional standards of care of paramedics and
-Emergency Medical Technicians (EMT) to safeguard a good standard of care
-and the safety of patients. NPTC comprises members from the Unit for Pre-hospital
-Emergency Care (UPEC), the Singapore Armed Forces (SAF), Singapore Civil
-Defence Force (SCDF) and various PEC training providers.</p>
+<p>The National Prehospital Emergency Care Training Committee (NPTC) was
+established in 2018 to develop and uphold professional standards for paramedics
+and Emergency Medical Technicians (EMTs), ensuring a high standard of care
+and patient safety in prehospital emergency services.</p>
+<p></p>
+<p>NPTC comprises representatives from the Unit for Pre-hospital Emergency
+Care (UPEC), Singapore Armed Forces (SAF), Singapore Civil Defence Force
+(SCDF), and various accredited prehospital emergency care training providers.
+Together, the committee works to enhance training frameworks, standardize
+competency requirements, and promote continuous professional development
+to strengthen Singapore’s prehospital emergency care system.</p>
+<p></p>
+<p><strong><u>NPTC Committee</u></strong>
+</p>
+<p>Chairman: Lead, UPEC Education &amp; Training</p>
+<p>Advisor: Chief Medical Officer, SCDf</p>
+<p>Members:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Represenative from UPEC</p>
+</li>
+<li>
+<p>Represenative from CDA - SCDF</p>
+</li>
+<li>
+<p>Represenative from SAF SMTI</p>
+</li>
+<li>
+<p>Represenative from Paramedic Program, ITE</p>
+</li>
+<li>
+<p>Represenative from Paramedic Program, NYP</p>
+</li>
+<li>
+<p>Represenative from EMT Program, IAN- SingHealth</p>
+</li>
+</ul>
 <p></p>
 <p>The aims of NPTC includes:</p>
 <ul data-tight="true" class="tight">
@@ -52,6 +83,8 @@ for EMTs and paramedics, with the long term goal to establish paramedicine
 as a recognised profession.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">

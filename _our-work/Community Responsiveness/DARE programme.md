@@ -96,6 +96,46 @@ Programme to better support Singapore’s aging population.</div>
 </div>
 </div>
 </div>
+<hr>
+<p></p>
+<hr>
+<p><strong>Get in touch with us today for more information and to arrange a group training:</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Email</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank"><u>DARE_programme@upec.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Facebook</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>#daretosaveaheart</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>instagram</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>@daretosave_sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Milestones</strong>
@@ -200,42 +240,4 @@ Programme to better support Singapore’s aging population.</div>
 <p>Questions regarding CPR+AED or the DARE programme?
 <br>Our <strong><a href="/frequently-asked-questions/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a></strong> may
 have the answer you need.</p>
-<hr>
-<p><strong>Get in touch with us today for more information and to arrange a group training:</strong>
-</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Email</p>
-</td>
-<td rowspan="1" colspan="3">
-<p><a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank"><u>DARE_programme@upec.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Facebook</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>#daretosaveaheart</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>instagram</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>@daretosave_sg</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

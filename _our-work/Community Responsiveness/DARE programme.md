@@ -97,8 +97,6 @@ Programme to better support Singapore’s aging population.</div>
 </div>
 </div>
 <hr>
-<p></p>
-<hr>
 <p><strong>Get in touch with us today for more information and to arrange a group training:</strong>
 </p>
 <table style="minWidth: 100px">

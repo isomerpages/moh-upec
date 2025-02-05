@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>The Health Informatics</p>
+<p></p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Operational Medical Network Informatics Integrators (OMNII)</summary>
@@ -28,20 +30,10 @@ ensuring more efficient emergency care coordination.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
 <p>
 <br>
 <br>
 </p>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p></p>
-</div>
-</details>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

@@ -8,12 +8,21 @@ third_nav_title: PEC Training and Education
 <h3><strong>Accredited Institutions in Singapore</strong></h3>
 <p>The National Prehospital Emergency Care Training Committee (NPTC) helps
 to uphold the standards for the education and preparation of EMT and Paramedic
-to ensure that graduates are well prepared and competent based on the following:</p>
-<p>&nbsp;1) Healthcare Services Act (HCSA).</p>
-<p>2) License Conditions for Emergency Ambulance Service and Medical Transport
+to ensure that graduates are well prepared and competent based on the following
+standards:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>&nbsp;Healthcare Services Act (HCSA).</p>
+</li>
+<li>
+<p>License Conditions for Emergency Ambulance Service and Medical Transport
 Service</p>
-<p>3) Standard &amp; Scope of Practice: EMT (Level 2) &amp; Paramedic (Level
+</li>
+<li>
+<p>Standard &amp; Scope of Practice: EMT (Level 2) &amp; Paramedic (Level
 3)</p>
+</li>
+</ol>
 <p>For the accredited institutions and training programs in Singapore, please
 refer to below:</p>
 <p>&nbsp;</p>

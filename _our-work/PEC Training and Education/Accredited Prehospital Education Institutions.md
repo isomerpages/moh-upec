@@ -6,37 +6,87 @@ description: ""
 third_nav_title: PEC Training and Education
 ---
 <h3><strong>Accredited Institutions in Singapore</strong></h3>
+<p>The National Prehospital Emergency Care Training Committee (NPTC) helps
+to uphold the standards for the education and preparation of EMT and Paramedic
+to ensure that graduates are well prepared and competent based on the following:</p>
+<p>1) <a href="https://sso.agc.gov.sg/SL/HSA2020-S2-2022?DocDate=20231214&amp;ViewType=Within" rel="noopener nofollow" target="_blank">Healthcare Services Act (HCSA</a>
+</p>
+<p>2) <a href="https://www.hcsa.gov.sg/licensable-healthcare-services/licence-conditions-for-emergency-ambulance-service-and-medical-transport-service" rel="noopener nofollow" target="_blank">License Conditions for Emergency Ambulance Service and Medical Transport Service</a>
+</p>
+<p>3) Standard &amp; Scope of Practice: EMT (Level 2) &amp; Paramedic (Level
+3)</p>
+<p>For the accredited institutions and training program in Singapore, please
+refer to below:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Emergency Medical Technicians (EMT)</strong>
+<summary><strong>Emergency Medical Technicians (EMT) as of Jan 2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://www.singhealthacademy.edu.sg/ian/programmes/wsq-emt-courses/pre-hospital-emergency-medical-services" rel="noopener noreferrer nofollow" target="_blank">SingHealth Alice Lee Institute of Advanced Nursing (IAN)</a>
 </p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>2012 to 2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://www.mindef.gov.sg/oms/imindef/mindef_websites/atozlistings/smti/courses/military.html" rel="noopener noreferrer nofollow" target="_blank">SAF Medical Training Institute (SMTI)</a>
 </p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>since 2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://www.scdf.gov.sg/cda/about-us" rel="noopener noreferrer nofollow" target="_blank">Civil Defence Academy (CDA)</a>
 </p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>since 2015</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://hmi-ihs.com/emergency-medical-technician-specialisation/" rel="noopener noreferrer nofollow" target="_blank">HMI Institute of Health Sciences</a>
 </p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>since 2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://www.cosem.org.sg/emergency-medical-technician-course" rel="noopener noreferrer nofollow" target="_blank">Co-operative of Singapore Civil Defence Force Employees (COSEM)</a>
 </p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p>since 2020</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p><a href="https://lentortraining.com/emt-course/" rel="noopener noreferrer nofollow" target="_blank">Lentor Ambulance</a>
 </p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>since 2021</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -56,15 +106,19 @@ third_nav_title: PEC Training and Education
 </li>
 </ul>
 <p></p>
-<p><strong>Diploma Programmes by Nanyang Polytechnic</strong>
+<p><strong>Diploma Programmes </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.nyp.edu.sg/schools/shss/lifelong-learning/diploma-in-health-sciences-paramedicine.html" rel="noopener" target="_blank">Diploma in Health Sciences (Paramedicine)</a>
+<p><a href="https://www.nyp.edu.sg/schools/shss/lifelong-learning/diploma-in-health-sciences-paramedicine.html" rel="noopener" target="_blank">Diploma in Health Sciences (Paramedicine) </a><strong>by Nanyang Polytechnic</strong>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyp.edu.sg/schools/shss/lifelong-learning/diploma-conversion-paramedic-sciences.html" rel="noopener" target="_blank">Diploma (Conversion) in Paramedic Science</a>
+<p><a href="https://www.nyp.edu.sg/schools/shss/lifelong-learning/diploma-conversion-paramedic-sciences.html" rel="noopener" target="_blank">Diploma (Conversion) in Paramedic Science </a><strong>by Nanyang Polytechnic</strong>
+</p>
+</li>
+<li>
+<p><a href="https://www.ite.edu.sg/courses/course-finder/course/work-study-diploma-in-paramedicine" rel="noopener nofollow" target="_blank">Diploma in Paramedicine </a><strong>by Insitute of Technical Education </strong>
 </p>
 </li>
 </ul>

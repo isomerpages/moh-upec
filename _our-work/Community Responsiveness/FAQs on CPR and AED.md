@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
+<p><strong>Frequently Asked Questions on CPR and AED</strong>
+</p>
 <p><strong><u>CardioPulmonary Resuscitation (CPR)</u></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

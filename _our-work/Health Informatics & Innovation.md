@@ -25,6 +25,7 @@ system in Singapore.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TuWYYhB6U9Q"></iframe>
 </div>
+<p></p>
 <p><strong>Project OMNII</strong> is a collaboration between the Ministry
 of Health (MOH) and the Ministry of Home Affairs – Singapore Civil Defence
 Force (MHA-SCDF) aimed at enabling seamless data sharing among the <strong>995 Operations Centre, ground ambulance teams, and hospital emergency departments</strong>.

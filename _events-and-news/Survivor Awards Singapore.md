@@ -12,16 +12,16 @@ arrest in Singapore, a potentially lethal event if victims are not attended
 to in time.&nbsp; Whether they are in a park, pool, or in the privacy of
 their own home, the difference between life and death for many of these
 people can be a matter of minutes and if a bystander takes action to help
-them. &nbsp;To celebrate those who played a vital role in resuscitating
-cardiac arrest victims, Unit for Pre-hospital Emergency Care (UPEC) will
-be holding the Survivor Awards Singapore 2019 to recognise their outstanding
+them. To celebrate those who played a vital role in resuscitating cardiac
+arrest victims, Unit for Pre-hospital Emergency Care (UPEC) will be holding
+the annual Survivor Awards Singapore ceremony to recognise their outstanding
 efforts.</p>
 <p>Survivors of cardiac arrest and their families will be invited to the
-Survivor Awards ceremony to show their appreciation for those who helped
-to resuscitate them. The rescuers, who helped perform CPR or defibrillation,
-dispatchers who initiated CPR/defibrillation, fire fighters and paramedics
-involved in the resuscitation, will receive a certificate of commendation
-and appreciation for their life-saving efforts.</p>
+Survivor Awards Singapore ceremony to show their appreciation for those
+who helped to resuscitate them. The rescuers, who helped perform CPR or
+defibrillation, dispatchers who initiated CPR/defibrillation, fire fighters
+and paramedics involved in the resuscitation, will receive a certificate
+of commendation and appreciation for their life-saving efforts.</p>
 <p><strong><u>Photo Gallery</u></strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">

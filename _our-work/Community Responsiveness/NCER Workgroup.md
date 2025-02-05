@@ -25,7 +25,7 @@ represented in the NCER workgroup and make sustainable eﬀorts to drive
 the culture change.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_03a.png">
 </div>
 <p><strong><u>NCER Roadmap</u></strong>
 <br>The workgroup is co-chaired by UPEC and SCDF. Since the start of the workgroup,

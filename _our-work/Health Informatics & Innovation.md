@@ -23,7 +23,7 @@ system in Singapore.</p>
 <summary>Operational Medical Network Informatics Integrators (OMNII)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TuWYYhB6U9Q"></iframe>
+<iframe allowfullscreen="true" frameborder="2" src="https://www.youtube.com/embed/TuWYYhB6U9Q"></iframe>
 </div>
 <p></p>
 <p><strong>Project OMNII</strong> is a collaboration between the Ministry

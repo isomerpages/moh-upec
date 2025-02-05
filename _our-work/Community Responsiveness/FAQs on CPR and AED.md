@@ -117,10 +117,9 @@ and training which the medical professional possesses.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Even some healthcare providers have a hard time telling
-if there is a pulse within</p>
-<p>10 seconds. It is better to give CPR to a person who is unconscious and
-not breathing normally, who is highly likely to be in cardiac arrest, than
-to not give CPR to someone who needs it.</p>
+if there is a pulse within 10 seconds. It is better to give CPR to a person
+who is unconscious and not breathing normally, who is highly likely to
+be in cardiac arrest, than to not give CPR to someone who needs it.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -128,11 +127,10 @@ to not give CPR to someone who needs it.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>If you can, quickly move the person to a firm surface
-(e.g. the floor) to give CPR.</p>
-<p>Make sure you support the head and neck as you move the person. If you
-are alone and can’t move the person, try to find something flat and firm
-(like a piece of board). Slide it under the person's back to provide a
-firm surface.</p>
+(e.g. the floor) to give CPR. Make sure you support the head and neck as
+you move the person. If you are alone and can’t move the person, try to
+find something flat and firm (like a piece of board). Slide it under the
+person's back to provide a firm surface.</p>
 </div>
 </details>
 <details class="isomer-details">

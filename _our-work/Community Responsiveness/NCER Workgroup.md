@@ -40,11 +40,9 @@ expressed the need and interest for further collaboration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_16.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_16a.png">
 </div>
-<p></p>
 <p>The NCER workgroup has achieved a shared goal: Equip 1 million people
 with CPR &amp; AED knowledge and skills over 5 years; Increase MyResponder
 signup to 500k by year 2027.</p>

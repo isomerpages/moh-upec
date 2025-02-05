@@ -4,8 +4,19 @@ permalink: /health-informatics-innovation/
 variant: tiptap
 description: ""
 ---
-<p>The Health Informatics</p>
-<p></p>
+<p>Guided by the vision of <strong>"Towards a World-Class Prehospital Emergency Care System for Singapore,"</strong> the <strong>Prehospital Emergency Care Health Informatics and Innovation Branch</strong> is
+committed to leveraging technology and data-driven solutions to enhance
+emergency medical services (EMS). Our goal is to <strong>integrate innovative healthcare informatics with prehospital care</strong>,
+ensuring seamless coordination between paramedics, emergency departments,
+and other healthcare providers for improved patient outcomes.</p>
+<p>Beyond our team of dedicated UPEC members, we work in close collaboration
+with key stakeholders, including SCDF, Emergency Departments, MOH and other
+healthcare technology partners. Together, we strive to develop cutting-edge
+digital solutions, improve data accessibility, and enhance EMS training
+through advanced simulation and telemedicine initiatives. By harnessing
+innovation and informatics, we aim to elevate prehospital emergency care
+standards and create a more responsive and efficient emergency medical
+system in Singapore.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -4,7 +4,7 @@ permalink: /health-informatics-innovation/
 variant: tiptap
 description: ""
 ---
-<p>Guided by the vision of <strong>"Towards a World-Class Prehospital Emergency Care System for Singapore,"</strong> the <strong>Prehospital Emergency Care Health Informatics and Innovation Branch</strong> is
+<p>Guided by the vision of <strong>"Towards a World-Class Prehospital Emergency Care System for Singapore,"</strong> the <strong>Prehospital Emergency Care Health Informatics and Innovation team </strong>is
 committed to leveraging technology and data-driven solutions to enhance
 emergency medical services (EMS). Our goal is to <strong>integrate innovative healthcare informatics with prehospital care</strong>,
 ensuring seamless coordination between paramedics, emergency departments,

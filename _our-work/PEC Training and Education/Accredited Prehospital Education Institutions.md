@@ -9,14 +9,13 @@ third_nav_title: PEC Training and Education
 <p>The National Prehospital Emergency Care Training Committee (NPTC) helps
 to uphold the standards for the education and preparation of EMT and Paramedic
 to ensure that graduates are well prepared and competent based on the following:</p>
-<p>&nbsp;1) <a href="https://sso.agc.gov.sg/SL/HSA2020-S2-2022?DocDate=20231214&amp;ViewType=Within" rel="noopener noreferrer nofollow" target="_blank">Healthcare Services Act (HCSA</a>
-</p>
-<p>2) <a href="https://www.hcsa.gov.sg/licensable-healthcare-services/licence-conditions-for-emergency-ambulance-service-and-medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">License Conditions for Emergency Ambulance Service and Medical Transport Service</a>
-</p>
+<p>&nbsp;1) Healthcare Services Act (HCSA).</p>
+<p>2) License Conditions for Emergency Ambulance Service and Medical Transport
+Service</p>
 <p>3) Standard &amp; Scope of Practice: EMT (Level 2) &amp; Paramedic (Level
 3)</p>
-<p>&nbsp;For the accredited institutions and training program in Singapore,
-please refer to below:</p>
+<p>For the accredited institutions and training programs in Singapore, please
+refer to below:</p>
 <p>&nbsp;</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

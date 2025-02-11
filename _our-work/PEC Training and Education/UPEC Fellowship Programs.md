@@ -6,6 +6,9 @@ description: ""
 third_nav_title: PEC Training and Education
 ---
 <h1><strong>Pre-hospital Emergency Medical Care (PEMC) Fellowship Programme</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/UPEC_fellowship.png">
+</div>
 <p>Pre-hospital Emergency Care (PEC) being a uniquely time-sensitive field,
 the provision of basic and advanced life support in an out-of-hospital
 environment requires the active involvement and insight of Emergency Medicine

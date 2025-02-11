@@ -18,10 +18,12 @@ third_nav_title: Medical Operations & Oversight
 </div>
 <p>One of our key achievements was the collaboration between the Singapore
 Civil Defence Force (SCDF) and the Ministry of Health (MOH) to place medical
-nurses in the SCDF operations center to assist with cardiac arrest calls.
-The influence of dispatch can also extend to the initiation of bystander
-cardiopulmonary resuscitation (CPR), early defibrillation, and the rapid
-dispatch of emergency ambulances.</p>
+nurses in the SCDF operations center to assist in emergency calls.</p>
+<p></p>
+<p>The influence of dispatch can extend to the initiation of bystander cardiopulmonary
+resuscitation (CPR), early defibrillation, and the rapid dispatch of emergency
+ambulances.</p>
+<p></p>
 <p>There was also the successful implementation of Singapore’s dispatcher-assisted
 CPR protocol, where dispatchers give CPR instructions during cardiac arrest
 calls.</p>

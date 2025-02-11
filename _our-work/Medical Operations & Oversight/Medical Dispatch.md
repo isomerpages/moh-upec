@@ -19,11 +19,9 @@ third_nav_title: Medical Operations & Oversight
 <p>One of our key achievements was the collaboration between the Singapore
 Civil Defence Force (SCDF) and the Ministry of Health (MOH) to place medical
 nurses in the SCDF operations center to assist in emergency calls.</p>
-<p></p>
-<p>The influence of dispatch can extend to the initiation of bystander cardiopulmonary
-resuscitation (CPR), early defibrillation, and the rapid dispatch of emergency
-ambulances.</p>
-<p></p>
-<p>There was also the successful implementation of Singapore’s dispatcher-assisted
-CPR protocol, where dispatchers give CPR instructions during cardiac arrest
-calls.</p>
+<p>Dispatcher-assisted CPR (DA-CPR) or Telephone CPR (T-CPR)</p>
+<p>The DACPR was one of the successful implementation where dispatchers give
+CPR instructions during cardiac arrest calls.The influence of DACPR is
+now extended to the initiation of bystander cardiopulmonary resuscitation
+(CPR), early defibrillation, and the rapid dispatch of emergency ambulances.</p>
+<p>TheThere was also the successful implementatio</p>

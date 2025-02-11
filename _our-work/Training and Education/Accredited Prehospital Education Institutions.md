@@ -26,7 +26,7 @@ Service</p>
 <p>Requirement of EMT Training Center by NPTC</p>
 </li>
 <li>
-<p>Requirement of Paramedic (Level 3) Training center by NPTC</p>
+<p>Requirement of Paramedic (Level 3) Training Center by NPTC</p>
 </li>
 </ol>
 <p>For the accredited institutions and training programs in Singapore, please

@@ -5,45 +5,43 @@ variant: tiptap
 description: ""
 third_nav_title: PEC Training and Education
 ---
-<p>The National Prehospital Emergency Care Training Committee (NPTC) was
+<p>The <strong>National Prehospital Emergency Care Training Committee (NPTC)</strong> was
 established in 2018 to develop and uphold professional standards for paramedics
-and Emergency Medical Technicians (EMTs), ensuring a high standard of care
-and patient safety in prehospital emergency services.</p>
-<p></p>
-<p>NPTC comprises representatives from the Unit for Pre-hospital Emergency
-Care (UPEC), Singapore Armed Forces (SAF), Singapore Civil Defence Force
-(SCDF), and various accredited prehospital emergency care training providers.
-Together, the committee works to enhance training frameworks, standardize
-competency requirements, and promote continuous professional development
-to strengthen Singapore’s prehospital emergency care system.</p>
+and Emergency Medical Technicians (EMTs), ensuring high-quality care and
+patient safety in prehospital emergency services.</p>
+<p>NPTC comprises representatives from the <strong>Unit for Pre-Hospital Emergency Care (UPEC), Singapore Armed Forces (SAF), Singapore Civil Defence Force (SCDF),</strong> and
+various accredited prehospital emergency care training providers. Together,
+the committee enhances training frameworks, standardizes competency requirements,
+and promotes continuous professional development to strengthen Singapore’s
+prehospital emergency care system</p>
 <p></p>
 <p><strong><u>NPTC Committee</u></strong>
 </p>
 <p>Chairman: Lead, UPEC Education &amp; Training</p>
-<p>Advisor: Chief Medical Officer, SCDf</p>
-<p>Members:</p>
+<p>Advisor: Chief Medical Officer, Singapore Civil Defence Force (SCDF)</p>
+<p>Members (Representing):</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Represenative from UPEC</p>
+<p>The Unit of Prehospital Emergency Care (UPEC)</p>
 </li>
 <li>
-<p>Represenative from CDA - SCDF</p>
+<p>Civil Defence Academy (CDA) - Singapore Civil Defence Force (SCDF)</p>
 </li>
 <li>
-<p>Represenative from SAF SMTI</p>
+<p>SAF Medical Training Institue (SMTI)</p>
 </li>
 <li>
-<p>Represenative from Paramedic Program, ITE</p>
+<p>Paramedic Program, Institue of Techincal Education</p>
 </li>
 <li>
-<p>Represenative from Paramedic Program, NYP</p>
+<p>Paramedic Program, Nanyang Polytechnic</p>
 </li>
 <li>
-<p>Represenative from EMT Program, IAN- SingHealth</p>
+<p>EMT Program, SingHealth Alice Lee Institute of Advanced Nursing (IAN)</p>
 </li>
 </ul>
 <p></p>
-<p>The aims of NPTC includes:</p>
+<p>The aims of NPTC include:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>To promote professional development and standards for PEC officers through

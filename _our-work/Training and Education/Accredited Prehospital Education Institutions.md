@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Training and Education
 ---
-<h3><strong>Accredited Institutions in Singapore</strong></h3>
+<h3><strong>Accredited Prehospital Institutions in Singapore</strong></h3>
 <p>The National Prehospital Emergency Care Training Committee (NPTC) helps
 to uphold the standards for the education and preparation of EMT and Paramedic
 to ensure that graduates are well prepared and competent based on the following
@@ -21,6 +21,12 @@ Service</p>
 <li>
 <p>Standard &amp; Scope of Practice: EMT (Level 2) &amp; Paramedic (Level
 3)</p>
+</li>
+<li>
+<p>Requirement of EMT Training Center by NPTC</p>
+</li>
+<li>
+<p>Requirement of Paramedic (Level 3) Training center by NPTC</p>
 </li>
 </ol>
 <p>For the accredited institutions and training programs in Singapore, please

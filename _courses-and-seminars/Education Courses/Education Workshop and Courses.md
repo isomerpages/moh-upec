@@ -10,7 +10,7 @@ third_nav_title: Education Courses
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Resuscitation Academy</strong>
+<summary><strong>Resuscitation Academy Leadership Course</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
@@ -468,6 +468,17 @@ details!</p>
 </div>
 </div>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Resuscitation Academy High Performance CPR Workshop</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The High Performance CPR (HPCPR) workshop aims to optimize CPR delivery
+and improve survival rate for out-of-hospital cardiac arrest (OHCA). This
+workshop equips EMS educators, healthcare professionals with evidence-based
+resuscitation techniques while emphasizing the science behind CPR and the
+importance of data-driven performance improvement.</p>
 </div>
 </details>
 </div>

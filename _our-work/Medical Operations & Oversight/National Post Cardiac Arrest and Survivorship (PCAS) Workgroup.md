@@ -49,3 +49,5 @@ across all restructured hospitals in Singapore:</p>
 </p>
 <p><a href="http://upec.rawmix.xyz/wp-content/uploads/2021/08/Annex-A_TTM-Publication_SMJ-2017.pdf" rel="noopener noreferrer nofollow" target="_blank">Therapeutic temperature management (TTM): post-resuscitation care for adult cardiac arrest, with recommendations from the National TTM Workgroup (2017)</a>
 </p>
+<p><a href="http://www.smj.org.sg/article/beyond-return-spontaneous-circulation-update-post-cardiac-arrest-management-intensive-care" rel="noopener nofollow" target="_blank">Chia YW, Lim SL, Loh JK, Leong BS, Ong MEH. Beyond return of spontaneous circulation: update on post-cardiac arrest management in the intensive care unit. Singapore Med J. 2021 Aug;62(8):444-451. doi: 10.11622/smedj.2021115. PMID: 35001117; PMCID: PMC8804480.</a>
+</p>

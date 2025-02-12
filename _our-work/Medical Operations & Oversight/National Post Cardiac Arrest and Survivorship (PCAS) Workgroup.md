@@ -24,7 +24,27 @@ July 2017.</p>
 arrest patients, the workgroup was renamed in 2024 to the National Post
 Cardiac Arrest and Survivorship (PCAS) Workgroup to better reflect its
 broadened scope and enhanced mission.</p>
-<p>&nbsp;</p>
+<p>&nbsp;The workgroup comprises the following specialists from all restructured
+hospitals in Singapore:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>emergency physician</p>
+</li>
+<li>
+<p>Cardiologist</p>
+</li>
+<li>
+<p>ICU Internist,</p>
+</li>
+<li>
+<p>Neurologist</p>
+</li>
+<li>
+<p>Rehabilitation Specialist</p>
+<p></p>
+<p></p>
+</li>
+</ul>
 <p><strong>Publication</strong>
 </p>
 <p><a href="http://upec.rawmix.xyz/wp-content/uploads/2021/08/Annex-A_TTM-Publication_SMJ-2017.pdf" rel="noopener noreferrer nofollow" target="_blank">Therapeutic temperature management (TTM): post-resuscitation care for adult cardiac arrest, with recommendations from the National TTM Workgroup (2017)</a>

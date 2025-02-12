@@ -128,11 +128,13 @@ course, which include e-learning and physical sessions.</p>
 </div>
 <p>Various courses developed by NAEMT were introduced to enhance the knowledge
 of our pre-hospital providers. The NAEMT Courses in Singapore are coordinated
-by Trauma Training Centre, TTSH (for trauma courses) and UPEC (for all
-other courses) in Singapore. UPEC members are also part of PHTLS core faculty.</p>
+by the Trauma Training Centre, TTSH (for trauma courses) and UPEC (for
+all other courses) in Singapore. UPEC members are also part of PHTLS core
+faculty.</p>
 <p></p>
 <p>For more information about NAEMT and courses not offered in Singapore,
 please visit <a href="https://www.naemt.org/education" rel="noopener noreferrer nofollow" target="_blank">NAEMT</a>.</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>

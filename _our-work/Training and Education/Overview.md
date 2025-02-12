@@ -111,15 +111,11 @@ since 2014, with the SCDF team achieving 1st runner-up in the same year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Education for National EMS</strong>
+<summary><strong>Education Supporting SCDF</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>UPEC provides oversight and advisory to the National EMS. Courses and
 training are conducted to enhance the skills and knowledge of our paramedics.</p>
-<p></p>
-<p><strong>ECG Course for Paramedic</strong>
-<br>Basic understanding and interpretation of ECG commonly encountered by
-paramedics responding to 995 calls.</p>
 <p></p>
 <p><strong>OBSTET<br></strong>Management of a range of obstetrics emergency
 situations likely to be encountered by paramedics providing hands-on practical
@@ -151,6 +147,12 @@ implemented nationwide by phases:</p>
 </li>
 </ol>
 <p></p>
+<p><strong>Targeted Temperature Management (TTM) Trial</strong>
+</p>
+<p>"Targeted Temperature Management (TTM) is recommended for all patients
+who achieve return of spontaneous circulation (ROSC) after cardiac arrest
+during the immediate post-arrest period. A trial is underway for paramedics
+to apply the TTM device to patients with ROSC.</p>
 </div>
 </details>
 </div>

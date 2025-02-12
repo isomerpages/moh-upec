@@ -9,9 +9,8 @@ third_nav_title: Medical Operations & Oversight
 </p>
 <p>Paramedics are the extended arms of doctors from the hospitals. Critical
 interventions are carried out by SCDF paramedics according to the medical
-protocols approved by the Medical Advisory Committee (MAC) of the SCDF.</p>
-<p>The Unit for Pre-Hospital Emergency Care (UPEC) supports SCDF in various
-phases of clinical protocol development:</p>
+protocols. The Unit for Pre-Hospital Emergency Care (UPEC) supports SCDF
+in various phases of clinical protocol development:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Advising</strong> the Protocol Sub-Committee in reviewing current
@@ -20,7 +19,7 @@ guidelines, and best practices.</p>
 </li>
 <li>
 <p><strong>Initiating and supporting</strong> SCDF in the implementation of
-new protocols and clinical skills through trials and research.</p>
+new protocols and clinical skills through trials, training and research.</p>
 </li>
 </ul>
 <p></p>

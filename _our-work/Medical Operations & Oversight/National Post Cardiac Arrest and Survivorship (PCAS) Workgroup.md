@@ -24,17 +24,17 @@ July 2017.</p>
 arrest patients, the workgroup was renamed in 2024 to the National Post
 Cardiac Arrest and Survivorship (PCAS) Workgroup to better reflect its
 broadened scope and enhanced mission.</p>
-<p>&nbsp;The workgroup comprises the following specialists from all restructured
-hospitals in Singapore:</p>
+<p>The workgroup comprises representatives from the following specialties
+across all restructured hospitals in Singapore:</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>emergency physician</p>
-</li>
 <li>
 <p>Cardiologist</p>
 </li>
 <li>
-<p>ICU Internist,</p>
+<p>emergency physician</p>
+</li>
+<li>
+<p>ICU Internist</p>
 </li>
 <li>
 <p>Neurologist</p>

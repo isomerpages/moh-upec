@@ -10,14 +10,26 @@ third_nav_title: Community Responsiveness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_12.png">
 </div>
-<p>On the fifth anniversary of the national programme, the Dispatcher-Assisted
-first REsponder (DARE) continued its publicity efforts by hosting the 'Festival
-of Hands' event at Toa Payoh HDB Hub on May 26, 2018.</p>
-<p>The objective of this public engagement event was to continue raising
-awareness about cardiac arrest. At the event, the DARE mobile application <em>(decommissioned on 30 September 2021)</em> and
-the 'How We Save A Heart' storybook <em>(written by Dr Jade Kua)</em> were
-launched to reach a wider audience.</p>
-<p></p>
+<p>On May 26, 2018, the Dispatcher-Assisted first REsponder (DARE) urged
+all Singaporeans to play a part to save more lives through CardioPulmonary
+Resuscitation (CPR) with the launch of the DARE mobile application. The
+launch event was officiated by Mr Amrin Amin,<em> Senior Parliamentary Secretary, Ministry of Health and Ministry of Home Affairs</em>,
+at Toa Payoh hub, where DARE sought to educate and raise awareness among
+the community on the reality of cardiac arrest, and the steps that they
+can take to save a life.</p>
+<p>The community event featured several interactive stations that gave participants
+a hands-on opportunity in learning how to administer CPR and use an AED
+on a person who is suffering from cardiac emergency. A children's storytelling
+session hosted by Mr Amrin Amin also highlighted the importance of first
+responders and bystanders in saving the lives of their friends, families
+and strangers in time of crisis.</p>
+<p>Dr Jade Kua, Programme Director of DARE, UPEC, and Consultant, Department
+of Emergency Medicine, KK Women's and Children's Hospital, said that the
+DARE mobile app was designed to be accessible to Singaporeans from all
+walks of life. "We wanted to remove the barriers and fears that people
+have towards learning CPR and reacting in an emergency by making the content
+engaging and most importantly, convenient to access. Whether you're a beginner
+or just need a refresher, the app meets all your needs.</p>
 <p><strong><u>DARE Roadshows</u></strong>
 </p>
 <div class="isomer-image-wrapper">

@@ -9,11 +9,38 @@ third_nav_title: Community Responsiveness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_01.png">
 </div>
-<p>Also known as the <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong>,
-is a fun and interactive hands-on programme that allow participants to
-learn how to co-operate with the 995 specialists, perform chest compressions
-and use an Automated External Defibrillator (AED) on a cardiac arrest victim
-in under an hour.</p>
+<p>The <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong> is
+an initiative fully funded by Singapore's Ministry of Health (MOH) and
+implemented by UPEC to strengthen responsiveness for medical emergencies
+and to raise the level of preparedness in the community. Sudden cardiac
+arrest is a medical emergency that requires immediate response. Such necessary
+response can be carried out by anyone and that is the key message which
+the DARE programme aims to deliver during the training.</p>
+<p>DARE is a 45-minute programme comprising training through educational
+video and practical session without technical terminologies. This is a
+simplified programme without certification. Participants are taught how
+to respond when they witness a cardiac arrest an guide them through step-by-step
+instructions. The key messages are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Call 995 and stay on the line (on how to co-operate with the 995 specialist)</p>
+</li>
+<li>
+<p>Push hard and fast (perform simplified CPR (CardioPulmonary Resuscitation)</p>
+</li>
+<li>
+<p>Use an AED (Automated External Defibrillator)</p>
+</li>
+</ul>
+<p>Over 100,00 persons ranging from primary school age children to elders
+have benefitted from the DARE programme, at no cost to participants.</p>
+<p>The minimum and maximum class size are 20 and 80 pax respectively per
+training session. For organisations which are keen on the programme, our
+DARE team could work with their staff in-charge to confirm the training
+site and requirements. Multiple training sessions could be planned in advance
+based on the availability of staff and training site (usually conference
+room/training room).</p>
+<p></p>
 <p><strong><u>DARE programme (Supplementary)</u></strong>
 </p>
 <div class="isomer-card-grid">

@@ -32,7 +32,7 @@ instructions. The key messages are:</p>
 <p>Use an AED (Automated External Defibrillator)</p>
 </li>
 </ul>
-<p>Over 100,00 persons ranging from primary school age children to elders
+<p>Over 100,000 persons ranging from primary school age children to elders
 have benefitted from the DARE programme, at no cost to participants.</p>
 <p>The minimum and maximum class size are 20 and 80 pax respectively per
 training session. For organisations which are keen on the programme, our

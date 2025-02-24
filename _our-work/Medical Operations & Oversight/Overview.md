@@ -7,6 +7,21 @@ variant: markdown
 ---
 # Medical Operations and Oversight
 
-Medical Operations and Oversight for emergency medical service (EMS) systems encompasses all aspects of medical care provided in the pre-hospital setting and its oversight.  
-  
-From the moment of the point of first contact, the medical operations begin during the call to 995, followed by the response by the emergency responders, the care of the patient at the scene and subsequently en route to the destination facility. Medical oversight is provided through the development and regular review of clinical protocols for offline medical direction, as well as through real-time communications with emergency response personnel for direct online medical direction.
+The Unit for Pre-Hospital Emergency Care (UPEC) is a critical entity in Singapore's healthcare system, focusing on the leadership, governance, and accountability of prehospital emergency care (PEC). Its structured approach ensures the delivery of high-quality emergency medical services. Here's a breakdown of its key responsibilities and contributions:
+
+Key Responsibilities of UPEC:
+1. Establishing Leadership and Ownership:
+    * UPEC provides strategic direction for prehospital emergency care, ensuring that all agencies involved operate under a unified vision.
+    * It establishes clear governance structures with well-defined roles, responsibilities, and accountabilities across multiple stakeholders, including emergency medical services (EMS), hospitals, and other healthcare providers.
+    * This leadership fosters coordination and collaboration among agencies, reducing fragmentation and improving system efficiency.
+2. Implementing a Formal Medical Oversight System:
+    * UPEC oversees the development and implementation of policies and protocols to standardize prehospital care practices and ensures compliance with regulatory frameworks
+    * This system ensures that all prehospital care providers operate within a consistent and evidence-based framework, enhancing the quality of care delivered to patients.
+3. Ensuring Continuous Audit and Quality Assurance:
+    * UPEC conducts systematic reviews, audits, and evaluations of prehospital care practices to ensure they align with the latest clinical guidelines and best practices.
+    * It identifies areas for improvement and implements corrective measures to address gaps in service delivery.
+    * This focus on continuous quality improvement helps maintain high standards of care and adapts to evolving medical knowledge and technologies.
+Contributions of UPEC:
+* Enhanced Patient Safety: By standardizing practices and ensuring compliance with clinical guidelines, UPEC minimizes errors and improves patient outcomes during emergencies.
+* Strengthened Inter-Agency Collaboration: UPEC's leadership fosters seamless coordination among various agencies, ensuring a cohesive response to emergencies.
+* Effective Management of PEC System: Through governance, oversight, and quality assurance, UPEC ensures that Singapore's prehospital emergency care system remains efficient, responsive, and patient-centered.

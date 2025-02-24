@@ -31,7 +31,7 @@ prehospital emergency care system</p>
 <p>SAF Medical Training Institute (SMTI)</p>
 </li>
 <li>
-<p>Paramedic Program, Institute of Techincal Education</p>
+<p>Paramedic Program, Institute of Technical Education</p>
 </li>
 <li>
 <p>Paramedic Program, Nanyang Polytechnic</p>
@@ -57,8 +57,8 @@ and Paramedics.</p>
 </li>
 <li>
 <p>To oversee the development of a robust professional accreditation framework
-for EMTs and paramedics, with the long term goal to establish paramedicine
-as a recognised profession.</p>
+for EMTs and paramedics, with the long term goal of establishing paramedicine
+as a recognized profession.</p>
 </li>
 </ul>
 <p></p>

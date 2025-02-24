@@ -17,29 +17,10 @@ prehospital emergency care system</p>
 <p></p>
 <p><strong><u>NPTC Committee</u></strong>
 </p>
-<p>Chairman: Lead, UPEC Education &amp; Training</p>
-<p>Advisor: Chief Medical Officer, Singapore Civil Defence Force (SCDF)</p>
-<p>Members (Representing):</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The Unit of Prehospital Emergency Care (UPEC)</p>
-</li>
-<li>
-<p>Civil Defence Academy (CDA) - Singapore Civil Defence Force (SCDF)</p>
-</li>
-<li>
-<p>SAF Medical Training Institute (SMTI)</p>
-</li>
-<li>
-<p>Paramedic Program, Institute of Technical Education</p>
-</li>
-<li>
-<p>Paramedic Program, Nanyang Polytechnic</p>
-</li>
-<li>
-<p>EMT Program, SingHealth Alice Lee Institute of Advanced Nursing (IAN)</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/NPTC_Chart.png">
+</div>
 <p></p>
 <p>The aims of NPTC include:</p>
 <ul data-tight="true" class="tight">

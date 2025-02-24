@@ -14,4 +14,4 @@ scheduled by UPEC to be on standby around the clock, 24 hours a day, to
 provide clinical advice to SCDF paramedics. The EPs are from UPEC and other
 MOH units.</p>
 <p></p>
-<p>For a peek into the 995 operations center, click <a href="http://www.straitstimes.com/singapore/a-rare-peek-behind-the-scenes-at-the-nerve-centre-of-scdf-operations" rel="noopener" target="_blank">here</a>.</p>
+<p></p>

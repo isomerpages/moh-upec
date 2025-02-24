@@ -28,10 +28,10 @@ prehospital emergency care system</p>
 <p>Civil Defence Academy (CDA) - Singapore Civil Defence Force (SCDF)</p>
 </li>
 <li>
-<p>SAF Medical Training Institue (SMTI)</p>
+<p>SAF Medical Training Institute (SMTI)</p>
 </li>
 <li>
-<p>Paramedic Program, Institue of Techincal Education</p>
+<p>Paramedic Program, Institute of Techincal Education</p>
 </li>
 <li>
 <p>Paramedic Program, Nanyang Polytechnic</p>

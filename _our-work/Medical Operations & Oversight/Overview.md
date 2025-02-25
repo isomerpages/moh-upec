@@ -28,3 +28,12 @@ Contributions of UPEC:
 * Strengthened Inter-Agency Collaboration: UPEC's leadership fosters seamless coordination among various agencies, ensuring a cohesive response to emergencies.
 * Effective Management of PEC System: Through governance, oversight, and quality assurance, UPEC ensures that Singapore's prehospital emergency care system remains efficient, responsive, and patient-centered.
 
+
+
+**Development of Clinical Protocols for National EMS**
+
+Paramedics are the extended arms of doctors from the hospitals. Critical interventions are carried out by SCDF paramedics according to the medical protocols. The Unit for Pre-Hospital Emergency Care (UPEC) supports SCDF in various phases of clinical protocol development:
+
+* **Advising** the Protocol Sub-Committee in reviewing current protocols and proposing new ones based on the latest medical evidence, guidelines, and best practices.
+    
+*   **Initiating and supporting** SCDF in the implementation of new protocols and clinical skills through trials, training and research.

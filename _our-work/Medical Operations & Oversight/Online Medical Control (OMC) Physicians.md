@@ -39,9 +39,8 @@ use of resources and ensures patients receive the most suitable level of
 care.</p>
 </li>
 </ul>
-<p>The online medical control framework strengthens the frontline response
-by blending protocol-driven care with real-time expert consultation, thereby
-enhancing patient outcomes and optimizing resource utilization in emergency
-medical services.e clock.</p>
+<p>By integrating online medical control into emergency medical services,
+SCDF paramedics benefit from enhanced decision-making support, improving
+patient outcomes and strengthening the overall prehospital care framework.</p>
 <p></p>
 <p></p>

@@ -38,7 +38,7 @@ data collection and research on cardiac arrest survival rates and community-base
 interventions. Each stakeholder also shared the current and future workplans,
 expressed the need and interest for further collaboration.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15a.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_16a.png">

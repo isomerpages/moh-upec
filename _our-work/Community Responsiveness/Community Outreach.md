@@ -35,6 +35,6 @@ or just need a refresher, the app meets all your needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
-<p>To increase public awareness of CPR and AED, we collaborate with various
-partners to run roadshows at heartlands, attractions and clubhouses.</p>
+<p>DARE To increase public awareness of CPR and AED, we collaborate with
+various partners to run roadshows at heartlands, attractions and clubhouses.</p>
 <p></p>

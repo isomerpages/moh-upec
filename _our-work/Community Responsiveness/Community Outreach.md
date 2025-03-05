@@ -30,11 +30,18 @@ walks of life. "We wanted to remove the barriers and fears that people
 have towards learning CPR and reacting in an emergency by making the content
 engaging and most importantly, convenient to access. Whether you're a beginner
 or just need a refresher, the app meets all your needs.</p>
-<p><strong><u>DARE Roadshows</u></strong>
+<p><strong><u>Collaborative Roadshows</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
-<p>DARE To increase public awareness of CPR and AED, we collaborate with
-various partners to run roadshows at heartlands, attractions and clubhouses.</p>
+<p>We see the importance in community outreach. With collaborative efforts
+with our partners, we aim to strengthen local connections, and create lasting
+positive impacts. By engaging directly with the members of public, we not
+only raise CPR+AED awareness but also foster a sense of unity and shared
+responsibilities. These outreaches allow us to work together with the various
+agencies to drive meaningful change within Singapore.</p>
+<p>1) SGSecure roadshows
+<br>
+</p>
 <p></p>

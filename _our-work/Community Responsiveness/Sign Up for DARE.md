@@ -13,8 +13,8 @@ Defibrillator (AED)? Join us in this journey and be a community first responders
 <p>To organise a DARE session, please write to <a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank">DARE_programme@upec.sg</a> with the
 following information:</p>
 <p>Organisation:
-<br>Preferred Date+Time:
+<br>Preferred Date+Time: &lt;Subject to availability&gt;
 <br>Training Address:
-<br>Number of Participants:
-<br>Contact Person:</p>
+<br>Number of Participants: &lt;Minimum 20 participants per session&gt;
+<br>Contact Person &amp; Mobile Number:</p>
 <p></p>

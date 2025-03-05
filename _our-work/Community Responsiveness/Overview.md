@@ -30,9 +30,8 @@ strategies to strengthen Singapore’s readiness, resilience, and responsiveness
 to out-of-hospital medical emergencies. It hopes to equip one million people
 with CPR+AED knowledge and skills and increase myResponder App sign-ups
 to 500,000 by 2027.</p>
-<p>Recognition in public acts is crucial, especially when they impact lives.
-UPEC's Community Responsiveness oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,
-providing an avenue for OHCA survivors to express their gratitude towards
-their rescuers.</p>
-<p></p>
+<p>Recognition of public acts is crucial, especially when they have life-saving
+impacts. UPEC's Community Responsiveness team oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,
+providing a platform for OHCA survivors to express their gratitude to their
+rescuers.</p>
 <p></p>

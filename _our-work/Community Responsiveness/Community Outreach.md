@@ -41,7 +41,17 @@ and create lasting positive impacts. By engaging directly with the members
 of public, we not only raise awareness about CPR+AED but also foster a
 sense of unity and shared responsibility. This outreach enables us to work
 closely with various agencies to drive meaningful change across Singapore.</p>
-<p>1) SGSecure roadshows
+<p><u>SGSecure roadshows</u>
+</p>
+<p></p>
+<p><u>Community Resilience Days</u>
+</p>
+<p></p>
+<p><u>QCPR Race Booths</u>
+</p>
+<p>
+<br>
+<br>
 <br>
 </p>
 <p></p>

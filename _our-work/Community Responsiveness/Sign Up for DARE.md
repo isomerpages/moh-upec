@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_1_18.png">
+</div>
 <p><strong>DARE to learn CardioPulmonary Resuscitation (CPR) and Automated External Defibrillator (AED)?</strong> 
 <br>Join us in this journey and be a community first responders!</p>
 <div class="isomer-image-wrapper">

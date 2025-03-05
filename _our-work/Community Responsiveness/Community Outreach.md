@@ -35,12 +35,12 @@ or just need a refresher, the app meets all your needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
-<p>We see the importance in community outreach. With collaborative efforts
-with our partners, we aim to strengthen local connections, and create lasting
-positive impacts. By engaging directly with the members of public, we not
-only raise CPR+AED awareness but also foster a sense of unity and shared
-responsibilities. These outreaches allow us to work together with the various
-agencies to drive meaningful change within Singapore.</p>
+<p>We see the importance of proactive engagement with the community. Through
+collaborative efforts with our partners, we aim to strengthen local connections,
+and create lasting positive impacts. By engaging directly with the members
+of public, we not only raise awareness about CPR+AED but also foster a
+sense of unity and shared responsibility. This outreach enables us to work
+closely with various agencies to drive meaningful change across Singapore.</p>
 <p>1) SGSecure roadshows
 <br>
 </p>

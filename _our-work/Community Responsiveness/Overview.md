@@ -19,7 +19,7 @@ Resuscitation (CPR) and the use of an Automated External Defibrillator
 </p>
 <p>The <strong><a href="/dare-programme/" rel="noopener nofollow" target="_blank">Dispatcher-Assisted first REsponder (DARE) programme</a></strong> is
 an initiative fully funded by Singapore's Ministry of Heath (MOH) and implemented
-by UPEC, to strengthen responsiveness for medical emergencies and to raise
+by UPEC to strengthen responsiveness for medical emergencies and to raise
 the level of preparedness in the community. DARE is a 45-minute programme
 comprising training through educational video and practical session without
 technical terminologies. Participants are taught how to respond when they

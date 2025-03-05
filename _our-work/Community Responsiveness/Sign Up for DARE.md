@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Community Responsiveness
 ---
-<p>DARE to learn CardioPulmonary Resuscitation (CPR) and Automated External
-Defibrillator (AED)? Join us in this journey and be a community first responders!</p>
+<p><strong>DARE to learn CardioPulmonary Resuscitation (CPR) and Automated External Defibrillator (AED)?</strong> 
+<br>Join us in this journey and be a community first responders!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_17.png">
 </div>

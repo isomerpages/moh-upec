@@ -34,7 +34,5 @@ further strengthening community preparedness and resilience.</p>
 <br>Learning CPR can be fun with the QCPR Race, where participants practice
 effective chest compressions through gamification. Better chest compressions
 make the on-screen ambulance reach the finishing line faster, helping participants
-realise that quality, not speed, matters.
-<br>
-</p>
+realise that quality, not speed, matters.</p>
 <p></p>

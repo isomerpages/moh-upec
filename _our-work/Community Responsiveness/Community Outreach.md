@@ -43,11 +43,11 @@ further strengthening community preparedness and resilience.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_07.png">
 </div>
 <p><u>QCPR Race</u>
-<br>Learning lifesaving skill can be fun with the QCPR Race, where participants
-at DARE's QCPR Race booths practice effective chest compressions through
-gamification. Better chest compressions make the on-screen ambulance reaches
-the finishing line faster, helping participants realise that quality, not
-speed, matters in life-saving.</p>
+<br>Learning lifesaving skill can be fun with the QCPR Race, where participants,
+at DARE activity booth, practice effective chest compressions through gamification.
+Better chest compressions make the on-screen ambulance reaches the finishing
+line faster, helping participants realise that quality, not speed, matters
+in life-saving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_06.png">
 </div>

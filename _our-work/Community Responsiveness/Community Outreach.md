@@ -23,11 +23,17 @@ of public, we not only raise awareness about CPR+AED but also foster a
 sense of unity and shared responsibility. This outreach enables us to work
 closely with various agencies to drive meaningful change across Singapore.</p>
 <p></p>
-<p><u>SGSecure roadshows</u>
+<p><u>SGSecure roadshow</u>
 </p>
-<p></p>
+<p>The SGSecure roadshow is a national public engagement initiative fronted
+by Singapore's Ministry of Home Affairs. The roadshow aims to enhance community
+resilience and prepare the public for the potential threat of a terrorist
+attack. As part of this effort, the DARE programme contributes by engaging
+the public through abridged CPR+AED hands-on sessions at the roadshows,
+further strengthening community preparedness and resilience.</p>
 <p><u>Community Resilience Days</u>
 </p>
+<p></p>
 <p></p>
 <p><u>QCPR Race Booths</u>
 </p>

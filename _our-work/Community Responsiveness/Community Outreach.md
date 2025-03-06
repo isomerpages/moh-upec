@@ -11,7 +11,7 @@ third_nav_title: Community Responsiveness
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_12.png">
 </div>
 <p></p>
-<p><strong><u>Roadshows</u></strong>
+<p><strong><u>Collaborative Events</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">

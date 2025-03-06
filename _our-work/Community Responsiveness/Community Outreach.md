@@ -31,8 +31,9 @@ the public through abridged CPR+AED hands-on sessions at the roadshows,
 further strengthening community preparedness and resilience.</p>
 <p></p>
 <p><u>QCPR Race</u>
-<br>Learning CPR can be fun with the QCPR Race, where participants practice
-effective chest compressions through gamification. Better chest compressions
-make the on-screen ambulance reaches the finishing line faster, helping
-participants realise that quality, not speed, matters in life-saving.</p>
+<br>Learning CPR can be fun with the QCPR Race, where participants at the
+DARE's QCPR Race booths practice effective chest compressions through gamification.
+Better chest compressions make the on-screen ambulance reaches the finishing
+line faster, helping participants realise that quality, not speed, matters
+in life-saving.</p>
 <p></p>

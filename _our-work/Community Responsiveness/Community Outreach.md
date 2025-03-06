@@ -29,7 +29,6 @@ resilience and prepare the public for the potential threat of a terrorist
 attack. As part of this effort, the DARE programme contributes by engaging
 the public through abridged CPR+AED hands-on sessions at the roadshows,
 further strengthening community preparedness and resilience.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_01.png">
 </div>

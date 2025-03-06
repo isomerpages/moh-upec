@@ -23,7 +23,7 @@ with the members of public, we not only raise awareness about CPR+AED but
 also foster a sense of unity and shared responsibility. This outreach enables
 us to work closely with various agencies to drive meaningful change across
 Singapore.</p>
-<p><u>SGSecure roadshow</u>
+<p><u>SGSecure Roadshow</u>
 <br>The SGSecure roadshow is a national public engagement initiative fronted
 by Singapore's Ministry of Home Affairs. The roadshow aims to enhance community
 resilience and prepare the public for the potential threat of a terrorist

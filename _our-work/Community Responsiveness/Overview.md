@@ -26,11 +26,11 @@ technical terminologies. Participants are taught how to respond when they
 witness a cardiac arrest and guide them through step-by-step instructions.</p>
 <p>Building on the success and momentum of such initiatives, the focus shifted
 to expand for a concerted effort through the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong>.
-Co-chaired by both SCDF and the Ministry of Health’s UPEC, the workgroup
-aims to drive strategies to strengthen Singapore’s readiness, resilience,
-and responsiveness to out-of-hospital medical emergencies. It hopes to
-equip one million people with CPR+AED knowledge and skills and increase
-myResponder App sign-ups to 500,000 by 2027.</p>
+Co-chaired by both UPEC and the Singapore Civil Defence Force (SCDF), the
+workgroup aims to drive strategies to strengthen Singapore’s readiness,
+resilience, and responsiveness to out-of-hospital medical emergencies.
+It hopes to equip one million people with CPR+AED knowledge and skills
+and increase myResponder App sign-ups to 500,000 by 2027.</p>
 <p>Recognition of public acts is crucial, especially when they have life-saving
 impacts. UPEC's Community Responsiveness team oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,
 providing a platform for OHCA survivors to express their gratitude to their

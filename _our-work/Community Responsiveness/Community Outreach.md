@@ -31,16 +31,13 @@ attack. As part of this effort, the DARE programme contributes by engaging
 the public through abridged CPR+AED hands-on sessions at the roadshows,
 further strengthening community preparedness and resilience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_01.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_02.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_03.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_07.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_01.png">
 </div>
 <p><u>CPR Gamification</u>
 <br>Learning lifesaving skill can be fun with the QCPR Race, where participants,
@@ -48,10 +45,20 @@ at DARE activity booth, practice effective chest compressions through gamificati
 Better chest compressions make the on-screen ambulance reaches the finishing
 line faster, helping participants realise that quality, not speed, matters
 in life-saving.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_06.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_07.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_11.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_10.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_05.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_06.png">
 </div>
 <p></p>

@@ -11,7 +11,7 @@ third_nav_title: Community Responsiveness
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_12.png">
 </div>
 <p></p>
-<p><strong><u>Collaborative Roadshows</u></strong>
+<p><strong><u>Public Engagements</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
@@ -23,13 +23,16 @@ with the members of public, we not only raise awareness about CPR+AED but
 also foster a sense of unity and shared responsibility. This outreach enables
 us to work closely with various agencies to drive meaningful change across
 Singapore.</p>
-<p><u>SGSecure Roadshow</u>
-<br>The SGSecure roadshow is a national public engagement initiative fronted
-by Singapore's Ministry of Home Affairs. The roadshow aims to enhance community
-resilience and prepare the public for the potential threat of a terrorist
-attack. As part of this effort, the DARE programme contributes by engaging
-the public through abridged CPR+AED hands-on sessions at the roadshows,
-further strengthening community preparedness and resilience.</p>
+<p><u>National Roadshows</u>
+<br>National roadshows aim to raise awareness, enhance community resilience,
+and prepare the public for emergency situations. In partnership with the
+Ministry of Home Affairs' SGSecure, SAFRA's Total Defence engagement, and
+the People's Association's Community Resilience Day, the DARE programme
+contributes by engaging the public through abridged CPR+AED hands-on sessions
+at the roadshows, further strengthening community preparedness and resilience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_08.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_02.png">
 </div>
@@ -38,6 +41,12 @@ further strengthening community preparedness and resilience.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_09.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_04.png">
 </div>
 <p><u>CPR Gamification</u>
 <br>Learning lifesaving skill can be fun with the QCPR Race, where participants,
@@ -60,4 +69,6 @@ in life-saving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_06.png">
 </div>
+<p><u>CPR+AED Stations</u>
+</p>
 <p></p>

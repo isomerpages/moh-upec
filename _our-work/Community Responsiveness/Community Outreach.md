@@ -25,9 +25,9 @@ us to work closely with various agencies to drive meaningful change across
 Singapore.</p>
 <p><u>National Roadshows</u>
 <br>National roadshows aim to raise awareness, enhance community resilience,
-and prepare the public for emergency situations. In partnership with the
-Ministry of Home Affairs' SGSecure, SAFRA's Total Defence engagement, and
-the People's Association's Community Resilience Day, the DARE programme
+and prepare the public for emergency situations. In partnership with agencies
+like the Ministry of Home Affairs' SGSecure, SAFRA's Total Defence engagement,
+and the People's Association's Community Resilience Day, the DARE programme
 contributes by engaging the public through abridged CPR+AED hands-on sessions
 at the roadshows, further strengthening community preparedness and resilience.</p>
 <div class="isomer-image-wrapper">
@@ -69,6 +69,4 @@ in life-saving.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_06.png">
 </div>
-<p><u>CPR+AED Stations</u>
-</p>
 <p></p>

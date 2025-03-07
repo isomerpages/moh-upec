@@ -14,8 +14,8 @@ us in this journey and be a community first responders!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ISOMER_17.png">
 </div>
-<p>To organise a DARE session, you can reach us via our online form, or write
-to <a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank">DARE_programme@upec.sg</a> with
+<p>To organise a DARE session, you can reach us via our <a href="https://form.gov.sg/67c6b517117690d5d1da6089" rel="noopener nofollow" target="_blank">online form</a>,
+or write to <a href="mailto:DARE_programme@upec.sg" rel="noopener noreferrer nofollow" target="_blank">DARE_programme@upec.sg</a> with
 the following information:</p>
 <p>Organisation:
 <br>Preferred Date+Time: &lt;Subject to availability&gt;

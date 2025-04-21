@@ -32,8 +32,9 @@ to expand for a concerted effort through the <strong><a href="/ncer-workgroup/" 
 Co-chaired by both UPEC and the Singapore Civil Defence Force (SCDF), the
 workgroup aims to drive strategies to strengthen Singapore’s readiness,
 resilience, and responsiveness to out-of-hospital medical emergencies.
-It hopes to equip one million people with CPR+AED knowledge and skills
-and increase myResponder App sign-ups to 500,000 by 2027.</p>
+The NCER workgroup is working toward a shared goal to equip one million
+people with CPR+AED knowledge and skills and increase myResponder App sign-ups
+to 500,000 by 2027.</p>
 <p>In addition to training and awareness, recognition of public acts is also
 crucial, especially those have life-saving impacts. UPEC's Community Responsiveness
 team oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,

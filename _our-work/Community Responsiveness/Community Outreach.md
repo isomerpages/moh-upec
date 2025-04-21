@@ -16,20 +16,15 @@ third_nav_title: Community Responsiveness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_13.png">
 </div>
-<p>UPEC recognises the importance of proactive engagement with the community.
-Through collaborative efforts with our partners, the unit aims to strengthen
-local connections and create lasting positive impacts. By engaging directly
+<p>UPEC recognises the importance of proactive engagement with the community
+and strives to strengthen local connections through close collaboration
+with our partners to create lasting positive impacts. By engaging directly
 with the members of public, we not only raise awareness about CPR+AED but
 also foster a sense of unity and shared responsibility. This outreach enables
-us to work closely with various agencies to drive meaningful change across
+us to work hand in hand with various agencies - such as the Ministry of
+Home Affairs' SGSecure, SAFRA's Total Defence engagement, and the People's
+Association's Community Resilience Day - to drive meaningful change across
 Singapore.</p>
-<p><u>National Roadshows</u>
-<br>National roadshows aim to raise awareness, enhance community resilience,
-and prepare the public for emergency situations. In partnership with agencies
-like the Ministry of Home Affairs' SGSecure, SAFRA's Total Defence engagement,
-and the People's Association's Community Resilience Day, we contribute
-by engaging the public through abridged CPR+AED hands-on sessions at the
-roadshows, further strengthening community preparedness and resilience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_08.png">
 </div>
@@ -48,12 +43,14 @@ roadshows, further strengthening community preparedness and resilience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_04.png">
 </div>
-<p><u>CPR Gamification</u>
-<br>Learning lifesaving skill can be fun with the QCPR Race, where participants,
-at DARE activity booth, practice effective chest compressions through gamification.
-Better chest compressions make the on-screen ambulance reaches the finishing
-line faster, helping participants realise that quality, not speed, matters
-in life-saving.</p>
+<p><strong><u>CPR Gamification</u></strong>
+<br>Learning lifesaving skill can be fun with the QCPR Race. Participants
+practice effective chest compressions through gamification - better chest
+compressions make the on-screen ambulance reaches the finishing line faster
+- helping participants realise that quality, not speed, matters in life-saving.
+Our QCPR Race booth has reached out to events at Science Centre Singapore,
+Woodlands Health and Alexandra Hospital's family days, People's Association's
+Community Resilience Days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_07.png">
 </div>

@@ -40,7 +40,7 @@ DARE team could work with their staff in-charge to confirm the training
 site and requirements. Multiple training sessions could be planned in advance
 based on the availability of staff and training site (usually conference
 room/training room).</p>
-<p><a href="" rel="noopener nofollow" target="_blank">CLICK HERE TO SIGN UP FOR DARE TRAINING</a>
+<p><a href="/sign-up-for-dare/" rel="noopener nofollow" target="_blank">CLICK HERE TO SIGN UP FOR DARE TRAINING</a>
 </p>
 <p><strong><u>DARE programme (Supplementary)</u></strong>
 </p>

@@ -23,7 +23,6 @@ and Resilience Roadmap.&nbsp;
 <br>3. To serve as a platform for information sharing among the diﬀerent stakeholders
 represented in the NCER workgroup; and make sustainable eﬀorts to drive
 the culture change.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_03a.png">
 </div>

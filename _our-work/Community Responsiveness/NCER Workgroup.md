@@ -42,9 +42,10 @@ expressed the need and interest for further collaboration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_16a.png">
 </div>
-<p>The NCER workgroup has achieved a shared goal: Equip 1 million people
-with CPR &amp; AED knowledge and skills over 5 years; Increase MyResponder
-signup to 500k by year 2027.</p>
+<p>The workgroup aims to drive strategies to strengthen Singapore’s readiness,
+resilience, and responsiveness to out-of-hospital medical emergencies.
+It hopes to equip one million people with CPR+AED knowledge and skills
+and increase myResponder App sign-ups to 500,000 by 2027.</p>
 <p>Moving forward, the NCER workgroup plans to enhance engagement with community
 first responders, monitoring their physical and mental well-being, and
 boosting our social media presence to raise public awareness.</p>

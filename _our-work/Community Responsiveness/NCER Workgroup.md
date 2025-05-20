@@ -46,9 +46,4 @@ expressed the need and interest for further collaboration.</p>
 resilience, and responsiveness to out-of-hospital medical emergencies.
 It hopes to equip one million people with CPR+AED knowledge and skills
 and increase myResponder App sign-ups to 500,000 by 2027.</p>
-<p>Moving forward, the NCER workgroup plans to enhance engagement with community
-first responders, monitoring their physical and mental well-being, and
-boosting our social media presence to raise public awareness.</p>
-<p>With the collective wisdom and commitment from all, let’s make the most
-of this opportunity to drive meaningful change – to fortify the community’s
-role in the chain of survival.</p>
+<p></p>

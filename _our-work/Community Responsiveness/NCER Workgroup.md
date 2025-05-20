@@ -38,4 +38,3 @@ the culture change.</p>
 resilience, and responsiveness to out-of-hospital medical emergencies.
 It hopes to equip one million people with CPR+AED knowledge and skills
 and increase myResponder App sign-ups to 500,000 by 2027.</p>
-<p></p>

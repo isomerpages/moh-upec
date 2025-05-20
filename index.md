@@ -22,7 +22,7 @@ sections:
           url: our-work/overview/
         - title: General Public
           description: Our community programs
-          url: about-community-responsiveness/
+          url: dare-programme/
       variant: side
       backgroundColor: white
       size: md

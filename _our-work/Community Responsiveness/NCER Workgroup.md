@@ -15,13 +15,13 @@ by Ministry of Health (MOH) and Ministry of Home Affairs (MHA) in April
 resilience, and responsiveness in out-of-hospital medical emergencies and
 implement the 5-year NCER Roadmap.</p>
 <p><strong><u>Terms of Reference for the NCER Workgroup</u></strong><u><br></u>1.
-To formulate and implement collaborave strategic direcons to strengthen
-community’s level of preparedness, resilience, and responsiveness in improving
-cardiac arrest survival.
-<br>2. To coordinate and implement the 5-year Naonal Community Emergency and
-Resilience Roadmap.
-<br>3. To serve as a plaorm for informaon sharing among the diﬀerent stakeholders
-represented in the NCER workgroup and make sustainable eﬀorts to drive
+To formulate strategic directions and implement plans to strengthen community’s
+level of preparedness, resilience, and responsiveness in improving cardiac
+arrest survival.&nbsp;
+<br>2. To coordinate and implement the 5-year National Community Emergency
+and Resilience Roadmap.&nbsp;
+<br>3. To serve as a platform for information sharing among the diﬀerent stakeholders
+represented in the NCER workgroup; and make sustainable eﬀorts to drive
 the culture change.</p>
 <p></p>
 <div class="isomer-image-wrapper">

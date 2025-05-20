@@ -27,15 +27,7 @@ the culture change.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_03a.png">
 </div>
 <p><strong><u>NCER Roadmap</u></strong>
-<br>The workgroup is co-chaired by UPEC and SCDF. Since the start of the workgroup,
-each stakeholder brings a unique set of experiences and insights that are
-critical to the success of our mission. The workgroup had fruitful discussion
-and sharing focusing on public awareness campaigns, community training,
-Save-A-Life Initiative, leveraging technology for medical emergency in
-community, current policy and legislation for life-saving skills in Industry,
-data collection and research on cardiac arrest survival rates and community-based
-interventions. Each stakeholder also shared the current and future workplans,
-expressed the need and interest for further collaboration.</p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_15a.png">
 </div>

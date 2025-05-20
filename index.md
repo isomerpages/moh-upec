@@ -75,7 +75,8 @@ sections:
   - infobar:
       title: Singapore Resuscitation First Aid Council
       id: infobar
-      description: Infobar description
+      description: To set standards for resuscitation and first aid practice and
+        training for healthcare providers and lay rescuers in Singapore.
       button: Learn More
       url: singapore-resuscitation-and-first-aid-council/
 ---

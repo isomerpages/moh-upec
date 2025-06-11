@@ -215,7 +215,7 @@ the following criteria:</p>
 </tbody>
 </table>
 <p></p>
-<p><em>Note: The SkillsFuture course fee subsidy is only applicable once per participant. For more details on SSG’s revised funding structure, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>click</u></a> here to access the SkillsFuture Funding Changes. </em>
+<p><em>Note: The SkillsFuture course fee subsidy is only applicable once per participant. For more details on SSG’s revised funding structure, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>click</u></a> here to access the SkillsFuture Funding Changes.</em>
 </p>
 <p></p>
 <h4>Course Registration &amp; Contact</h4>
@@ -226,6 +226,7 @@ the following criteria:</p>
 </p>
 </li>
 </ul>
+<p></p>
 <p>For enquiries or assistance with registration, please contact:
 <br>Ms. Belinda Y. Ho (ITE) at 6590 2146 or</p>
 <p>via email <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>

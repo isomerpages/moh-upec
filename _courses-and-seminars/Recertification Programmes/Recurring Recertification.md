@@ -37,18 +37,28 @@ local and foreign paramedics, who are strongly encouraged to complete their
 recertification at least 6 months before their current certification expires.</p>
 <p></p>
 <h4>Course Information</h4>
-<p>The course starts with a five-week self-directed learning phase, where
-participants will complete online quizzes and participate in discussions.
-This is followed by a 3-day face-to-face (F2F) session at ITE College East.
-The third day of the F2F session will include both theory and practical
-assessments. To successfully complete the course, participants must attend
-the required F2F sessions and pass both assessments. Additionally, a course
-briefing will be held, during which textbooks will be provided to participants
-for the course duration.</p>
+<p>The course begins with a <strong>five-week self-directed learning phase</strong>,
+during which participants will complete online quizzes and participate
+in discussion forums. This is followed by a <strong>3-day face-to-face (F2F) session</strong> at <strong>ITE College East</strong>.</p>
 <p></p>
-<h4>Course Application</h4>
-<p>Applicants must meet one of the following criteria to be eligible for
-the course:</p>
+<ul>
+<li>
+<p>The <strong>third day</strong> of the F2F session includes <strong>both theory and practical assessments</strong>.</p>
+</li>
+<li>
+<p>Participants must <strong>attend all F2F sessions</strong> and <strong>pass both assessments</strong> to
+successfully complete the course.</p>
+</li>
+<li>
+<p>A <strong>course briefing</strong> will be conducted prior to the start,
+during which <strong>textbooks will be issued</strong> to participants for
+the duration of the course.</p>
+</li>
+</ul>
+<p></p>
+<h4>Course Application Criteria</h4>
+<p>To be eligible for the course, applicants must meet <strong>at least one</strong> of
+the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Possess a Paramedic Level III certificate (SAF/ SCDF)</p>

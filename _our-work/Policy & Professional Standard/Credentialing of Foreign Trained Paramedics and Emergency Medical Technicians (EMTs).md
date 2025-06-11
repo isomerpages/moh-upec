@@ -171,6 +171,10 @@ Emergency Care course.</p>
 <p>For Paramedic and EMT Credentialing:<strong> </strong><a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
 </p>
 </li>
+<li>
+<p>For Work Pass Renewal: <a href="/files/UPEC_Work_Pass_Renewal_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Work Pass Renewal Form</a>
+</p>
+</li>
 </ul>
 </li>
 <li>
@@ -193,7 +197,7 @@ Emergency Care course.</p>
 </ul>
 </li>
 <li>
-<p><strong>Application Review</strong>:</p>
+<p><strong>Application Review</strong> (Credentialing only):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Applications are reviewed by UPEC's PEC Training Review Panel.</p>
@@ -204,6 +208,8 @@ Emergency Care course.</p>
 </ul>
 </li>
 </ol>
+<p><em>Note: Work pass renewal applications are processed administratively and do not require panel review.</em>
+</p>
 <blockquote>
 <h4><strong>PEC Training Review Panel</strong></h4>
 </blockquote>
@@ -236,8 +242,12 @@ medical services.</p>
 in this list are still encouraged to apply. Such applications will be reviewed
 by the PEC Training Review Panel to assess the comparability of their training
 and experience to local standards.</p>
-<hr>
-<p><strong>Relevant documents:</strong>
+<p></p>
+<p><strong>For applications and enquiries:</strong>
+</p>
+<p>Email: <a href="PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
+</p>
+<p><strong>Related documents:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -252,13 +262,7 @@ and experience to local standards.</p>
 <p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener nofollow" target="_blank">List of Recognised Foreign-Trained Paramedic Qualification</a>
 </p>
 <p></p>
-<p>For applications and enquiries:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Email</strong>: <a href="PAO_enquiry@upec.sg" rel="noopener noreferrer nofollow" target="_blank">PAO_enquiry@upec.sg</a>
-</p>
-</li>
-</ul>
+<p></p>
 </li>
 </ol>
 <p></p>

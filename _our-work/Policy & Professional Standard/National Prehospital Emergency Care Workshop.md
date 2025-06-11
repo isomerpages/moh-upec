@@ -26,5 +26,5 @@ and development.</p>
 of EMS personnel but also strengthens the overall quality of emergency
 medical services, ensuring participants are well-prepared to meet the dynamic
 demands of the field.</p>
-<p>For more information about the workshop and to register, <a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-workshop-and-courses/" rel="noopener nofollow" target="_blank">click</a> here.</p>
+<p>For more information about the workshop and to register, <a href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/education-workshop-and-courses/" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <p></p>

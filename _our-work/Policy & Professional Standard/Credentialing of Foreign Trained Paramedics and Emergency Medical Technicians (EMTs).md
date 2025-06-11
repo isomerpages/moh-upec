@@ -94,7 +94,8 @@ the US NREMT for at least one year and in good standing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not required for paramedics with equivalent training or current paramedic
-practice. Relevant experience required for nurses.</p>
+practice. Nurses must have at least three years of experience in ED or
+pre-hospital/ambulance care.</p>
 </td>
 </tr>
 <tr>

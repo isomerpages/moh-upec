@@ -222,7 +222,8 @@ the following criteria:</p>
 <p>For course overview and registration:</p>
 <ul>
 <li>
-<p>Visit the ITE website or register directly via the <strong>STEP portal</strong>
+<p>Visit the <a href="https://www.ite.edu.sg/courses/part-time-courses/joint-industry-certification/upec-cert-in-pre-hosp-emer-care" rel="noopener nofollow" target="_blank">ITE website</a> or
+register directly via the <strong>STEP portal</strong>
 </p>
 </li>
 </ul>

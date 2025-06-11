@@ -224,14 +224,12 @@ fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>
 </div>
 <p>EMTs are strongly encouraged to complete their recertification 3 to 6
 months before their current certification expires.</p>
-<p>The recertification course will last for 1.5 days, with the schedule as
+<p>The recertification course will last for 2 days, with the schedule as
 follows:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>1st Day:</strong> 8:30 AM - 4:30 PM</p>
-</li>
-<li>
-<p><strong>2nd Day:</strong> 8:30 AM - 1:00 PM</p>
+<p><strong>2 Days (8.30 am to 4.30 pm)</strong>
+</p>
 </li>
 </ul>
 <p></p>

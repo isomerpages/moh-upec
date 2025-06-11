@@ -144,7 +144,7 @@ information, refer to the specific license conditions documents.</p>
 <p></p>
 </li>
 </ol>
-<p>For further details on EAS, including crew and CGO requirements, <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/emergency-ambulance-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
-<p>For further details on MTS, including crew and CGO requirements, <a href="https://www.moh.gov.sg/hcsa/clinical-support-services/medical-transport-service" rel="noopener noreferrer nofollow" target="_blank">click</a> here.</p>
+<p>For further details on EAS, including crew and CGO requirements, <a href="https://www.hcsa.gov.sg/clinical-support-services/emergency-ambulance-service" rel="noopener nofollow" target="_blank">click here</a>.</p>
+<p>For further details on MTS, including crew and CGO requirements, <a href="https://www.hcsa.gov.sg/clinical-support-services/medical-transport-service" rel="noopener nofollow" target="_blank">click here</a>.</p>
 <p></p>
 <p></p>

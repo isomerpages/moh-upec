@@ -168,7 +168,12 @@ Emergency Care course.</p>
 <p><strong>Download Application Forms</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For Paramedics</strong>  <strong>and EMTs:</strong>
+<p><strong>For Paramedic</strong>  <strong>and EMT Credentialing: </strong>
+<a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
+</p>
+</li>
+<li>
+<p>For Paramedic and EMT Work Pass Renewal: <a href="/files/UPEC_Work_Pass_Renewal_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">Work Pass Renewal Application Form </a>
 </p>
 </li>
 </ul>
@@ -241,11 +246,12 @@ and experience to local standards.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/PRM_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
+<p><a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
 </p>
 </li>
 <li>
-<p>For PRM and EMT Work Pass Renewal Application Form</p>
+<p><a href="/files/UPEC_Work_Pass_Renewal_Form_March_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">For PRM and EMT Work Pass Renewal Application Form</a>
+</p>
 </li>
 <li>
 <p><a href="/files/List_of_Recognised_Foreign_Paramedic_Qualifications.pdf" rel="noopener nofollow" target="_blank">List of Recognised Foreign-Trained Paramedic Qualification</a>

@@ -215,7 +215,7 @@ the following criteria:</p>
 </tbody>
 </table>
 <p></p>
-<p><em>Note: The SkillsFuture course fee subsidy is only applicable once per participant. For more details on SSG’s revised funding structure, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>click</u></a> here to access the SkillsFuture Funding Changes.</em>
+<p><em>Note: The SkillsFuture course fee subsidy is only applicable once per participant. For more details on SSG’s revised funding structure, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener nofollow" target="_blank">click here</a>  to access the SkillsFuture Funding Changes.</em>
 </p>
 <p></p>
 <h4>Course Registration &amp; Contact</h4>

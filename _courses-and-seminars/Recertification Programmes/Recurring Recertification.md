@@ -56,7 +56,7 @@ the duration of the course.</p>
 </li>
 </ul>
 <p></p>
-<h4>Course Application Criteria</h4>
+<h4>Course Eligibility</h4>
 <p>To be eligible for the course, applicants must meet <strong>at least one</strong> of
 the following criteria:</p>
 <ul data-tight="true" class="tight">
@@ -72,9 +72,12 @@ the following criteria:</p>
 <li>
 <p>Provide a letter from UPEC</p>
 <p></p>
+<p><em>Note: This course is applicable only to paramedics.</em>
+</p>
+<p></p>
 </li>
 </ul>
-<p>The details of the 2025 course are as follows:</p>
+<p>2025 Course Intakes:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -82,11 +85,6 @@ the following criteria:</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</p>
-</th>
-</tr>
 <tr>
 <td rowspan="5" colspan="1">
 <p></p>
@@ -183,7 +181,7 @@ the following criteria:</p>
 </tbody>
 </table>
 <p></p>
-<p>The fee payable for 2025 is as follows:</p>
+<p>Course Fees (2025)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -191,21 +189,24 @@ the following criteria:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<p>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course fee</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Full Fee (with 9% GST)</p>
+<p>Fee Type</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nett Fee (with 9% GST, after subsidy, if any)</p>
+<p>Amount (incl. 9% GST)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Full Fee</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>$545.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nett Fee (after subsidy, if applicable)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$295.00</p>
@@ -214,13 +215,20 @@ the following criteria:</p>
 </tbody>
 </table>
 <p></p>
-<p>For more details on the revisions in SSG’s course fee funding, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>click</u></a> here
-to access the SkillsFuture Funding Changes. Please note that the course
-fee subsidy is applicable <strong><u>only once per participan</u></strong>t.</p>
+<p><em>Note: The SkillsFuture course fee subsidy is only applicable once per participant. For more details on SSG’s revised funding structure, <a href="https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/skillsfuture-funding-changes.html" rel="noopener noreferrer nofollow" target="_blank"><u>click</u></a> here to access the SkillsFuture Funding Changes. </em>
+</p>
 <p></p>
-<p>For a detailed overview of the course and registration, please visit the
-<a href="https://www.ite.edu.sg/courses/part-time-courses/joint-industry-certification/upec-cert-in-pre-hosp-emer-care" rel="noopener nofollow" target="_blank">ITE website</a>or contact Ms. Belinda Ho at 6590 2146 or via email at
-<a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>
+<h4>Course Registration &amp; Contact</h4>
+<p>For course overview and registration:</p>
+<ul>
+<li>
+<p>Visit the ITE website or register directly via the <strong>STEP portal</strong>
+</p>
+</li>
+</ul>
+<p>For enquiries or assistance with registration, please contact:
+<br>Ms. Belinda Y. Ho (ITE) at 6590 2146 or</p>
+<p>via email <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>
 </p>
 </div>
 </details>

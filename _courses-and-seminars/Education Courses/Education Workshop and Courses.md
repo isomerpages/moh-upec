@@ -369,43 +369,44 @@ For more information on this national workgroup, please click <a href="http://up
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amb_Team_National_PEC_workshop.jpeg">
 </div>
-<p>The National Pre-hospital Emergency Care Workshop held on 3 December 2024
-aimed to update participants on the latest developments in pre-hospital
-care while providing practical skills training for managing specific injuries.
-The session focused on advancing knowledge and practical applications in
-burn injuries and intra-abdominal injuries.</p>
-<p><strong>Lecture Summaries:</strong>
+<p><strong>The next National Pre-hospital Emergency Care Workshop will be held on 16 June 2025.</strong>
 </p>
-<p><strong>Lecture 1: Burn Injuries</strong>
-<br><strong>Content:</strong> Different types and degrees of burns, including
-BSA (Body Surface Area) calculation.
-<br><strong>Focus:</strong> Management of burn casualties in the pre-hospital
-setting using the Patient Assessment Model (PAM).</p>
-<p><strong>Lecture 2: Intra-abdominal Injuries</strong>
-<br><strong>Content:</strong> Overview of intra-abdominal injuries, including
-signs and symptoms.
-<br><strong>Focus:</strong> Management of intra-abdominal injuries in the pre-hospital
-setting using PAM.</p>
-<p><strong>Lecture 3: The Future of Singapore Pre-Hospital Care</strong>
-<br><strong>Content:</strong> Updates on ongoing changes in the local pre-hospital
-care landscape.
-<br><strong>Focus:</strong> Insights into the future direction of pre-hospital
-emergency care in Singapore.</p>
-<p><strong>Skills Stations:</strong>
+<p>This workshop is designed for practicing pre-hospital care practitioners
+and will focus on updates to the assessment model aligned with the latest
+edition of <em>Emergency Care in the Streets (9th ed.)</em>.</p>
+<p>Participants will have the opportunity to refresh and enhance their assessment
+knowledge and clinical skills through a series of lectures and hands-on
+skill stations.</p>
+<hr>
+<p><strong>Lecture 1: Scene Appreciation and Primary Survey</strong>
 </p>
-<p><strong>Skills Station 1: Management of Patient with Burns</strong>
-<br><strong>Objective:</strong> Participants recognized the signs and symptoms
-of burns and practiced managing a simulated patient in the pre-hospital
-setting.</p>
-<p><strong>Skills Station 2: Management of Patient with Intra-abdominal Injuries</strong>
-<br><strong>Objective:</strong> Participants recognized the signs and symptoms
-of intra-abdominal injuries and practiced managing a simulated patient
-in the pre-hospital setting.</p>
-<p>This workshop successfully built upon the foundations laid in previous
-sessions, focusing on enhancing theoretical knowledge and practical skills
-in pre-hospital trauma care.</p>
-<p>The next workshop will be announced soon. Stay tuned for updates and registration
-details!</p>
+<p>This session highlights the importance of scene safety and its influence
+on patient presentation. It also introduces the updated approach to the
+Primary Survey, emphasizing the ABCDE framework recommended in the latest
+paramedic textbook.</p>
+<hr>
+<p><strong>Lecture 2: History Taking and Secondary Assessment</strong>
+</p>
+<p>Participants will learn to conduct comprehensive history taking using
+the mnemonics SAMPLE and LOTARPS, paired with physical assessments. The
+lecture reinforces interpreting vital signs alongside clinical findings
+and history, and stresses the importance of continuous reassessment.</p>
+<hr>
+<p><strong>Lecture 3: Handover and Documentation</strong>
+</p>
+<p>This lecture focuses on structured patient handovers to hospital staff
+using the IMIST-AMBO mnemonic. It also covers key principles of proper
+documentation and how clinical information should be accurately recorded.</p>
+<hr>
+<p><strong>Skill Station 1: Scene Appreciation and Primary Survey</strong>
+</p>
+<p>Participants will practise scene assessment and primary survey techniques
+under the guidance of experienced facilitators.</p>
+<hr>
+<p><strong>Skill Station 2: History Taking and Secondary Assessment</strong>
+</p>
+<p>This station provides hands-on practice in patient history taking and
+physical assessment, with facilitator feedback.</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

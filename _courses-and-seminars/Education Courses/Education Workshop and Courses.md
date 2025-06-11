@@ -408,6 +408,11 @@ under the guidance of experienced facilitators.</p>
 <p>This station provides hands-on practice in patient history taking and
 physical assessment, with facilitator feedback.</p>
 <p></p>
+<p><strong>To register</strong>, please visit: <a href="https://form.gov.sg/6826e59c810acfbebcb5e373" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6826e59c810acfbebcb5e373</a>
+</p>
+<p></p>
+<p>Registration closes on <strong>30 May 2025</strong>.</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

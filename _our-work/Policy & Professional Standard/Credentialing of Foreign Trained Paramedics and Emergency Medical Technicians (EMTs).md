@@ -168,8 +168,7 @@ Emergency Care course.</p>
 <p><strong>Download Application Forms</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For Paramedic</strong>  <strong>and EMT Credentialing: </strong>
-<a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
+<p>For Paramedic and EMT Credentialing:<strong> </strong><a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
 </p>
 </li>
 </ul>

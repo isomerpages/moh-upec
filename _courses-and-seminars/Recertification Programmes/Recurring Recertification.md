@@ -64,7 +64,7 @@ the course:</p>
 <p></p>
 </li>
 </ul>
-<p>The details of the 2024 course are as follows:</p>
+<p>The details of the 2025 course are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -85,27 +85,27 @@ the course:</p>
 <p>1st Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Course duration: 29 Jan - 7 Mar 2024</p>
+<p>Course duration: 3 Feb - 13 Mar 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Briefing: 26 Jan 2024</p>
+<p>Briefing: 27 Jan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Self-directed learning: 29 Jan - 1 Mar 2024</p>
+<p>Self-directed learning: 3 Feb - 7 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Face-to-Face assessment: 6 - 8 Mar 2024</p>
+<p>Face-to-Face assessment: 11 - 13 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Retest (if applicable): 13 Mar 2024</p>
+<p>Retest (if applicable): 19 Mar</p>
 </td>
 </tr>
 <tr>
@@ -116,69 +116,64 @@ the course:</p>
 <p>2nd Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Course duration: 27 May - 4 July 2024</p>
+<p>Course duration: 12 May - 19 June 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Briefing: 24 May 2024</p>
+<p>Briefing: 9 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Self-directed learning: 27 May - 4 July 2024</p>
+<p>Self-directed learning: 12 May - 13 June</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Face-to-Face assessment: 2 - 4 July 2024</p>
+<p>Face-to-Face assessment: 17 - 19 June</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Retest (if applicable): 10 July 2024</p>
+<p>Retest (if applicable): 24 June</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="5" colspan="1">
 <p></p>
 <p></p>
 <p></p>
 <p>3rd Intake</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Course duration: 21 Oct - 28 Nov 2024</p>
+<p>Course duration: 27 Oct - 4 Dec 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Briefing: 18 Oct 2024</p>
+<p>Briefing: 24 Oct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Self-directed learning: 21 Oct - 22 Nov 2024</p>
+<p>Self-directed learning: 27 Oct - 28 Nov</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Face-to-Face assessment: 26 - 28 Nov 2024</p>
+<p>Face-to-Face assessment: 2-4 Dec</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Retest (if applicable): 4 Dec 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Registration deadline: 15 Oct 2024</p>
+<p>Retest (if applicable): 10 Dec</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>The fee payable for 2024 is as follows:</p>
+<p>The fee payable for 2025 is as follows:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

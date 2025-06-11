@@ -172,10 +172,6 @@ Emergency Care course.</p>
 <a href="/files/UPEC_EMT_PRM_Credentialing_Application_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">PRM and EMT Credentialing Application Form</a>
 </p>
 </li>
-<li>
-<p>For Paramedic and EMT Work Pass Renewal: <a href="/files/UPEC_Work_Pass_Renewal_Form_March_2025.pdf" rel="noopener nofollow" target="_blank">Work Pass Renewal Application Form </a>
-</p>
-</li>
 </ul>
 </li>
 <li>

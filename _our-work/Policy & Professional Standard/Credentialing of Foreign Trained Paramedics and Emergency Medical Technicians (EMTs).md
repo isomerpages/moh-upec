@@ -123,13 +123,27 @@ pre-hospital/ambulance care.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Letter of Support</p>
+<p>Letter of Support (LOS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obtain Letter of Support for MOM application.</p>
+<p>Issued to support the work pass application via the Ministry of Manpower
+(MOM) website.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obtain Letter of Support for MOM application.</p>
+<p>Issued to support the work pass application via the Ministry of Manpower
+(MOM) website.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Letter of Eligibility (LOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issued for registration into the EMT Recertification Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Issued for registration into the Joint ITE-UPEC Certificate in Pre-hospital
+Emergency Care course.</p>
 </td>
 </tr>
 <tr>
@@ -154,11 +168,7 @@ pre-hospital/ambulance care.</p>
 <p><strong>Download Application Forms</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>For Paramedics</strong>: <a href="/files/PRM_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener" target="_blank">Paramedic Credentialing Application Form UPEC 2024</a>
-</p>
-</li>
-<li>
-<p><strong>For EMTs</strong>: <a href="/files/EMT_Credentialing_Application_Form_UPEC_Final_2024.pdf" rel="noopener" target="_blank">EMT Credentialing Application Form UPEC 2024</a>
+<p><strong>For Paramedics</strong>  <strong>and EMTs: </strong>
 </p>
 </li>
 </ul>

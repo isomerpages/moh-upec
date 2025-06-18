@@ -69,8 +69,9 @@ sections:
   - infobar:
       title: Community Responsiveness
       id: infobar
-      description: Building a community empowered to respond swiftly and save lives
-        when every second counts.
+      description: We believe that investing in health literacy is a vital long-term
+        strategy to improve bystander CPR rates and boost cardiac arrest
+        survival in our communities.
       button: Learn More
       url: about-community-responsiveness/
   - infobar:

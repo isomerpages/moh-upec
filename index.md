@@ -69,7 +69,8 @@ sections:
   - infobar:
       title: Community Responsiveness
       id: infobar
-      description: Infobar description
+      description: Building a community empowered to respond swiftly and save lives
+        when every second counts.
       button: Learn More
       url: about-community-responsiveness/
   - infobar:

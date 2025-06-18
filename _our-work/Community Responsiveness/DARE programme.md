@@ -100,7 +100,7 @@ in the DARE programme during community centre sessions.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/ISOMER_10.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Community Responsiveness/isomer_2_13.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

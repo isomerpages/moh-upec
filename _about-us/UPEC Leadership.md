@@ -7,6 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" title="Marcus Ong_Photo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Marcus-Ong_Photo.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit.jpg">
+</div>
 <h3>Marcus ONG Eng Hock</h3>
 <p>MBBS, FRCS (A&amp;E) EDIN, MPH (VCU)</p>
 <p><strong>Professor and Clinical Director</strong>

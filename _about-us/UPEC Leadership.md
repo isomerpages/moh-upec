@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit_150px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben.jpg">
 </div>
 <h3>Adj A/Prof Benjamin LEONG Sieu-Hon</h3>
 <p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.

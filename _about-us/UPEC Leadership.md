@@ -15,18 +15,15 @@ variant: tiptap
 <br>Ministry of Health, Hospital Services Division
 <br>Emergency Medicine Department, NUH
 <br>Urgent Care Centre, AH</p>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
-ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus
-duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus
-fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada
-lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti
-sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
-ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus
-duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus
-fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada
-lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti
-sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+<p>Prof Ong is a Senior Consultant, Director of Research, and Clinician Scientist,
+at the Department of Emergency Medicine in Singapore General Hospital.
+He serves as Medical Director, Unit for Prehospital Emergency Care (UPEC)
+and Senior Consultant, Ministry of Health, Hospital Services Division.
+He is also the Director of Health Services Research Center (HSRC), Singapore
+Health Services; Professor and Director, Health Services and Systems Research
+(HSSR); Director, Prehospital and Emergency Research Center (PERC), Duke-NUS
+Medical School. He is also Chairman, Pan Asian Resuscitation Outcomes Study
+(PAROS).</p>
 <p><strong>Foreword by Clinical Director</strong>
 </p>
 <p>Our vision is for Singapore to possess a world-class PEC system, readily

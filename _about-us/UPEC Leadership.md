@@ -4,8 +4,9 @@ permalink: /about-us/upec-leadership/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit_150px.jpg">
 </div>
 <h3>Adj A/Prof Benjamin LEONG Sieu-Hon</h3>
 <p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.

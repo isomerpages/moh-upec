@@ -7,12 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit.jpg">
 </div>
-<h3>Adj A/Prof Benjamin Leong</h3>
-<p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.</p>
-<p><strong>Clinical Director, Unit for Pre-hospital Emergency Care (UPEC)</strong>
-<br>
-</p>
-<p>Senior Consultant
+<h3>Adj A/Prof Benjamin LEONG Sieu-Hon</h3>
+<p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.
+<br><strong>Clinical Director, Unit for Pre-hospital Emergency Care (UPEC)</strong>
+<br>Senior Consultant
 <br>Ministry of Health, Hospital Services Division
 <br>Emergency Medicine Department, NUH
 <br>Urgent Care Centre, AH</p>

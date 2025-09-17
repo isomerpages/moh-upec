@@ -5,49 +5,29 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" title="Marcus Ong_Photo" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/Marcus-Ong_Photo.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Ben_edit.jpg">
 </div>
-<h3>Marcus ONG Eng Hock</h3>
-<p>MBBS, FRCS (A&amp;E) EDIN, MPH (VCU)</p>
-<p><strong>Professor and Clinical Director</strong>
-<br><strong>Unit for Pre-hospital Emergency Care, Ministry of Health</strong>
+<h3>Adj A/Prof Benjamin Leong</h3>
+<p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.</p>
+<p><strong>Clinical Director, Unit for Pre-hospital Emergency Care (UPEC)</strong>
+<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Senior Consultant and Clinician Scientist, Dept of Emergency Medicine
-<br>Singapore General Hospital</p>
-</li>
-<li>
-<p>Director, Health Services and Systems Research, Duke-NUS Medical School</p>
-</li>
-<li>
-<p>Director, Health Services Research Institute, SingHealth-Duke NUS
-<br>Academic Medical Center</p>
-</li>
-<li>
-<p>Director, Health Services Research Center, SingHealth Services</p>
-</li>
-<li>
-<p>Senior Consultant, Ministry of Health, Prehospital Emergency Care</p>
-</li>
-<li>
-<p>Vice-Chair, SingHealth Duke-NUS Emergency Medicine Academic Clinical Programme
-(EM ACP)</p>
-</li>
-</ul>
-<p>Prof Ong is a Senior Consultant, Director of Research, and Clinician Scientist,
-at the Department of Emergency Medicine in Singapore General Hospital.
-He serves as Medical Director, Unit for Prehospital Emergency Care (UPEC)
-and Senior Consultant, Ministry of Health, Hospital Services Division.
-He is also the Director of Health Services Research Center (HSRC), Singapore
-Health Services; Professor and Director, Health Services and Systems Research
-(HSSR); Director, Prehospital and Emergency Research Center (PERC), Duke-NUS
-Medical School. He is also Chairman, Pan Asian Resuscitation Outcomes Study
-(PAROS).</p>
+<p>Senior Consultant
+<br>Ministry of Health, Hospital Services Division
+<br>Emergency Medicine Department, NUH
+<br>Urgent Care Centre, AH</p>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
+ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus
+duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus
+fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada
+lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti
+sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
+ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus
+duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus
+fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada
+lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti
+sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
 <p><strong>Foreword by Clinical Director</strong>
 </p>
 <p>Our vision is for Singapore to possess a world-class PEC system, readily

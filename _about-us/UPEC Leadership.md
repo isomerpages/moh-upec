@@ -9,13 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dr_ben_profile.png">
 </div>
-<h3>Adj A/Prof Benjamin LEONG Sieu-Hon</h3>
-<p>MBBS, MRCS (A&amp;E) Edin, MMED(S), FAMS.
-<br><strong>Clinical Director, Unit for Pre-hospital Emergency Care (UPEC)</strong>
-<br>Senior Consultant
-<br>Ministry of Health, Hospital Services Division
-<br>Emergency Medicine Department, NUH
-<br>Urgent Care Centre, AH</p>
 <p>Prof Ong is a Senior Consultant, Director of Research, and Clinician Scientist,
 at the Department of Emergency Medicine in Singapore General Hospital.
 He serves as Medical Director, Unit for Prehospital Emergency Care (UPEC)

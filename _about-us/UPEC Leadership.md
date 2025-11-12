@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dr_ben_profile.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dr_Benjamin_Leong_Isomer_Banner.jpg">
 </div>
 <p>Prof Ong is a Senior Consultant, Director of Research, and Clinician Scientist,
 at the Department of Emergency Medicine in Singapore General Hospital.

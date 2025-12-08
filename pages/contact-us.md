@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: UPEC
 locations:
   - address:
-      - 10 Hospital Boulevard
-      - Level 5, SingHealth Tower
-      - Singapore 168582
+      - 1 Hospital Boulevard, Level 11
+      - SGH Emergency / National Neuroscience Institute
+      - Singapore 168581
     operating_hours: []
     maps_link: ""
     title: Unit for Pre-hospital Emergency Care (UPEC)

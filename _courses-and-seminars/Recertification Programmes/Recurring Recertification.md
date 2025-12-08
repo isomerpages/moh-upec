@@ -24,7 +24,7 @@ Certificate in Pre-hospital Emergency Care course.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Joint ITE-UPEC Certificate In Pre-hospital Emergency Care course</strong>
+<summary><strong>Joint ITE-UPEC Certificate in Pre-hospital Emergency Care course</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -47,12 +47,12 @@ in discussion forums. This is followed by a <strong>3-day face-to-face (F2F) ses
 </li>
 <li>
 <p>Participants must <strong>attend all F2F sessions</strong> and <strong>pass both assessments</strong> to
-successfully complete the course.</p>
+complete the course.</p>
 </li>
 <li>
-<p>A <strong>course briefing</strong> will be conducted prior to the start,
-during which <strong>textbooks will be issued</strong> to participants for
-the duration of the course.</p>
+<p>A <strong>course briefing</strong> will be conducted before the start, during
+which <strong>textbooks will be issued</strong> to participants for the duration
+of the course.</p>
 </li>
 </ul>
 <p></p>
@@ -61,7 +61,7 @@ the duration of the course.</p>
 the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Possess a Paramedic Level III certificate (SAF/ SCDF)</p>
+<p>Possess a Paramedic Level III certificate (SAF/SCDF)</p>
 </li>
 <li>
 <p>Hold a Higher Nitec in Paramedic &amp; Emergency Care</p>
@@ -229,7 +229,7 @@ register directly via the <strong>STEP portal</strong>
 </ul>
 <p></p>
 <p>For enquiries or assistance with registration, please contact:
-<br>Ms. Belinda Y. Ho (ITE) at 6590 2146 or</p>
+<br>Ms Belinda Y. Ho (ITE) at 6590 2146 or</p>
 <p>via email <a href="mailto:belinda_y_ho@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">belinda_y_ho@ite.edu.sg</a>
 </p>
 </div>
@@ -243,7 +243,7 @@ register directly via the <strong>STEP portal</strong>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EMT_Recert.jpg">
 </div>
 <p>EMTs are strongly encouraged to complete their recertification 3 to 6
-months before their current certification expires.</p>
+months before the expiration of their current certification.</p>
 <p>The recertification course will last for 2 days, with the schedule as
 follows:</p>
 <ul data-tight="true" class="tight">

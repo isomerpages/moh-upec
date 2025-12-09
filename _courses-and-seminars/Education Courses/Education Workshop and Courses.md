@@ -326,11 +326,11 @@ by UPEC in 2019.</p>
 <img style="box-sizing: border-box; margin: 0px; padding: 0px; border: none rgb(225, 225, 225); font: inherit; vertical-align: baseline; display: block; max-width: 100%; height: auto; border-radius: 3px; position: relative; transition: all 0.7s ease 0s;" height="444" width="870" title="TTM-provider-course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2021/08/TTM-provider-course.jpg">
 </div>
 <p>TTM was strongly recommended by ILCOR (2015) and NRC (2016) as a component
-of post resuscitation care. It has been known to be effective to im-prove
+of post-resuscitation care. It has been known to be effective in improving
 the survival rate and neurological function outcome of patients after cardiac
 arrest.</p>
 <p>This course provides local providers with in-depth knowledge to manage
-patients on TTM. The course is organised by the National TTM Workgroup.
+patients on TTM. The course was organised by the National TTM Workgroup.
 For more information on this national workgroup, please click <a href="http://upec.rawmix.xyz/our-work/medical-operations-and-oversight/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Content</p>
 <ul data-tight="true" class="tight">
@@ -341,13 +341,13 @@ For more information on this national workgroup, please click <a href="http://up
 <p>Singapore Guideline on TTM</p>
 </li>
 <li>
-<p>Breaking the barriers of implementation of TTM</p>
+<p>Breaking the barriers to the implementation of TTM</p>
 </li>
 <li>
 <p>Pharmacological consideration</p>
 </li>
 <li>
-<p>Complication and side effects</p>
+<p>Complications and side effects</p>
 </li>
 <li>
 <p>Cardiovascular and Neurological management</p>

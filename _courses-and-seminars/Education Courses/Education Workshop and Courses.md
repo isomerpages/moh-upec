@@ -157,10 +157,10 @@ please visit the <a href="https://www.naemt.org/education" rel="noopener norefer
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Pre-hospital Trauma Life Support (PHTLS) is recognized around the world
+<p>Pre-hospital Trauma Life Support (PHTLS) is recognised around the world
 as the leading continuing education program for pre-hospital emergency
-trauma care. PHTLS is developed by NAEMT in cooperation with the American
-College of Surgeons’ Committee on Trauma and lead by the National Trauma
+trauma care. NAEMT developed PHTLS in cooperation with the American College
+of Surgeons’ Committee on Trauma and has been led by the National Trauma
 Committee in Singapore since 2013. It is currently provided in two training
 centres in Singapore.</p>
 <p>NAEMT Authorised Training Centres for PHTLS:</p>

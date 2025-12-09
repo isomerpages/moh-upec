@@ -40,12 +40,13 @@ just because you are female; you are equally capable of initiating resuscitation
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: What if other people criticise me for approaching a person who has suffered a cardiac arrest, if I don’t do it perfectly?</strong>
+<summary><strong>Q: What if other people criticise me for approaching a person who has suffered a cardiac arrest if I don’t do it perfectly?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Let this not be a barrier to the victim receiving timely
-life-saving help. Call 995 and stay on the line, the 995-dispatcher is
-trained to guide you through the steps.
+life-saving help. Call 995 and stay on the line; the 995-dispatcher is
+trained to guide you through the steps.</p>
+<p>
 <br>~ <em>Dr Benjamin Leong,</em>  <em>Deputy Director, UPEC</em>
 </p>
 </div>
@@ -58,28 +59,28 @@ trained to guide you through the steps.
 A Good Samaritan is a rescuer who responds in an emergency when there is
 no legal responsibility to do so. This excludes healthcare professionals
 who care for patients in a clinical setting and owe their patients a duty
-of care. Good Samaritan laws are aimed at absolving rescuers from liability
-should the rescuer’s attempts to help a stranger fail, or make matters
-worse. Currently there is little evidence to support the claim that the
-absence of Good Samaritan laws is what deters would-be rescuers, or that
-enacting Good Samaritan laws would necessarily encourage more bystanders
-to help a stranger.</p>
+of care. Good Samaritan laws aim to absolve rescuers from liability should
+the rescuer’s attempts to help a stranger fail or make matters worse. Currently
+there is little evidence to support the claim that the absence of Good
+Samaritan laws is what deters would-be rescuers, or that enacting Good
+Samaritan laws would necessarily encourage more bystanders to help a stranger.</p>
+<p></p>
 <p>~ <em>Ms Kuah Boon Theng, Council member of The Law Society of Singapore</em>
 </p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: If I attempt resuscitation and the victim passes away, will I be in touble with the law?</strong>
+<summary><strong>Q: If I attempt resuscitation and the victim passes away, will I be in trouble with the law?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> The law requires Good Samaritans to act reasonably.
 Although would-be rescuers may have noble intentions, they must not behave
 recklessly or negligently in a way which could cause even more injury.
-However, there have been no reports locally of successful claims being
-made against Good Samaritans. A claimant would have to prove that if the
-attempt to help the “victim” was not made, the “victim” would have been
-better off. This would be difficult to prove, if indeed the “victim” was
-truly in dire need of help and intervention.</p>
+However, there have been no reports locally of successful claims made against
+Good Samaritans. A claimant would have to prove that if the attempt to
+help the “victim” had not been made, the “victim” would have been better
+off. This would be difficult to prove if, indeed, the “victim” was truly
+in dire need of help and intervention.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -93,7 +94,7 @@ such as rib fractures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: Could the victim accuse a Good Samaritan of molest during the course of the volunteer intervention?</strong>
+<summary><strong>Q: Could the victim accuse a Good Samaritan of molestation during the course of the volunteer intervention?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>So long as the Good Samaritan renders aid in accordance

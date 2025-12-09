@@ -214,10 +214,10 @@ relevant to and accessible by first responders and EMTs.</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p>Advanced Medical Life Support (AMLS) remains the gold standard of education
-for emergency medical assessment and treatment. AMLS emphasizes the use
+for emergency medical assessment and treatment. AMLS emphasises the use
 of the AMLS Assessment Pathway, a systematic tool for assessing and managing
 common medical conditions with urgent accuracy. The course is endorsed
-by the National Association of EMS Physicians and brought into Singapore
+by the National Association of EMS Physicians and was brought into Singapore
 by UPEC in 2019.</p>
 <p></p>
 <p>Authorised Training Centres for AMLS:</p>

@@ -48,7 +48,7 @@ an overview of elements that run the range and depth of topics vital to
 EMS.</p>
 <p></p>
 <p>Originating from the National EMS Medical Directors Course &amp; Practicum
-by the National Association of EMS Physicians (NAEMSP), the <strong>EMS Medical Director Course</strong> is
+by the National Association of EMS Physicians (NAEMSP), the <strong>EMS Medical Director course</strong> is
 accredited by the Asia Association in EMS (AAEMS) in Asia.</p>
 <p></p>
 <p>The EMS Medical Directors’ Course can be divided into three sub-categories:</p>

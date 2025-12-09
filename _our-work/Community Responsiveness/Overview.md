@@ -23,13 +23,13 @@ public education. <strong>We believe that investing in the health literacy and a
 <p>In line with this objective, the <strong><a href="/dare-programme/" rel="noopener nofollow" target="_blank">Dispatcher-Assisted first REsponder (DARE) programme</a></strong> was
 launched. Fully funded by Singapore's Ministry of Health (MOH) and implemented
 by the Unit of Pre-hospital Emergency Care (UPEC), DARE strengthens the
-community responsiveness for medical emergencies and raises preparedness
-levels. This 45-minute programme comprising training through educational
-video and practical session without technical terminologies. Participants
-are taught how to respond effectively when witnessing a cardiac arrest
-with step-by-step guidance from 995 specialists.</p>
+community's responsiveness to medical emergencies and raises preparedness
+levels. The session is a 45-minute programme, comprising training through
+educational videos and a practical session without technical terminologies.
+Participants are taught how to respond effectively when witnessing a cardiac
+arrest with step-by-step guidance from 995 specialists.</p>
 <p>Building on the success of initiatives like DARE, the focus has shifted
-to expand for a concerted effort through the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong>.
+to expand to a concerted effort through the <strong><a href="/ncer-workgroup/" rel="noopener nofollow" target="_blank">National Community Emergency and Resilience (NCER) workgroup</a></strong>.
 Co-chaired by both UPEC and the Singapore Civil Defence Force (SCDF), the
 workgroup aims to drive strategies to strengthen Singapore’s readiness,
 resilience, and responsiveness to out-of-hospital medical emergencies.
@@ -37,9 +37,9 @@ The NCER workgroup is working toward a shared goal to equip one million
 people with CPR+AED knowledge and skills and increase myResponder App sign-ups
 to 500,000 by 2027.</p>
 <p>In addition to training and awareness, recognition of public acts is also
-crucial, especially those have life-saving impacts. UPEC's Community Responsiveness
-team oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,
-a platform where OHCA survivors can express their gratitude to their rescuers,
-further motivating community participation and fostering a culture of life-saving
+crucial, especially those that have life-saving impacts. UPEC's Community
+Responsiveness team oversees the <strong><a href="/survivor-awards-singapore/" rel="noopener nofollow" target="_blank">Survivor Awards Singapore</a></strong>,
+where OHCA survivors can express their gratitude to their rescuers, further
+motivating community participation and fostering a culture of life-saving
 action.</p>
 <p></p>

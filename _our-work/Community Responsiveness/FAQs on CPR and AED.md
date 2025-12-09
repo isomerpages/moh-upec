@@ -225,9 +225,9 @@ starts to wake up/move/respond.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Yes! The steps to use the AED are the same. Our priority
-is to increase the chances of survival in any cardiac arrest victim. There
-are no scientific papers supporting the result that AED causes more harm
-when used on a pregnant victim.</p>
+is to increase the chances of survival for any cardiac arrest victim. No
+scientific papers were found to support the result that AED causes more
+harm when used on a pregnant victim.</p>
 </div>
 </details>
 <details class="isomer-details">

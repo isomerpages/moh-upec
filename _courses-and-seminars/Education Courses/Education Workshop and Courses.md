@@ -484,10 +484,10 @@ physical assessment, accompanied by facilitator feedback.</p>
 <summary><strong>Resuscitation Academy High Performance CPR Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The High Performance CPR (HPCPR) workshop aims to optimize CPR delivery
-and improve survival rate for out-of-hospital cardiac arrest (OHCA). This
-workshop equips EMS educators, healthcare professionals with evidence-based
-resuscitation techniques while emphasizing the science behind CPR and the
+<p>The High Performance CPR (HPCPR) workshop aims to optimise CPR delivery
+and improve survival rate for Out-of-Hospital Cardiac Arrest (OHCA). This
+workshop equips EMS educators and healthcare professionals with evidence-based
+resuscitation techniques while emphasising the science behind CPR and the
 importance of data-driven performance improvement.</p>
 </div>
 </details>

@@ -186,7 +186,7 @@ centres in Singapore.</p>
 <td rowspan="1" colspan="3">
 <p>PHTLS for First Responders (PHTLS-FR) adapts the world-class trauma care
 content from the 9th edition of PHTLS and delivers it in a style that is
-relevant to and accessible by first responders, and EMTs.</p>
+relevant to and accessible by first responders and EMTs.</p>
 <p>Authorised Training Centres for PHTLS FR:</p>
 <ul data-tight="true" class="tight">
 <li>

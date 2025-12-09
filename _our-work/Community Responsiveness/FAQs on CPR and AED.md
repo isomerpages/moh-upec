@@ -11,15 +11,16 @@ third_nav_title: Community Responsiveness
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Q: Can a male bystander, who has no relation to the female SCA victim, come to her aid by starting CPR and the using of AED?</strong>
+<summary><strong>Q: Can a male bystander, who has no relation to the female SCA victim, come to her aid by starting CPR and using an AED?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>A: </strong>Yes it is alright for a male bystander to dare to
+<p><strong>A: </strong>Yes, it is alright for a male bystander to dare to
 call 995, start CPR and use an AED on a female victim (especially Muslims)
 if there is no other female bystander able to do so. This is because the
 situation is a desperate emergency case. If there is a female bystander
 or passerby, she should assist the male bystander in the resuscitation
-in any way possible. The female bystander can also be a witness too.
+in any way possible. The female bystander can also be a witness too.</p>
+<p>
 <br>~ <em>Ustaz Syed Nasir Omar, a religious leader with AlFahmi Services</em>
 </p>
 </div>

@@ -19,11 +19,11 @@ third_nav_title: Community Responsiveness
 <p>UPEC recognises the importance of proactive engagement with the community
 and strives to strengthen local connections through close collaboration
 with our partners to create lasting positive impacts. By engaging directly
-with the members of public, we not only raise awareness about CPR+AED but
-also foster a sense of unity and shared responsibility. This outreach enables
-us to work hand in hand with various agencies - such as the Ministry of
-Home Affairs' SGSecure, SAFRA's Total Defence engagement, and the People's
-Association's Community Resilience Day - to drive meaningful change across
+with the members of the public, we not only raise awareness about CPR+AED
+but also foster a sense of unity and shared responsibility. This outreach
+enables us to work hand in hand with various agencies — such as the Ministry
+of Home Affairs' SGSecure, SAFRA's Total Defence engagement, and the People's
+Association's Community Resilience Day — to drive meaningful change across
 Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_08.png">
@@ -44,12 +44,12 @@ Singapore.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_04.png">
 </div>
 <p><strong><u>CPR Gamification</u></strong>
-<br>Learning lifesaving skill can be fun with the QCPR Race. Participants
-practice effective chest compressions through gamification - better chest
-compressions make the on-screen ambulance reaches the finishing line faster
-- helping participants realise that quality, not speed, matters in life-saving.
+<br>Learning lifesaving skills can be fun with the QCPR Race. Participants
+practice effective chest compressions through gamification — better chest
+compressions drive the on-screen ambulance to the finishing line faster
+— helping participants to realise that quality, not speed, matters in life-saving.
 Our QCPR Race booth has reached out to events at Science Centre Singapore,
-Woodlands Health and Alexandra Hospital's family days, People's Association's
+Woodlands Health and Alexandra Hospital's family days, and People's Association's
 Community Resilience Days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community Responsiveness/ISOMER_2_07.png">

@@ -105,9 +105,9 @@ in the DARE programme during community centre sessions.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Primary &amp; Secondary Schools</div>
-<div class="isomer-card-description">Collaboration with Ministry of Education provides hands-on CPR+AED training
-to Secondary One student, with theory-based knowledge included in Primary
-Five’s Health Education.</div>
+<div class="isomer-card-description">Collaboration with the Ministry of Education provides hands-on CPR+AED
+training to Secondary One students, with theory-based knowledge included
+in Primary Five’s Health Education.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -118,9 +118,9 @@ Five’s Health Education.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Migrant Domestic Workers</div>
-<div class="isomer-card-description">With support from the Ministry of Manpower, first-time migrant domestic
+<div class="isomer-card-description">With support from the Ministry of Manpower (MOM), first-time migrant domestic
 workers will receive a brief CPR+AED introduction as part of their Settling-In
-Programme to better support Singapore’s aging population.</div>
+Programme to better support Singapore’s ageing population.</div>
 </div>
 </div>
 </div>

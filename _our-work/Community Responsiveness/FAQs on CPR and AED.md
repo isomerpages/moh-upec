@@ -141,12 +141,11 @@ person's back to provide a firm surface.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>Stop when
-<br>- The person starts to wake up/move/respond
-<br>- Someone else comes to help, and you can take turns to give CPR
+<br>- The person starts to wake up/move/respond.
+<br>- Someone else comes to help, and you can take turns to give CPR.
 <br>- Someone with more advanced training arrives to take over (e.g. the ambulance
-paramedic)
-<br>- You are too exhausted to continue or it is dangerous for you to continue <em>(resume as soon as you are able to)</em>
-</p>
+paramedic).
+<br>- You are too exhausted to continue or it is dangerous for you to continue <em>(resume as soon as you can)</em>.</p>
 </div>
 </details>
 <details class="isomer-details">

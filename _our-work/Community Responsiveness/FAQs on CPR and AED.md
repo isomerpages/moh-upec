@@ -122,11 +122,11 @@ and training which the medical professional possesses.</p>
 <p><strong>A:</strong> Even some healthcare providers have a hard time telling
 if there is a pulse within 10 seconds. It is better to give CPR to a person
 who is unconscious and not breathing normally, who is highly likely to
-be in cardiac arrest, than to not give CPR to someone who needs it.</p>
+be in cardiac arrest, than not to give CPR to someone who needs it.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: If I find a person on a bed, should I move him/her to the floor so that I have a hard surface under her back?</strong>
+<summary><strong>Q: If I find a person on a bed, should I move him/her to the floor so that I have a hard surface under their back?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>If you can, quickly move the person to a firm surface

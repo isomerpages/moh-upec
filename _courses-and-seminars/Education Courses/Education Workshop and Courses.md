@@ -42,14 +42,14 @@ Out-of-Hospital Cardiac Arrest (OHCA) survival rates.</p>
 <img style="width: 50%;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
 </div>
 <p>The series of Emergency Medical Services (EMS) Medical Directors’ Courses
-are the localized version of the NAEMSP Medical Directors Course. It aims
-to enhance the participants’ expertise in EMS issues. It provides an overview
-of elements that run the range and depth of issues vital to EMS.</p>
+is the localised version of the NAEMSP Medical Directors Course. It aims
+to enhance the participants’ expertise in EMS issues. It also provides
+an overview of elements that run the range and depth of topics vital to
+EMS.</p>
 <p></p>
 <p>Originating from the National EMS Medical Directors Course &amp; Practicum
-by the National Association of EMS Physicians (NAEMSP), the EMS Medical
-Director course is accredited by the Asia Association in EMS (AAEMS) in
-Asia.</p>
+by the National Association of EMS Physicians (NAEMSP), the <strong>EMS Medical Director Course</strong> is
+accredited by the Asia Association in EMS (AAEMS) in Asia.</p>
 <p></p>
 <p>The EMS Medical Directors’ Course can be divided into three sub-categories:</p>
 <ol data-tight="true" class="tight">
@@ -63,9 +63,9 @@ Course.</p>
 knowledge for medical directors of EAS.</p>
 </li>
 <li>
-<p>EMS Leadership for SCDF Commanders – With the increasing demand of the
-national EMS, firemen from SCDF are cross-trained as EMTs. This course
-offers commanders from SCDF an oversight of EMS.</p>
+<p>EMS Leadership for SCDF Commanders – With the increasing demand for national
+EMS, SCDF firemen are cross-trained as EMTs. This course offers SCDF commanders
+an oversight of EMS.</p>
 </li>
 </ol>
 <p></p>
@@ -115,8 +115,9 @@ offers commanders from SCDF an oversight of EMS.</p>
 </tr>
 </tbody>
 </table>
-<p>Since COVID-19, UPEC organised a hybrid of the Basic &amp; Advanced combined
-course, which include e-learning and physical sessions.</p>
+<p>Since the COVID-19 pandemic, UPEC has organised a hybrid version of the
+Basic &amp; Advanced combined course, which includes e-learning and physical
+sessions.</p>
 </div>
 </details>
 <details class="isomer-details">

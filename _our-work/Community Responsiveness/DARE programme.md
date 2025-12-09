@@ -142,7 +142,7 @@ Programme to better support Singapore’s ageing population.</div>
 <p>2014</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• started DARE in primary and secondary school</p>
+<p>• Started DARE in primary and secondary school</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ Programme to better support Singapore’s ageing population.</div>
 <p>2015</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• expanded DARE to 6 constituencies <em>(ie. Bedok, Bt. Panjang, CCK, Pasir Ris West and Radin Mas)</em>
+<p>• Expanded DARE to 6 constituencies <em>(i.e. Bedok, Bt. Panjang, Choa Chu Kang, Pasir Ris West and Radin Mas)</em>
 </p>
 </td>
 </tr>
@@ -159,8 +159,10 @@ Programme to better support Singapore’s ageing population.</div>
 <p>2017</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• CPR+AED education in MOE primary and secondary schools
-<br>• Train-the-Trainer (TTT) to SCDF Officers for CEPP public runs
+<p>• CPR+AED education in the Ministry of Education primary and secondary
+schools
+<br>• Train-the-Trainer (TTT) to SCDF Officers for Community Emergency Preparedness
+Programme (CEPP) public runs
 <br>• DARE in ITE Orientation Programme for year one students
 <br>• Higher demand for DARE with the 'Safe-A-Life' initiative</p>
 </td>
@@ -180,7 +182,7 @@ Programme to better support Singapore’s ageing population.</div>
 <p>2019</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Collaboration with MHA’s SGSecure office <em>(ie. SGSecure Roadshows)</em>
+<p>• Collaboration with MHA’s SGSecure office <em>(i.e. SGSecure Roadshows)</em>
 </p>
 </td>
 </tr>
@@ -189,7 +191,7 @@ Programme to better support Singapore’s ageing population.</div>
 <p>2021</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>• Introduction to virtual DARE and TTT <em>(covid-19)</em>
+<p>• Introduction to virtual DARE and TTT <em>(COVID-19)</em>
 </p>
 </td>
 </tr>
@@ -199,8 +201,9 @@ Programme to better support Singapore’s ageing population.</div>
 </td>
 <td rowspan="1" colspan="3">
 <p>• Introduction to the enhanced DARE <em>(inclusion of Child+Infant CPR)</em>
-<br>• Collaboration with NLB for regular DARE sessions
-<br>• Collaboration with MOM in Migrant Domestic Workers' Settling-In Programme&nbsp;&nbsp;</p>
+<br>• Collaboration with the National Library Board for regular DARE sessions
+<br>• Collaboration with MOM in the Migrant Domestic Workers' Settling-In
+Programme&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>

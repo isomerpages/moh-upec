@@ -231,18 +231,18 @@ harm when used on a pregnant victim.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: What are the dangers the participants must critically take note before the use of AED?</strong>
+<summary><strong>Q: What are the dangers the participants must critically take note of before using an AED?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>Participants should take care of personal safety in
 the environment, and also be aware of potential hazards related to the
 transmission of electricity if an AED shock needs to be delivered. For
 example, the patient should be wiped down as best as you can if he/she
-is rescued from a swimming pool and also the shock should not be delivered
-in an environment with an active gas leakage. Also precautions should be
-taken if the patient is lying down on a metal surface as a small amount
-of electrical energy may be transmitted via the metal surface. Ensure that
-you are wearing shoes and avoid barefoot contact.</p>
+is rescued from a swimming pool; shock should not be delivered in an environment
+with an active gas leakage; precautions should be taken if the patient
+is lying down on a metal surface as a small amount of electrical energy
+may be transmitted via the metal surface; and ensure that you are wearing
+shoes and avoid barefoot contact.</p>
 </div>
 </details>
 </div>

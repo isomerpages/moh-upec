@@ -153,11 +153,10 @@ paramedic).
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Any attempt at CPR is better than no attempt. Chest
-compression only CPR performed by a bystander has been shown to be as effective
-as conventional CPR with mouth-to-mouth ventilation in the first few minutes
-of an out-of-hospital sudden cardiac arrest. For bystanders who are not
-willing/able to perform ventilations, chest compression only CPR is a good
-alternative.</p>
+compression-only CPR performed by a bystander is as effective as conventional
+CPR with mouth-to-mouth ventilation in the first few minutes of an out-of-hospital
+sudden cardiac arrest. For bystanders who are not willing/able to perform
+ventilations, chest compression-only CPR is a good alternative.</p>
 </div>
 </details>
 <details class="isomer-details">

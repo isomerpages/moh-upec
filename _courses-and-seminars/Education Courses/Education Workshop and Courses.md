@@ -245,12 +245,12 @@ by UPEC in 2019.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Tactical Combat Casualty Care (TCCC) is developed by the U.S. Department
-of Defense, Defense Health Agency (DHA) Joint Trauma System to teach evidence-based,
-life-saving techniques and strategies for providing the best trauma care
-on the battlefield. Tactical Emergency Casualty Care (TECC) course teaches
-EMS practitioners and other pre-hospital providers how to respond to and
-care for patients in a civilian tactical environment.</p>
+<p>Tactical Combat Casualty Care (TCCC) was developed by the U.S. Department
+of Defense and the Joint Trauma System of the Defense Health Agency (DHA)
+to teach evidence-based, life-saving techniques and strategies to provide
+the best trauma care on the battlefield. The Tactical Emergency Casualty
+Care (TECC) course teaches EMS practitioners and other pre-hospital providers
+how to respond to and care for patients in a civilian tactical environment.</p>
 <p></p>
 <p>Authorised Training Centres for TCCC &amp; TECC:</p>
 <ul data-tight="true" class="tight">

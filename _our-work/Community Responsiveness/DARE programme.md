@@ -11,34 +11,34 @@ third_nav_title: Community Responsiveness
 </div>
 <p>The <strong>Dispatcher-Assisted first REsponder (DARE) programme</strong> is
 an initiative fully funded by Singapore's Ministry of Health (MOH) and
-implemented by UPEC to strengthen responsiveness for medical emergencies
+implemented by UPEC to strengthen responsiveness to medical emergencies
 and to raise the level of preparedness in the community. Sudden cardiac
-arrest is a medical emergency that requires immediate response. Such necessary
-response can be carried out by anyone and that is the key message which
-the DARE programme aims to deliver during the training.</p>
+arrest is a medical emergency that requires immediate response. The key
+message the DARE programme aims to deliver during the training is that
+anyone can provide the necessary actions to save a life.</p>
 <p>DARE is a 45-minute programme comprising training through educational
-video and practical session without technical terminologies. This is a
-simplified programme without certification. Participants are taught how
-to respond when they witness a cardiac arrest an guide them through step-by-step
+videos and a practical session without technical terminologies. This is
+a simplified programme without certification. Participants are taught how
+to respond when they witness a cardiac arrest and are guided through step-by-step
 instructions. The key messages are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Call 995 and stay on the line (on how to co-operate with the 995 specialist)</p>
+<p>Call 995 and stay on the line (on how to cooperate with the 995 specialist)</p>
 </li>
 <li>
-<p>Push hard and fast (perform simplified CPR (CardioPulmonary Resuscitation)</p>
+<p>Push hard and fast (perform simplified CPR (CardioPulmonary Resuscitation))</p>
 </li>
 <li>
 <p>Use an AED (Automated External Defibrillator)</p>
 </li>
 </ul>
-<p>Over 100,000 persons ranging from primary school age children to elders
+<p>Over 100,000 people, ranging from primary school-age children to elders,
 have benefitted from the DARE programme, at no cost to participants.</p>
-<p>The minimum and maximum class size are 20 and 80 pax respectively per
-training session. For organisations which are keen on the programme, our
-DARE team could work with their staff in-charge to confirm the training
-site and requirements. Multiple training sessions could be planned in advance
-based on the availability of staff and training site (usually conference
+<p>The minimum and maximum class sizes are 20 and 80 pax, respectively, per
+training session. For organisations that are keen on the programme, our
+DARE team can work with their staff in charge to confirm the training site
+and requirements. Multiple training sessions can be scheduled in advance
+based on the availability of staff and the training site (usually a conference
 room/training room).</p>
 <p><a href="/sign-up-for-dare/" rel="noopener nofollow" target="_blank">CLICK HERE TO SIGN UP FOR DARE TRAINING</a>
 </p>

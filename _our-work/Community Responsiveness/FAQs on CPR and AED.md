@@ -160,11 +160,11 @@ ventilations, chest compression-only CPR is a good alternative.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: If the victim is gasping for air and do I still continue CPR?</strong>
+<summary><strong>Q: If the victim is gasping for air, do I continue CPR?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>A:</strong> Gasping is considered as not normal breathing. Please
-start CPR as soon as possible.</p>
+<p><strong>A:</strong> Gasping is not normal breathing. Please start CPR as
+soon as possible.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -172,7 +172,7 @@ start CPR as soon as possible.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A:</strong> Yes! The steps to perform CPR are the same. Chest compressions
-are performed at the center of victim’s chest (lower half of sternum bone)
+are performed at the centre of the victim’s chest (lower half of sternum)
 and not at the abdomen.</p>
 </div>
 </details>

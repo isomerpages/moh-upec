@@ -185,15 +185,15 @@ and not at the abdomen.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>All government sports facilities (e.g. sports stadiums
-and gyms), most government facilities (e.g. fire stations and police stations,
+and gyms), most government facilities (e.g. fire stations, police stations,
 prison link centres, military camps and schools), most major tourist attractions,
 MRT stations, shopping centres, hotels and country clubs are equipped with
 AEDs. There is an ongoing pilot program where AEDs are installed at the
 lift lobby in every 2-3 HDB blocks.&nbsp;</p>
 <p>These AEDs are accessible to anyone who needs them. All laypersons are
-allowed to use them, but undergoing CPR/AED training is highly encouraged
-as it will help you to be familiar with them and use it when it is needed.
-Download the “myResponder” mobile application where there is a function
+allowed to use them, but undergoing CPR/AED training is highly encouraged,
+as it will help you to be familiar with them and use them when needed.
+Download the “myResponder” mobile application, where there is a function
 that allows you to search for an AED near you.</p>
 </div>
 </details>

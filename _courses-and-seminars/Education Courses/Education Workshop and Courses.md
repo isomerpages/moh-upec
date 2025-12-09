@@ -19,16 +19,16 @@ third_nav_title: Education Courses
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/resuscitation_academy_photo.jpg">
 </div>
-<p>UPEC organized the first Resuscitation Academy Leadership Course in Southeast
+<p>UPEC organised the first Resuscitation Academy Leadership Course in Southeast
 Asia in 2016. This two-day program introduces EMS leaders to the 10 steps
-for improving survival rates from cardiac arrest. Participants have the
+for improving survival rates for cardiac arrest. Participants have the
 opportunity to learn from renowned faculty with proven expertise in leading
 successful resuscitation improvement initiatives, network with EMS leaders
-from systems around the globe, and access comprehensive support materials.</p>
+from global systems, and access comprehensive support materials.</p>
 <p></p>
-<p>Over the years, our UPEC Resuscitation Academy team has organized both
+<p>Over the years, our UPEC Resuscitation Academy team has organised both
 local and international courses, supporting EMS in the region to improve
-out-of-hospital cardiac arrest (OHCA) survival rates.</p>
+Out-of-Hospital Cardiac Arrest (OHCA) survival rates.</p>
 <p></p>
 <p>For more details: <a rel="noopener noreferrer nofollow" target="_blank">https://www.resuscitationacademy.org/leadership-workshop</a>
 </p>

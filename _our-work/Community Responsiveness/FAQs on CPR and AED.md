@@ -198,15 +198,16 @@ that allows you to search for an AED near you.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: For conventional certified AED-providers, previously they are taught that, after AED rhythm analysis if no shock is advised, they should check for normal breathing. If there is no normal breathing, to start CPR. For the DARE programme, are bystanders told to check for normal breathing?</strong>
+<summary><strong>Q: For conventional certified AED-providers, previously, they were taught that, after AED rhythm analysis, if no shock is advised, they should check for normal breathing. If there is no normal breathing, start CPR. For the DARE programme, are bystanders told to check for normal breathing?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>A: </strong>In DARE training, minimum interruption to chest compressions
-is emphasised. The appropriate time to check for normal breathing is the
-beginning, when the dispatcher asks to confirm lack of responsiveness and
-normal breathing, as well as during AED rhythm analysis. If there are still
-no normal breathing observed and no shock is advised, immediately begin
-chest compression.&nbsp;
+is emphasised. The appropriate time to check for normal breathing is at
+the beginning, when the dispatcher asks to confirm the lack of responsiveness
+and normal breathing, as well as during AED rhythm analysis. If there is
+still no normal breathing observed and no shock is advised, immediately
+begin chest compression.</p>
+<p>
 <br>~ <em>Dr Francis Lee, Head of Defibrillation Committee, National Resuscitation Council, Senior Consultant at Khoo Teck Puat Hospital</em>
 </p>
 </div>

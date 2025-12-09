@@ -29,11 +29,12 @@ in any way possible. The female bystander can also be a witness too.</p>
 <summary><strong>Q: Should a female bystander who has no experience in healthcare attempt to resuscitate the SCA victim who may be bigger in size than her?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>A: </strong>Yes we encourage female bystanders to dare to save
-a heart even if they are not medically trained or are physically small.
+<p><strong>A: </strong>Yes, we encourage female bystanders to dare to save
+a heart, even if they are not medically trained or are physically small.
 Anybody can call 995. Any chest compression is better than none at all.
 Anyone can use an AED as the voice prompts are clear. Do not be afraid
-just because you are female; you are equally capable of initiating resuscitation.
+just because you are female; you are equally capable of initiating resuscitation.</p>
+<p>
 <br>~ <em>Dr Karen Soh, Immediate Past President of the Association of Women Doctors, Singapore</em>
 </p>
 </div>

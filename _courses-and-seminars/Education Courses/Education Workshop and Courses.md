@@ -372,8 +372,8 @@ For more information on this national workgroup, please click <a href="http://up
 </div>
 <p><strong>The next National Pre-hospital Emergency Care Workshop will be held on 16 June 2025.</strong>
 </p>
-<p>This workshop is designed for practicing pre-hospital care practitioners
-and will focus on updates to the assessment model aligned with the latest
+<p>This workshop is designed for practising pre-hospital care practitioners.
+It will focus on updates to the assessment model aligned with the latest
 edition of <em>Emergency Care in the Streets (9th ed.)</em>.</p>
 <p>Participants will have the opportunity to refresh and enhance their assessment
 knowledge and clinical skills through a series of lectures and hands-on
@@ -383,15 +383,16 @@ skill stations.</p>
 </p>
 <p>This session highlights the importance of scene safety and its influence
 on patient presentation. It also introduces the updated approach to the
-Primary Survey, emphasizing the ABCDE framework recommended in the latest
+Primary Survey, emphasising the ABCDE framework recommended in the latest
 paramedic textbook.</p>
 <hr>
 <p><strong>Lecture 2: History Taking and Secondary Assessment</strong>
 </p>
 <p>Participants will learn to conduct comprehensive history taking using
 the mnemonics SAMPLE and LOTARPS, paired with physical assessments. The
-lecture reinforces interpreting vital signs alongside clinical findings
-and history, and stresses the importance of continuous reassessment.</p>
+lecture reinforces the interpretation of vital signs in conjunction with
+clinical findings and history, and emphasises the importance of continuous
+reassessment.</p>
 <hr>
 <p><strong>Lecture 3: Handover and Documentation</strong>
 </p>
@@ -406,8 +407,8 @@ under the guidance of experienced facilitators.</p>
 <hr>
 <p><strong>Skill Station 2: History Taking and Secondary Assessment</strong>
 </p>
-<p>This station provides hands-on practice in patient history taking and
-physical assessment, with facilitator feedback.</p>
+<p>This station provides hands-on practice for patient history taking and
+physical assessment, accompanied by facilitator feedback.</p>
 <p></p>
 <p><strong>To register</strong>, please visit: <a href="https://form.gov.sg/6826e59c810acfbebcb5e373" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6826e59c810acfbebcb5e373</a>
 </p>

@@ -35,31 +35,32 @@ Out-of-Hospital Cardiac Arrest (OHCA) survival rates.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Emergency Medical Services (EMS) Medical Directors’ Course</strong>
+<summary><strong>Emergency Medical Services (EMS) Medical Directors Course</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="317" width="576" title="EMS_Medical-Director-Course" alt="" src="https://upec.rawmix.xyz/wp-content/uploads/2019/12/EMS_Medical-Director-Course.jpg">
 </div>
-<p>The series of Emergency Medical Services (EMS) Medical Directors’ Courses
+<p>The series of Emergency Medical Services (EMS) Medical Directors Courses
 is the localised version of the NAEMSP Medical Directors Course. It aims
 to enhance the participants’ expertise in EMS issues. It also provides
 an overview of elements that run the range and depth of topics vital to
 EMS.</p>
 <p></p>
 <p>Originating from the National EMS Medical Directors Course &amp; Practicum
-by the National Association of EMS Physicians (NAEMSP), the <strong>EMS Medical Director course</strong> is
-accredited by the Asia Association in EMS (AAEMS) in Asia.</p>
+by the National Association of EMS Physicians (NAEMSP), the EMS Medical
+Director course is accredited by the Asia Association in EMS (AAEMS) in
+Asia.</p>
 <p></p>
-<p>The EMS Medical Directors’ Course can be divided into three sub-categories:</p>
+<p>The EMS Medical Directors Course can be divided into three sub-categories:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>EMS Medical Directors’ Course – An entry course for medical directors
-for both EAS and MTS. A prerequisite for the Advanced EMS Medical Directors’
+<p>EMS Medical Directors Course – An entry course for medical directors for
+both EAS and MTS. A prerequisite for the Advanced EMS Medical Directors
 Course.</p>
 </li>
 <li>
-<p>Advanced EMS Medical Directors’ Course – This course provides advanced
+<p>Advanced EMS Medical Directors Course – This course provides advanced
 knowledge for medical directors of EAS.</p>
 </li>
 <li>
@@ -77,7 +78,7 @@ an oversight of EMS.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>EMS Medical Directors’ Course</strong>
+<p><strong>EMS Medical Directors Course</strong>
 </p>
 </td>
 </tr>
@@ -184,7 +185,7 @@ centres in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>PHTLS for First Responders (PHTLS-FR) adapts the world-class trauma care
+<p>PHTLS for First Responders (PHTLS FR) adapts the world-class trauma care
 content from the 9th edition of PHTLS and delivers it in a style that is
 relevant to and accessible by first responders and EMTs.</p>
 <p>Authorised Training Centres for PHTLS FR:</p>

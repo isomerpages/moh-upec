@@ -16,7 +16,7 @@ Pre-hospital Emergency Care (UPEC).</p>
 <p><strong>Foreword by Clinical Director</strong>
 </p>
 <p>Our vision is for Singapore to possess a world-class PEC system that is
-readily accessible to all and provides excellent patient outcomes. To achieve
+readily accessible to all and provide excellent patient outcomes. To achieve
 this, we need to develop a coherent and viable framework for inter-agency
 collaboration and coordination in the long-term development of PEC in Singapore,
 promote public responsiveness in pre-hospital emergencies, strengthen Singapore’s

@@ -14,17 +14,17 @@ third_nav_title: PEC Data & Analysis
 <p>Initiated island-wide on August 5, 2024.</p>
 </li>
 <li>
-<p>A collaboration between Unit for Pre-hospital Emergency Care (UPEC), Singapore
-Civil Defence Force (SCDF) and Laerdal Medical.</p>
+<p>A collaboration between the Unit for Pre-hospital Emergency Care (UPEC),
+Singapore Civil Defence Force (SCDF) and Laerdal Medical.</p>
 </li>
 <li>
 <p>Enhances dispatcher-assisted CPR teamwork between the dispatcher and the
 community first responder.</p>
 </li>
 <li>
-<p>SCDF dispatcher can see responder’s CPR performance and quality via video
-and compression data in real-time, empowering them to coach the responder
-better.</p>
+<p>The SCDF dispatcher can enhance the quality of the responder’s CPR performance
+via video while collecting compression data in real-time, empowering them
+to coach the responder better.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -36,8 +36,8 @@ better.</p>
 app, accepts the case and launches the TCPR Link app.</p>
 </li>
 <li>
-<p>The myResponder arrives at scene, switches on the CPRcard and starts CPR
-on the victim.</p>
+<p>The myResponder arrives at the scene, switches on the CPRcard and starts
+CPR on the victim.</p>
 </li>
 <li>
 <p>The myResponder will be able to view his/her compression performance via

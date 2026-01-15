@@ -34,13 +34,14 @@ atypical cases safely and effectively.</p>
 <li>
 <p>Enable Alternate Models of Care: The system also supports innovative care
 strategies, such as "treat and release" or redirecting non-acute patients
-to more appropriate care settings. This flexibility allows for more efficient
+to more appropriate care settings. This flexibility increases the efficient
 use of resources and ensures patients receive the most suitable level of
 care.</p>
 </li>
 </ul>
 <p>By integrating online medical control into emergency medical services,
-SCDF paramedics benefit from enhanced decision-making support, improving
-patient outcomes and strengthening the overall prehospital care framework.</p>
+SCDF paramedics benefit from enhanced decision-making support, which helps
+to improve patient outcomes and strengthen the overall pre-hospital care
+framework.</p>
 <p></p>
 <p></p>

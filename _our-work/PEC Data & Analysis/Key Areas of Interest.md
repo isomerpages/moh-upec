@@ -55,7 +55,7 @@ for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 <p>Ambulance diversion and ED overcrowding.</p>
 </li>
 <li>
-<p>Optimizing AED placements.</p>
+<p>Optimising AED placements.</p>
 </li>
 <li>
 <p>National CPR/AED Survey.</p>

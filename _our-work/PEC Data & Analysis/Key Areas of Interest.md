@@ -8,7 +8,7 @@ third_nav_title: PEC Data & Analysis
 <h2>Key Areas of Interest</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Out-of-hospital cardiac arrest (OHCA): CPR, AED and community-based interventions.</p>
+<p>Out-of-Hospital Cardiac Arrest (OHCA): CPR, AED and community-based interventions.</p>
 </li>
 <li>
 <p>Post-OHCA care</p>
@@ -37,7 +37,7 @@ third_nav_title: PEC Data & Analysis
 </ol>
 <hr>
 <h2>List of Projects</h2>
-<h3>Current and On-going Projects</h3>
+<h3>Current and Ongoing Projects</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Bystander CPR and survival in six regions of Singapore saturated with

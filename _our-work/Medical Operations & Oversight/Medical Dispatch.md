@@ -17,9 +17,9 @@ third_nav_title: Medical Operations & Oversight
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/img_4133.jpg">
 </div>
 <p>One of our key achievements was the collaboration between the Singapore
-Civil Defence Force (SCDF) and the Ministry of Health (MOH) to place medical
-nurses in the SCDF operations center to assist with emergency calls. In
-addition to providing medical advice over the phone, the team has supported
+Civil Defence Force (SCDF) and the Ministry of Health (MOH) to station
+medical nurses in the SCDF operations centre to assist with emergency calls.
+In addition to providing medical advice over the phone, the team has supported
 the implementation of the Dispatcher-Assisted CPR (DA-CPR) and telephone
 triage protocols.</p>
 <p></p>
@@ -34,9 +34,9 @@ defibrillation.</p>
 </p>
 <p>The implementation of the telephone triage system at the Singapore Civil
 Defence Force (SCDF) marked a significant step in enhancing emergency response
-capabilities. By integrating dispatch nurses into the SCDF operations center,
+capabilities. By integrating dispatch nurses into the SCDF operations centre,
 the team played a pivotal role in refining and executing this system. The
-triage system allows dispatchers to assess emergency situations more effectively
+triage system allows dispatchers to assess emergencies more effectively
 over the phone, ensuring that the appropriate level of care is delivered
-in a timely manner.</p>
+promptly.</p>
 <p></p>

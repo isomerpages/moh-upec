@@ -31,7 +31,7 @@ sections:
       title: Medical Operations and Oversight
       id: infobar
       description: Coordination of PEC resources and partners to improve OHCA survival
-        and EMS demand
+        and EMS demand.
       button: Learn More
       url: our-work/medical-operations-and-oversight/medicaloperationsandoversight/
   - infobar:

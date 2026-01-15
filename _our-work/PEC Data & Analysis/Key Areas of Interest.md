@@ -64,7 +64,7 @@ for <u>C</u>ardiac arrest in <u>S</u>ingapore (MEDICS).</p>
 <h3>Completed Projects</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>A prospective randomized controlled trial to explore the effectiveness
+<p>A prospective randomised controlled trial to explore the effectiveness
 of a new approach to teaching community CPR+AED: the “RESTART A HEART”
 programme.</p>
 </li>
@@ -77,8 +77,8 @@ interval for a simplified community-based training.</p>
 Automated External Defibrillator (AED).</p>
 </li>
 <li>
-<p>Survey for myResponder app users: Exploring community CPR responders’
-OHCA experience and needs.</p>
+<p>Survey for myResponder app users: explores community responders' OHCA
+case experience and CPR+AED training needs (such as refresher classes).</p>
 </li>
 <li>
 <p>The Association of Gender with Cardiopulmonary Resuscitation Performance,
@@ -88,12 +88,12 @@ Knowledge, and Attitudes amongst Laypersons.</p>
 <p>AED-On-Wheels: Learning from Driver Feedback and public’s perspectives.</p>
 </li>
 <li>
-<p>Evaluation of Save-A-life Initiative.</p>
+<p>Evaluation of Save-A-Life Initiative.</p>
 </li>
 <li>
-<p>Comparative study on quality of CPR by first responder through video assisted
-coaching versus video assisted coaching using real-time feedback with a
-CPRcard™.</p>
+<p>Comparative study on the quality of CPR by the first responder through
+video-assisted coaching versus video-assisted coaching using real-time
+feedback with a CPRcard™.</p>
 </li>
 </ol>
 <p></p>

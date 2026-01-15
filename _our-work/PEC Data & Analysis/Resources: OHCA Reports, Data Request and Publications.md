@@ -6,9 +6,9 @@ description: ""
 third_nav_title: PEC Data & Analysis
 ---
 <h2>OHCA Data Reports (Yearly)</h2>
-<p>OHCA data reports are free to download and use. Kindly reference and cite
-to it using the suggested citations contained in the individual reports
-after the acknowledgment section.</p>
+<p>OHCA data reports are free for download and use. Kindly reference and
+cite it using the suggested citations contained in the individual reports
+after the acknowledgement section.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2021____FINAL.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2021 Report" src="/images/2021_data_report.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2021 OHCA Data Report</div><div class="isomer-card-link">Download here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d583zrq8vbx3s.amplifyapp.com/files/OHCA_Data_Report__2011_2020____ver__May_12_2022___FINAL.pdf" class="isomer-card">
 <div class="isomer-card-image">
@@ -49,9 +49,9 @@ after the acknowledgment section.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/data.jpg">
 </div>
 <h2>Request for Pre-hospital Data</h2>
-<p>Researchers from Singapore hospital institutions working on studies requiring
-pre-hospital data, kindly download the required form below and submit the
-completed data request form to Ms Asyikin via email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
+<p>Researchers from Singapore hospital institutions working on studies that
+require pre-hospital data, download and submit the completed data request
+form to Ms Asyikin via email at <a href="mailto:nurul.asyikin.mohd.jalil@upec.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.asyikin.mohd.jalil@upec.sg</a> for
 processing.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -148,7 +148,7 @@ All email responses will be within 3 working days.</p>
 <h3>Published Abstracts</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Click dropdown for the list</summary>
+<summary>Click the dropdown for the list</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://emj.bmj.com/content/34/12/A889.1" rel="noopener noreferrer nofollow" target="_blank">Assessing factors affecting the quality of chest compressions during training for laypersons using a novel CPRcard</a>
 </p>

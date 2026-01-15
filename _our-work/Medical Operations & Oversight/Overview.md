@@ -24,6 +24,6 @@ Key Responsibilities of UPEC:
     * This focus on continuous quality improvement helps maintain high standards of care and adapts to evolving medical knowledge and technologies.
 
 Contributions of UPEC:
-* Enhanced Patient Safety: By standardizing practices and ensuring compliance with clinical guidelines, UPEC minimizes errors and improves patient outcomes during emergencies.
+* Enhanced Patient Safety: By standardising practices and ensuring compliance with clinical guidelines, UPEC minimises errors and improves patient outcomes during emergencies.
 * Strengthened Inter-Agency Collaboration: UPEC's leadership fosters seamless coordination among various agencies, ensuring a cohesive response to emergencies.
-* Effective Management of PEC System: Through governance, oversight, and quality assurance, UPEC ensures that Singapore's prehospital emergency care system remains efficient, responsive, and patient-centered.
+* Effective Management of PEC System: Through governance, oversight, and quality assurance, UPEC ensures that Singapore's pre-hospital emergency care system remains efficient, responsive, and patient-centred.

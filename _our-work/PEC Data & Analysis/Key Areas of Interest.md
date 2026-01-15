@@ -85,7 +85,7 @@ case experience and CPR+AED training needs (such as refresher classes).</p>
 Knowledge, and Attitudes amongst Laypersons.</p>
 </li>
 <li>
-<p>AED-On-Wheels: Learning from Driver Feedback and public’s perspectives.</p>
+<p>AED-On-Wheels: Learning from Driver Feedback and the public’s perspectives.</p>
 </li>
 <li>
 <p>Evaluation of Save-A-Life Initiative.</p>

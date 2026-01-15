@@ -148,7 +148,7 @@ All email responses will be within 3 working days.</p>
 <h3>Published Abstracts</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Click the dropdown for the list</summary>
+<summary>Click the dropdown for the list.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://emj.bmj.com/content/34/12/A889.1" rel="noopener noreferrer nofollow" target="_blank">Assessing factors affecting the quality of chest compressions during training for laypersons using a novel CPRcard</a>
 </p>

@@ -7,10 +7,10 @@ third_nav_title: Medical Operations & Oversight
 ---
 <p><strong><u>Development of Clinical Protocols for National EMS</u></strong>
 </p>
-<p>Paramedics are the extended arms of doctors from the hospitals. Critical
-interventions are carried out by SCDF paramedics according to the medical
-protocols. The Unit for Pre-Hospital Emergency Care (UPEC) supports SCDF
-in various phases of clinical protocol development:</p>
+<p>Paramedics are the extended arms of doctors from the hospitals. SCDF paramedics
+execute critical interventions in accordance with medical protocols. The
+Unit for Pre-Hospital Emergency Care (UPEC) supports SCDF in various phases
+of clinical protocol development:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Advising</strong> the Protocol Sub-Committee in reviewing current

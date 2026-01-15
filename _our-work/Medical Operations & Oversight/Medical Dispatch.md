@@ -25,7 +25,7 @@ triage protocols.</p>
 <p></p>
 <p><u>Dispatcher-assisted CPR (DA-CPR) or Telephone CPR (T-CPR)</u>
 </p>
-<p>The DACPR program has been one of the implementations, where dispatchers
+<p>The DACPR program has been one of the implementations where dispatchers
 provide CPR instructions during cardiac arrest calls. The impact of DACPR
 has now extended to encouraging the initiation of bystander CPR and early
 defibrillation.</p>

@@ -37,9 +37,9 @@ sections:
   - infobar:
       title: Policy & Professional Standards
       id: infobar
-      description: We work with MOH on HCSA regulations for EAS and MTS, oversee
-        credentialing of foreign-trained paramedics and EMTs, and implement
-        e-cards to ensure compliance.
+      description: We work with MOH on HCSA implementation for EAS and EMTS, oversee
+        foreign-trained Paramedic and EMT credentialing, and roll out e-cards
+        for compliance.
       button: Learn More
       url: our-work/overview/
   - infobar:
